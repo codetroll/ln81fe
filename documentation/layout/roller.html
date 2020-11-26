@@ -1,0 +1,307 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>LEF | Rollespil</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="css/main.css" />
+
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+
+	</head>
+	
+	<body>
+
+		<!-- Header -->
+		<header id="header">
+
+			<!-- Navigation -->
+			<div class="logo">
+				<div class="navbar">
+					<a href="#1" onclick="openForm()">LOGIN</a>
+					<a href="roller.html">ROLLER</a>
+					<a href="grej.html">GREJ</a>
+					<a href="karakter.html">KARAKTER</a>
+					<a href="regler.html">REGLER</a>
+				</div>
+			</div>
+
+			<!-- login form -->
+			<div class="form-popup" id="myForm">
+			  <form action="/action_page.php" class="form-container">
+				<label for="email">Email</label>
+				<input type="text" placeholder="Enter Email" name="email" required>
+				<label for="psw">Kode</label>
+				<input type="password" placeholder="Enter Password" name="psw" required>
+				<a href="#" class="button" type="submit">Login</a>
+				<a href="#" class="button btn cancel" onclick="closeForm()">Luk</a>
+			  </form>
+			</div>
+
+			<!-- logo -->
+			<div class="leflogo">
+				<a href="index.html">
+					<img width="40px" src="images/lef_new_logo.png" alt=""/>
+				</a>
+			</div>
+
+		</header>
+
+<!-- Main -->
+<section id="main">
+	<div class="inner">
+
+		<!-- Toptile -->
+		<section id="one" class="wrapper style1">
+
+			<div class="image fit">
+				<video autoplay width="100%" >
+				  <source src="video\pagetop.mp4" type="video/mp4">
+				</video>
+			</div>
+			
+		</section>
+
+		<!-- two -->
+		<section id="two" class="wrapper style1">
+
+			<header class="accordion1 special">
+				<h2>Rollebogen</h2>
+				<p>Venner og fjender</p>
+			</header>
+			
+			<div class="accordionpanel">
+
+				<p>Mennesket er den mest udviklede og avancerede troldeart vi kender til. Af alle troldearter er mennesket den mest opfindesomme, samfundskabende og individuelle. Mennesket nedstammer fra hedetrolden, nærmere bestemt Sezrymerne og bebor store dele af Valhel og Suborien. Der findes mennesker af alle typer, her gengives de i meget brede kategorier.</p>
+				
+				<!-- cardgrid -->
+				<div class="content"></div>
+			</div>
+
+		</section>
+
+		<!-- three -->
+		<section id="three" class="wrapper style2">
+
+
+		<header class="accordion2 special">
+		<h2>Mennesker</h2>
+		<p>De menneskelige</p>
+		</header>
+
+			<div class="accordionpanel">
+
+				<p>Mennesket er den mest udviklede og avancerede troldeart vi kender til. Af alle troldearter er mennesket den mest opfindesomme, samfundskabende og individuelle. Mennesket nedstammer fra hedetrolden, nærmere bestemt Sezrymerne og bebor store dele af Valhel og Suborien. Der findes mennesker af alle typer, her gengives de i meget brede kategorier.</p>
+				
+				<!-- cardgrid -->
+				<div class="stack">
+					<grid>
+						
+						<div class="card npc">
+							<div class="cardcontent">
+								<div class="npcName">Godtfolk</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/godtfolk.png" alt="">
+									</div>
+								</div>
+								<div class="npcEffect">Snilde 2</div>
+								<div class="npcEffect">Finte (OMRUL ÉN 1’ER | AUTO</div>
+								<div class="npcEffect">Flugt (FLUGT FRA KAMP | EFFEKTRUL)</div>
+								<div class="npcLine"></div>
+								<div class="npcText">Almindelige mennesker, med almindeligt arbejde, der kan mødes på gaden, kroerne, restauranterne eller teatrene. Almindelige mennesker vil oftest forsøge at flugte fra kampen, med mindre de selv har interesse i at udkæmpe den. Hvis der trækkes våben, vil de fleste almindelige mennesker overgive sig.</div>
+							</div>
+						</div>
+						
+						<div class="card npc">
+							<div class="cardcontent">
+								<div class="npcName">Bølle</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/bolle.png" alt="">
+									</div>
+								</div>
+								<div class="npcEffect">Styrke 4</div>
+								<div class="npcEffect">Finte (OMRUL ÉN 1’ER | AUTO</div>
+								<div class="npcEffect">Grov (LIVSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcLine"></div>
+								<div class="npcText">En uhæderlig, utiltalende, brovten og grov person, der fremstår truende, gerne slår på tæven og er kriminel. De lever i de laveste samfundsklasser og tager sig af det hårde arbejde som at inddrive penge eller arbejde som vagter eller voldsmænd mod betaling. De kan både findes som psykotiske enspændere, som medlemmer af en krinimel bande eller et større forbryderkartel. Det er dog sjældent bøllen, der kommer til tops.</div>
+							</div>
+						</div>						
+
+						<div class="card npc">
+							<div class="cardcontent">
+								<div class="npcName">Betjent</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/posekigger.png" alt="">
+									</div>
+								</div>
+								<div class="npcEffect">Fysik 6</div>
+								<div class="npcEffect">Finte (OMRUL ÉN 1’ER | AUTO</div>
+								<div class="npcEffect">Knippelsuppe (BRUDSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcEffect">Stædig (KRAFTSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcLine"></div>
+								<div class="npcText">Den klassiske gadebetjent, der i de fleste af Valhels stater opretholder almindelig god ro og orden i det offentlige rum, holder opsyn og våger. Betjente er ansat af den lokale magt, adelsmand, borgmester eller byfoged. Betjente har politimyndighed og fungerer også som almindelig udrykningspersonel i Valhels politienheder. Det er også betjente, der fungerer som kriminalassistenter, under en kriminalkommissær ved nærgående politiundersøgelser.</div>
+							</div>
+						</div>
+
+						<div class="card npc">
+							<div class="cardcontent">
+								<div class="npcName">Soldat</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/soldat.png" alt="">
+									</div>
+								</div>
+								<div class="npcEffect">Feltkunst 8</div>
+								<div class="npcEffect">Finte (OMRUL ÉN 1’ER | AUTO</div>
+								<div class="npcEffect">Krigerisk (LIVSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcEffect">Trænet (KRAFTSKADE ALLE | AUTO)</div>
+								<div class="npcLine"></div>
+								<div class="npcText">Den moderne soldat opstod i 1140’erne da, Storregia indførte værnepligten for alle unge borgere. Fortidens ridder var overhalet af Valhels lejesoldater, der snart overgik selv kongernes bedste krigere. Den moderne soldat er mobil og uddannet til at besjere fjenden, besætte et territorium eller på anden måde beskytte borgere og økonomiske ressourcer. I dag har de fleste stater en eller anden form for værnepligt. </div>
+							</div>
+						</div>
+						
+						
+					</grid>
+					
+				</div>
+
+			</div>				
+
+		</section>
+
+
+		<!-- four -->
+		<section id="four" class="wrapper style1">
+
+
+		<header class="accordion1 special">
+		<h2>Trolde</h2>
+		<p>De brutale</p>
+		</header>
+
+			<div class="accordionpanel">
+
+				<p>Alle trolde nedstammer fra urtroldene, som man idag ved var sesrymnerne. Det var sesrymnerne, der fik sjæl og forandrede sig til mere eller mindre individuelle væsner. De spredte sig over store dele af det nordlige suborien, men drog senere til hoddmimer skov, hvor Valhel ligger idag. De udviklede sig i mange retninger og blev til mange forskellige trolde, herunder hedetroldene, der udviklede sig til mennesket. Men mange andre trolde har overlevet i talstærke horder, nogle i bjergene, andre i skovene og atter andre nasser på menneskebyernes ressurser.</p>
+				
+				<!-- cardgrid -->
+				<div class="content">
+					<grid>
+						
+						<div class="card npc">
+							<div class="cardcontent">
+								<div class="npcName">Forkvakling</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/forkvakling.png" alt="">
+									</div>
+								</div>
+								<div class="npcEffect">Snilde 2</div>
+								<div class="npcEffect">Tykhudet (PANSER 5 | AUTO)</div>
+								<div class="npcEffect">Smitte (HELBREDSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcLine"></div>
+								<div class="npcText">De mindste i troldeslægten og måler ikke højere end halvanden meter, lavere end de skæggede umnol. Øjnene er røde og stikkende, huden mørkegrøn med et gustent gult skær og sylespidse tænder i kæften. Lange næser, krogede fingre og sorte klør på hænder og tær. Forkvaklinger bor i huler og i storbyernes kloakker, De er mestre i at bygge fælder og har en tendens til at være overmodige, når de er mange.</div>
+							</div>
+						</div>
+
+						<div class="card npc">
+							<div class="cardcontent">
+								<div class="npcName">Bjergtrold</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/bjergtrold.png" alt="">
+									</div>
+								</div>
+								<div class="npcEffect">Styrke 4</div>
+								<div class="npcEffect">Tykhudet (PANSER 5 | AUTO)</div>
+								<div class="npcEffect">Aggressiv (LIVSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcEffect">Udholden (HELBREDSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcLine"></div>
+								<div class="npcText">Bjergtrolden er den talrigeste blandt alle trolde, store, stærke og med skarpe hugtænder. Nogle er behårede med strid og ildelugtende pels, andre er beklædt med panser af ekstra tykke hudplader. På hænder og fødder har de lange kratige klør og i deres grusomme ansigter stikker to små røde øjne. De klæder sig med besejrede fjenders rustningsdele, våben, tøjdele og smykker. De dyrker deres forfædre som stammeguder og holder til i bjergene.</div>
+							</div>
+						</div>						
+
+						<div class="card npc">
+							<div class="cardcontent">
+								<div class="npcName">Jerntrold</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/jerntrold.png" alt="">
+									</div>
+								</div>
+								<div class="npcEffect">Fysik 6</div>
+								<div class="npcEffect">Tykhudet (PANSER 5 | AUTO)</div>
+								<div class="npcEffect">Aggressiv (LIVSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcEffect">Brutal (BRUDSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcLine"></div>
+								<div class="npcText">Barske og ubarmhjertige med et brændende had til alt og alle. Deres hud er mørkegrå, skallet med hårduske flere steder på den to en halv meter lange krop. De æder deres fjender efter eller under kamp og holder slaver, der må arbejde til de dør af mangel på lys og luft. De blev skabt i fordums tid af onokilautarken Nauglaf af Nakhtring. Som de blev skabt i smerte, fødes de i smerte og bærer smerte i sig hele livet.</div>
+							</div>
+						</div>
+
+						<div class="card npc">
+							<div class="cardcontent">
+								<div class="npcName">Urkil</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/urkil.png" alt="">
+									</div>
+								</div>
+								<div class="npcEffect">Styrke 8</div>
+								<div class="npcEffect">Tykhudet (PANSER 5 | AUTO)</div>
+								<div class="npcEffect">Stærk (BRUDSKADE ALLE | EFFEKTRUL)</div>
+								<div class="npcEffect">krigerisk (LIVSKADE ALLE | AUTO)</div>
+								<div class="npcLine"></div>
+								<div class="npcText">Krigeriske, rå og brutale. Tre meter høje med store hårmanker fra pande til nakke. Øjnene er røde, munden fuld af hugtænder og på hænderne er klørene så hårde som flint. Huden er grov og næsten sort, med ekstra tykke hudlag, der fungerer som panser. Urkil blev skabt af onokilautarken kangorod fra Gnathore, hvor de stadig holder til. Nogle stammer er frie, andre ligger under Gnathores trone.</div>
+							</div>
+						</div>
+			
+					</grid>
+				</div>
+			</div>
+
+		</section>	
+
+	
+	</div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+	
+	<div class="container">
+		<ul class="icons">
+			<a href="https://www.facebook.com/groups/171686449632625/" target="_blank">
+				<li>
+					<i class="fab fa-facebook-square" style="font-size:40px;color:#4267b2;"></i>
+				</li>
+			</a>
+		</ul>
+	</div>
+
+	<div class="copyright">
+		&copy; Levende Eventyr & Fantasi
+		<br>
+		Octavius pages
+	</div>
+	
+</footer>
+
+
+		<!-- Scripts -->
+		<script>
+		function openForm() {
+		  document.getElementById("myForm").style.display = "block";
+		}
+
+		function closeForm() {
+		  document.getElementById("myForm").style.display = "none";
+		}
+		</script>
+
+<script src="assets/js/lefscroll.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,325 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>LEF | Rollespil</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="css/main.css" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous" >
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+
+	</head>
+	
+	<body>
+
+		<!-- Header -->
+		<header id="header">
+
+			<!-- Navigation -->
+			<div class="logo">
+				<div class="navbar">
+					<a href="#1" onclick="openForm()">LOGIN</a>
+					<a href="roller.html">ROLLER</a>
+					<a href="grej.html">GREJ</a>
+					<a href="karakter.html">KARAKTER</a>
+					<a href="regler.html">REGLER</a>
+				</div>
+			</div>
+
+			<!-- login form -->
+			<div class="form-popup" id="myForm">
+			  <form action="/action_page.php" class="form-container">
+				<label for="email">Email</label>
+				<input type="text" placeholder="Enter Email" name="email" required>
+				<label for="psw">Kode</label>
+				<input type="password" placeholder="Enter Password" name="psw" required>
+				<a href="#" class="button" type="submit">Login</a>
+				<a href="#" class="button btn cancel" onclick="closeForm()">Luk</a>
+			  </form>
+			</div>
+
+			<!-- logo -->
+			<div class="leflogo">
+				<a href="index.html">
+					<img width="40px" src="images/lef_new_logo.png" alt=""/>
+				</a>
+			</div>
+
+		</header>
+
+<!-- Main -->
+<section id="main">
+	<div class="inner">
+
+		<!-- Toptile -->
+		<section id="one" class="wrapper style1">
+
+			<div class="image fit">
+				<video autoplay width="100%" >
+				  <source src="video\pagetop.mp4" type="video/mp4">
+				</video>
+			</div>
+			
+		</section>
+
+		<!-- One -->
+		<section id="two" class="wrapper style1">
+
+			<header class="accordion1 special">
+				<h2>Tjenestebogen</h2>
+				<p>Tjenesteydelser og folk</p>
+			</header>
+			
+			<div class="accordionpanel">
+
+				<p>På hospitaler, mindre klinikker, i kirker og større apotekere, kan karakteren få de nyeste og mest effektive metoder til behandling af alverdens lidelser og skader. Behandlingen kan enten foregå gennem almindelig lægebehandling, men udføres også af maskiner, den såkaldte biomat. Det er samme steder, karakteren kan købe de eftertragede farmaka.</p>
+				
+				<!-- cardgrid -->
+				<div class="content"></div>
+			</div>
+
+		</section>
+
+		<!-- Three -->
+		<section id="three" class="wrapper style2">
+
+
+		<header class="accordion2 special">
+		<h2>Det åbne marked</h2>
+		<p>Grej til alt</p>
+		</header>
+
+			<div class="accordionpanel">
+
+				<p>Det åbne marked integrerer det moderne, det populære og det nye indenfor grej og er banebrydende på feltet. Det åbne marked den moderne livsstil og standarden, som bringer dig det mest troværdige grej på markedet fra de bedste producenter. Det åbne marked kan benyttes i alle byer, på markedspladser og handelsstationer. Og husk, al grej på det åbne marked er lovligt i fleste af Valhels stater.</p>
+				
+				<!-- cardgrid -->
+				<div class="stack">
+					<grid>
+						<div class="card item">
+							<div class="itemPriceContainer">
+								<div class="itemPrice">
+									<div class="itemText">10§</div>
+								</div>
+							</div>
+							<div class="cardcontent">
+								<div class="itemName">Beklædning</div>
+								
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/beklædning.png" alt="">
+									</div>
+								</div>
+								<div class="itemEffect">KARISMA OMRUL | AUTO</div>
+								<div class="itemLine"></div>
+								<div class="npcText">Giver et omrul ved fejlrul med karisma. Pænt tøj, modetøj, smykker og lignende. Omfatter alt hvad en karakter kan tage på som beklædning. Spilleren afgør selv stilart og design.</div>
+							</div>
+						</div>
+
+						<div class="card item">
+							<div class="itemPriceContainer">
+								<div class="itemPrice">
+									<div class="itemText">10§</div>
+								</div>
+							</div>
+							<div class="cardcontent">
+								<div class="itemName">Bioboks</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/bioboks.png" alt="">
+									</div>
+								</div>
+								<div class="itemEffect">BIOALKYMI OMRUL | AUTO</div>
+								<div class="itemLine"></div>
+								<div class="npcText">Giver karakteren et omrul ved fejlrul med bioalkymi. Praktisk container med et udvalg af basale og avancerede redskaber til den praktiserende bioalkymist.</div>
+							</div>
+						</div>						
+
+						<div class="card item">
+							<div class="itemPriceContainer">
+								<div class="itemPrice">
+									<div class="itemText">10§</div>
+								</div>
+							</div>
+							<div class="cardcontent">
+								<div class="itemName">Mauerfaust</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/mauerfaust.png" alt="">
+									</div>
+								</div>
+								<div class="itemEffect">PRYGL -1 | KRAFT</div>
+								<div class="itemLine"></div>
+								<div class="npcText">Giver karakteren -1 i prygl mod -1 kraft. Maskinpistol med dobbeltskæfte og stor udskiftelig patrontromle. Fremstilles i sort metal med træskæfte og kolbe.</div>
+							</div>
+						</div>
+
+						<div class="card item">
+							<div class="itemPriceContainer">
+								<div class="itemPrice">
+									<div class="itemText">10§</div>
+								</div>
+							</div>
+							<div class="cardcontent">
+								<div class="itemName">Undersøgegrej</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/undersøgegrej.png" alt="">
+									</div>
+								</div>
+								<div class="itemEffect">SANSE OMRUL | AUTO</div>
+								<div class="itemLine"></div>
+								<div class="npcText">Giver karakteren et omrul ved fejlrul med sanse. Diverse forstørrelsesglas, lygte, kikkert, pincetter, lytteudstyr og kamera. Giver karakteren et omrul ved fejlrul med sanse.</div>
+							</div>
+						</div>
+					</grid>
+				</div>
+
+			</div>				
+
+		</section>
+
+
+		<!-- Three -->
+		<section id="four" class="wrapper style1">
+
+
+		<header class="accordion1 special">
+		<h2>Det sorte marked</h2>
+		<p>Ulovlige hælervarer</p>
+		</header>
+
+			<div class="accordionpanel">
+
+				<p>Det åbne marked integrerer det moderne, det populære og det nye indenfor grej og er banebrydende på feltet. Det åbne marked den moderne livsstil og standarden, som bringer dig det mest troværdige grej på markedet fra de bedste producenter. Det åbne marked kan benyttes i alle byer, på markedspladser og handelsstationer. Og husk, al grej på det åbne marked er lovligt i fleste af Valhels stater.</p>
+				
+				<!-- cardgrid -->
+				<div class="stack">
+					<grid>
+						<div class="card item">
+							<div class="itemPriceContainer">
+								<div class="itemPrice">
+									<div class="itemText">10§</div>
+								</div>
+							</div>
+							<div class="cardcontent">
+								<div class="itemName">Blitz</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/blitz.png" alt="">
+									</div>
+								</div>
+								<div class="itemEffect">FLUGT ALLE | FORBRUG</div>
+								<div class="itemLine"></div>
+								<div class="npcText">Udløser et voldsomt lysglimt, der blænder modstanderen og tillader alle karakterer at flygte fra kamp, efter kamprunden er afsluttet.</div>
+							</div>
+						</div>
+
+						<div class="card item">
+							<div class="itemPriceContainer">
+								<div class="itemPrice">
+									<div class="itemText">5§</div>
+								</div>
+							</div>
+							<div class="cardcontent">
+								<div class="itemName">Gitylstang</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/gitylstang.png" alt="">
+									</div>
+								</div>
+								<div class="itemEffect">SKADE 6 | FORBRUG</div>
+								<div class="itemLine"></div>
+								<div class="npcText">En eksplosiv stang af hærdet gitin, der kan antændes med lunte eller elektrisk anordning. Gitylstænger er ikke anvendelige i kamp.</div>
+							</div>
+						</div>						
+
+						<div class="card item">
+							<div class="itemPriceContainer">
+								<div class="itemPrice">
+									<div class="itemText">5§</div>
+								</div>
+							</div>
+							<div class="cardcontent">
+								<div class="itemName">Hvisker</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/hvisker.png" alt="">
+									</div>
+								</div>
+								<div class="itemEffect">KAMP MED SNILDE | AUto</div>
+								<div class="itemLine"></div>
+								<div class="npcText">Karakteren må kæmpe med snilderul også mod kampstil. Pistolen er lydløs og kan derfor benyttes uden afslørende larm.</div>
+							</div>
+						</div>
+
+						<div class="card item">
+							<div class="itemPriceContainer">
+								<div class="itemPrice">
+									<div class="itemText">5§</div>
+								</div>
+							</div>
+							<div class="cardcontent">
+								<div class="itemName">Natbriller</div>
+								<div class="cardWrapper">
+									<div class="cardFrame">
+										<img src="images/natbriller.png" alt="">
+									</div>
+								</div>
+								<div class="itemEffect">SE I MØRKE | AUTO</div>
+								<div class="itemLine"></div>
+								<div class="npcText">En manateknisk enhed, der bæres som tætsluttende briller, der gør det muligt for karakteren at se i mørke, som var det dagslys.</div>
+							</div>
+						</div>
+					</grid>
+				</div>
+
+
+				
+				
+				
+			</div>
+
+		</section>	
+
+	</div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+	
+	<div class="container">
+		<ul class="icons">
+			<a href="https://www.facebook.com/groups/171686449632625/" target="_blank">
+				<li>
+					<i class="fab fa-facebook-square" style="font-size:40px;color:#4267b2;"></i>
+				</li>
+			</a>
+		</ul>
+	</div>
+
+	<div class="copyright">
+		&copy; Levende Eventyr & Fantasi
+		<br>
+		Octavius pages
+	</div>
+	
+</footer>
+
+
+		<!-- Scripts -->
+		<script>
+		function openForm() {
+		  document.getElementById("myForm").style.display = "block";
+		}
+
+		function closeForm() {
+		  document.getElementById("myForm").style.display = "none";
+		}
+		</script>
+
+<script src="assets/js/lefscroll.js"></script>
+
+	</body>
+</html>
