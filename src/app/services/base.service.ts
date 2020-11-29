@@ -5,6 +5,8 @@ import { Subscription } from "rxjs";
 
 export enum BackenUrls {
 
+    PROD_URL = 'http://api.lefnet.dk/',
+    
     // Login
     LOGIN_URL = 'api/auth/login',
     LOGOUT_URL = 'api/auth/logout',
