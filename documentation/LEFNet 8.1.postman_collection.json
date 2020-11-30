@@ -1,0 +1,1138 @@
+{
+	"info": {
+		"_postman_id": "94e76e40-9cac-4c58-94ff-828ac3ab8cda",
+		"name": "LEFNet 8.1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Login (Claus)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": "Expect Json response",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "email",
+									"value": "claus.paludan@gmail.com",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "agressor",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/auth/login",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login (Jacob)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"description": "Expect Json response",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "email",
+									"value": "jacob@jarlskov.dk",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "Jacob2000",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/auth/login",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login (Peter)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"description": "Expect Json response",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "email",
+									"value": "peter@peterkam.dk",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "sukkermås",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/auth/login",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Logout",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9hcGkubGVmbmV0LmRrXC9hcGlcL2F1dGhcL2xvZ2luIiwiaWF0IjoxNjA2NjQ0NDMxLCJleHAiOjE2MDY2NDgwMzEsIm5iZiI6MTYwNjY0NDQzMSwianRpIjoiRDR0dGlCc1R4VnNuWkE3TCIsInN1YiI6MSwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.2VXyw2KC1IrODQHT54U8CYNowpNGOg0D4F4Gw7cbbvA",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/auth/logout",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Me",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sbjgxYXBpLndpcFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwMTkyNTgxOCwiZXhwIjoxNjAxOTI5NDE4LCJuYmYiOjE2MDE5MjU4MTgsImp0aSI6Im5ITnNaZzlXSnFuWUxKTmciLCJzdWIiOjEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.OZb_j7TX-3BvKUGHHqehS1HGmyjY-02Q1B4xuFkgRCc",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": "Expect Json response",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{apiurl}}/api/auth/me",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"me"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Public",
+			"item": [
+				{
+					"name": "Rules",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "002ddfb6-369b-4b18-b920-6ea8d78db660",
+								"exec": [
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"Den gerrige\");",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": "Expect Json response",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{apiurl}}/api/rules",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"rules"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Rule",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "197061ac-ea0f-4d12-a5e7-dc745d9a4ca9",
+								"exec": [
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"Den gerrige\");",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"description": "Expect Json response",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"url": {
+							"raw": "{{apiurl}}/api/rules/2",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"rules",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "File Upload",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "f4fc3f23-6fc4-45b3-8f6d-4e07e168eb32",
+								"exec": [
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"Den gerrige\");",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"description": "Expect Json response",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/Users/claus/Library/Mobile Documents/com~apple~CloudDocs/Drawings/photos/CsfIdNMWIAAWKeU.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/store-file",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"store-file"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "LEF Config Get",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "ce69f4a4-19ce-4f7b-9f0f-edbb4d2e28dd",
+								"exec": [
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"Den gerrige\");",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"description": "Expect Json response",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/Users/claus/Library/Mobile Documents/com~apple~CloudDocs/Drawings/photos/CsfIdNMWIAAWKeU.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/config",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"config"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Admin",
+			"item": [
+				{
+					"name": "Group Add User NOT DONE",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sbjhhcGkud2lwXC9hcGlcL2F1dGhcL2xvZ2luIiwiaWF0IjoxNTc5OTU4MDAwLCJleHAiOjE1Nzk5NjE2MDAsIm5iZiI6MTU3OTk1ODAwMCwianRpIjoiN29NdHczUnVramlVVmVxbCIsInN1YiI6MSwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.zvrmh6gZY6q5f00-Fo0ObFz_-A8soNaSOXo6gUIDHiw",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": "Expect Json response",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{apiurl}}/api/groups/4/users/3",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"groups",
+								"4",
+								"users",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Group Remove User NOT DONE",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sbjhhcGkud2lwXC9hcGlcL2F1dGhcL2xvZ2luIiwiaWF0IjoxNTc5OTU4MDAwLCJleHAiOjE1Nzk5NjE2MDAsIm5iZiI6MTU3OTk1ODAwMCwianRpIjoiN29NdHczUnVramlVVmVxbCIsInN1YiI6MSwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.zvrmh6gZY6q5f00-Fo0ObFz_-A8soNaSOXo6gUIDHiw",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [
+							{
+								"description": "Expect Json response",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"url": {
+							"raw": "{{apiurl}}/api/groups/3/users/3",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"groups",
+								"3",
+								"users",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Group List users in group NOT DONE",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sbjhhcGkud2lwXC9hcGlcL2F1dGhcL2xvZ2luIiwiaWF0IjoxNTc5OTU4MDAwLCJleHAiOjE1Nzk5NjE2MDAsIm5iZiI6MTU3OTk1ODAwMCwianRpIjoiN29NdHczUnVramlVVmVxbCIsInN1YiI6MSwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.zvrmh6gZY6q5f00-Fo0ObFz_-A8soNaSOXo6gUIDHiw",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"description": "Expect Json response",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"url": {
+							"raw": "{{apiurl}}/api/groups/4/users/",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"groups",
+								"4",
+								"users",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "User list NOT DONE",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/users",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Version list",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/versions",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"versions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Version show",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/versions/10",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"versions",
+								"10"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Version create",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "title",
+									"value": "My funky title 2",
+									"type": "text"
+								},
+								{
+									"key": "version_number",
+									"value": "12",
+									"type": "text"
+								},
+								{
+									"key": "start_year",
+									"value": "2020",
+									"type": "text"
+								},
+								{
+									"key": "end_year",
+									"value": "2021",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "En lille test version",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"value": " garf",
+									"type": "text"
+								},
+								{
+									"key": "active",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/versions/",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"versions",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Version update",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "_method",
+									"value": "PUT",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "8",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "My funky title 2",
+									"type": "text"
+								},
+								{
+									"key": "version_number",
+									"value": "12",
+									"type": "text"
+								},
+								{
+									"key": "start_year",
+									"value": "2020",
+									"type": "text"
+								},
+								{
+									"key": "end_year",
+									"value": "2021",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "En lille test version",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"value": "garf",
+									"type": "text"
+								},
+								{
+									"key": "active",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/versions/11",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"versions",
+								"11"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Version delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "title",
+									"value": "My Title",
+									"type": "text"
+								},
+								{
+									"key": "version_number",
+									"value": "9",
+									"type": "text"
+								},
+								{
+									"key": "start_year",
+									"value": "2020",
+									"type": "text"
+								},
+								{
+									"key": "end_year",
+									"value": "2021",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "En lille test version",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "active",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/versions/10",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"versions",
+								"10"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chapter list",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/chapters",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"chapters"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chapter show",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/chapters/1",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"chapters",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chapter create",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "author_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "version_id",
+									"value": "8",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "My fancy chapter title",
+									"type": "text"
+								},
+								{
+									"key": "text",
+									"value": " ",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/chapters/",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"chapters",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chapter update",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "_method",
+									"value": "PUT",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "Another fancy title",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/chapters/1",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"chapters",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chapter delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "title",
+									"value": "My Title",
+									"type": "text"
+								},
+								{
+									"key": "version_number",
+									"value": "9",
+									"type": "text"
+								},
+								{
+									"key": "start_year",
+									"value": "2020",
+									"type": "text"
+								},
+								{
+									"key": "end_year",
+									"value": "2021",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "En lille test version",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "active",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/chapters/1",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"chapters",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Section list",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/sections",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"sections"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Section show",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/sections/1",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"sections",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Section create",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "author_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "chapter_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "My fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section title",
+									"type": "text"
+								},
+								{
+									"key": "subtitle",
+									"value": "Subtitle goes here",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/sections/",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"sections",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Section update",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "_method",
+									"value": "PUT",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "Can we get another title",
+									"type": "text"
+								},
+								{
+									"key": "subtitle",
+									"value": "We shall have us a new subtitle",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/sections/1",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"sections",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Section delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "title",
+									"value": "My Title",
+									"type": "text"
+								},
+								{
+									"key": "version_number",
+									"value": "9",
+									"type": "text"
+								},
+								{
+									"key": "start_year",
+									"value": "2020",
+									"type": "text"
+								},
+								{
+									"key": "end_year",
+									"value": "2021",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "En lille test version",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "active",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{apiurl}}/api/admin/sections/1",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"sections",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}

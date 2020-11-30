@@ -1,3 +1,4 @@
+import { LoginResponse } from './models/loginresponse';
 import { LoginRequest } from './models/loginrequest';
 import { AuthService } from './services/auth.service';
 import { Component } from '@angular/core';
@@ -9,28 +10,22 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
     title = 'ln81fe';
+    subscriptions = [];
+    loginResponse: LoginResponse | undefined;
 
     constructor(private authService: AuthService) { }
 
-    login() {
+    login(): void {
         let loginRequest: LoginRequest;
         loginRequest = new LoginRequest();
         loginRequest.email = 'claus.paludan@gmail.com';
         loginRequest.password = 'agressor';
-        this.authService.login(loginRequest);
+        // this.subscriptions.push();
+        // TODO Hvorfor genererer dette to kald i netværks fanen????
+        this.authService.login(loginRequest).subscribe((data: LoginResponse) => {
+            this.loginResponse = data;
+            console.log(this.loginResponse);
+        });
 
-        // this.subscriptions.push(this.indberetningService.udsoegFejlIndberetningerDetailPaaArbgVer2().subscribe((data: UdsoegFejlIndberetningerResponse) => {
-        //     this.fejldata = data.fejlIndberet;
-        //     this.antalFejl = this.fejldata.length;
-        //     this.filterData();
-        //     this.isBusy = false;
-        // }, ((error: ServiceFault) => {
-        //     this.isBusy = false;
-        //     if (ServiceFault.isError(error.errorCode)) {
-        //         this.errorMessage = error.errorMessage;
-        //     } else {
-        //         this.warningMessage = error.errorMessage;
-        //     }
-        // })));
     }
 }
