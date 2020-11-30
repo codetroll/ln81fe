@@ -1,13 +1,13 @@
+import { LogoutResponse } from './../models/logoutresponse';
 import { LoginResponse } from './../models/loginresponse';
 import { LoginRequest } from '../models/loginrequest';
-import { LogoutResponse } from '../models/logoutresponse';
 
 import { Injectable } from '@angular/core';
-import { BackenUrls, BaseService } from './base.service';
+import { BackendUrls, BaseService } from './base.service';
 import { Router } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
-import { catchError } from 'rxjs/operators';
+import { catchError, tap } from 'rxjs/operators';
 import * as moment from 'moment';
 
 
@@ -24,21 +24,28 @@ export class AuthService extends BaseService {
     login(loginRequest: LoginRequest): Observable<LoginResponse> {
         console.log('==>> AuthService.login()');
         console.log('==>> loginRequest : ' + loginRequest);
-        const URL = BackenUrls.PROD_URL + BackenUrls.LOGIN_URL;
+        const URL = BackendUrls.PROD_URL + BackendUrls.LOGIN_URL;
         console.log('==>> Calling : ' + URL);
-        return this.httpClient.post<LoginResponse>(URL, loginRequest);
-        // .pipe(res => this.setSession(loginResponse));
+        return this.httpClient.post<LoginResponse>(URL, loginRequest).pipe(
+            tap((response: LoginResponse) => {
+                if (response) {
+                    this.setSession(response);
+                }
+            }));
         // .pipe(catchError(err => console.log(err)));
     }
 
     logout(): Observable<LogoutResponse> {
-        localStorage.removeItem('access_token');
-        localStorage.removeItem('expires_at');
-        return this.httpClient.post<LogoutResponse>(BackenUrls.LOGOUT_URL, {});
+        return this.httpClient.post<LogoutResponse>(BackendUrls.PROD_URL + BackendUrls.LOGOUT_URL, {}).pipe(
+            tap((response: LogoutResponse) => {
+                localStorage.removeItem('access_token');
+                localStorage.removeItem('expires_at');
+            }
+        ));
             // .pipe(catchError(err => this.errorHandler.handleError(err, false)));
     }
 
-    private setSession(loginResponse: LoginResponse) {
+    private setSession(loginResponse: LoginResponse): void {
         const expiresAt = moment().add(loginResponse.expires_in, 'second');
 
         localStorage.setItem('access_token', loginResponse.access_token);

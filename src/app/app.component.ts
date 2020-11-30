@@ -1,3 +1,4 @@
+import { LogoutResponse } from './models/logoutresponse';
 import { LoginResponse } from './models/loginresponse';
 import { LoginRequest } from './models/loginrequest';
 import { AuthService } from './services/auth.service';
@@ -25,7 +26,16 @@ export class AppComponent {
         this.authService.login(loginRequest).subscribe((data: LoginResponse) => {
             this.loginResponse = data;
             console.log(this.loginResponse);
+            console.log('isLoggedIn : ', this.authService.isLoggedIn());
         });
+    }
 
+    logout(): void {
+        let loginRequest: LoginRequest;
+        loginRequest = new LoginRequest();
+        this.authService.logout().subscribe((data: LogoutResponse) => {
+            console.log('logoutdata :', data);
+            console.log('isLoggedIn : ', this.authService.isLoggedIn());
+        });
     }
 }
