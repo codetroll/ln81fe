@@ -17,6 +17,7 @@ export enum BackendUrls {
 @Injectable({
     providedIn: 'root'
 })
+
 export class BaseService implements OnDestroy {
 
     // protected errorHandler: ErrorUtil;

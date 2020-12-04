@@ -2,6 +2,7 @@
     "/api": {
         "target": "http://api.lefnet.dk",
         "secure": false,
-        "logLevel": "debug"
+        "logLevel": "debug",
+        "changeOrigin": true
     }
 }
