@@ -255,6 +255,47 @@
 					"response": []
 				},
 				{
+					"name": "Version",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "44899f97-2597-4d83-83cf-e117fe498135",
+								"exec": [
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"Den gerrige\");",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"description": "Expect Json response",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"url": {
+							"raw": "{{apiurl}}/api/version/1",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"version",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
 					"name": "Rule",
 					"event": [
 						{
@@ -820,19 +861,18 @@
 								},
 								{
 									"key": "version_id",
-									"value": "8",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "category_id",
+									"value": "1",
 									"type": "text"
 								},
 								{
 									"key": "title",
-									"value": "My fancy chapter title",
+									"value": "My Second fancy title",
 									"type": "text"
-								},
-								{
-									"key": "text",
-									"value": " ",
-									"type": "text",
-									"disabled": true
 								}
 							]
 						},
@@ -1005,12 +1045,32 @@
 								},
 								{
 									"key": "title",
-									"value": "My fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section titleMy fancy section title",
+									"value": "Third fancy title",
 									"type": "text"
 								},
 								{
 									"key": "subtitle",
 									"value": "Subtitle goes here",
+									"type": "text"
+								},
+								{
+									"key": "video",
+									"value": "video goes here",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"value": "image goes here",
+									"type": "text"
+								},
+								{
+									"key": "sort_order",
+									"value": "2",
+									"type": "text"
+								},
+								{
+									"key": "active",
+									"value": "1",
 									"type": "text"
 								}
 							]
