@@ -1,0 +1,7 @@
+{
+    "/api": {
+        "target": "http://ln81api.wip",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}

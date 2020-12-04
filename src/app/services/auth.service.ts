@@ -24,7 +24,7 @@ export class AuthService extends BaseService {
     login(loginRequest: LoginRequest): Observable<LoginResponse> {
         console.log('==>> AuthService.login()');
         console.log('==>> loginRequest : ' + loginRequest);
-        const URL = BackendUrls.PROD_URL + BackendUrls.LOGIN_URL;
+        const URL = BackendUrls.LOGIN_URL;
         console.log('==>> Calling : ' + URL);
         return this.httpClient.post<LoginResponse>(URL, loginRequest).pipe(
             tap((response: LoginResponse) => {

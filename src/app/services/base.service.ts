@@ -1,7 +1,7 @@
 import { Injectable, OnDestroy } from '@angular/core';
-import { Router } from "@angular/router";
-import { HttpClient } from "@angular/common/http";
-import { Subscription } from "rxjs";
+import { Router } from '@angular/router';
+import { HttpClient } from '@angular/common/http';
+import { Subscription } from 'rxjs';
 
 export enum BackendUrls {
 
