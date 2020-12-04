@@ -5,9 +5,14 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { AuthInterceptor } from './interceptors/auth.interceptor';
+import { HomeComponent } from './home/home.component';
+import { ReglerComponent } from './regler/regler.component';
+import { KarakterComponent } from './karakter/karakter.component';
+import { RollerComponent } from './roller/roller.component';
+import { GrejComponent } from './grej/grej.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, HomeComponent, ReglerComponent, KarakterComponent, RollerComponent, GrejComponent],
   imports: [HttpClientModule, BrowserModule, AppRoutingModule],
   providers: [HttpClient, {
     provide: HTTP_INTERCEPTORS,

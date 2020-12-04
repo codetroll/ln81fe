@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/css/main.css",
               "src/styles.css"
             ],
             "scripts": []

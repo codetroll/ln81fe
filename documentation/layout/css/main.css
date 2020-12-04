@@ -1626,7 +1626,7 @@
 
 	body {
 		background-color: #fff;
-		
+
 	}
 
 	body, input, select, textarea {
@@ -2085,7 +2085,7 @@
     margin-left: auto;
     margin-right: auto;
 		max-width: 200px;
-			
+
 		}
 
 
@@ -2116,7 +2116,7 @@
 	label {
 		display: block;
 		font-size: 0.9rem;
-		
+
 		margin: 0 0 0 0;
 	}
 
@@ -2970,7 +2970,7 @@
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url(../../images/bg_lef1.jpg);
+			background-image: url(../images/bg_lef1.jpg);
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -3080,7 +3080,7 @@
 
 	.wrapper > header {
 		text-align: center;
-		
+
 		padding: 1rem;
 		margin: 0;
 	}
@@ -3165,7 +3165,7 @@
 	}
 
 		.wrapper.style2 header {
-			
+
 			border-radius: 4px 4px 0 0;
 		}
 
@@ -3247,7 +3247,7 @@
 	margin-right: 18px;
 }
 
-.accordion2 {	
+.accordion2 {
 	font-family: 'Crushed' !important;
     cursor: pointer;
     padding-top: 10px;
@@ -3296,18 +3296,18 @@
 }
 
 .gridContainer {
-    position: relative;
-	background-image: url("../images/design/greenButton.jpg");  /* TOP */
+  position: relative;
+	/*background-image: url("../images/design/greenButton.jpg");  /* TOP */
 	background-size: cover;
-    min-height: 100px;
+  min-height: 100px;
 
 }
 
-.panel {   
+.panel {
 	position: relative;
 	padding: 10px 20px 20px 20px;
 	margin-top: 0px;
-    background-image: url("../images/design/greenPaper.jpg");  /* PAPER */
+  /*background-image: url("../images/design/greenPaper.jpg");  /* PAPER */
 	background-size: auto;
 	object-fit: cover;
     overflow: hidden;
@@ -3343,7 +3343,7 @@
 
 /* NAVIGATION */
 
-.navbar {	
+.navbar {
 	overflow: hidden;
 	background-color: rgb(30, 31, 35);
 	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
@@ -3403,7 +3403,7 @@ grid {
 }
 
 .stack {
-	
+
 }
 
 
@@ -3438,11 +3438,11 @@ grid {
 }
 
 .cardWrapper{
-	display: inline-block; 
+	display: inline-block;
 	margin: 10px 10px 0px 10px;
 }
 
-.cardFrame{  
+.cardFrame{
 	width: 250px;
 	height: 200px;
 	vertical-align: middle;
@@ -3468,7 +3468,7 @@ grid {
 	position: relative;
 	top: 220px;
 	left: 60%;
-	
+
 }
 .itemPrice {
 	position: absolute;
@@ -3482,12 +3482,12 @@ grid {
 .itemText {
 	margin-top: 12px;
 	text-align: center;
-	
+
 	font-size: 26px;
 	font-weight: bold;
 	font-family: 'Crushed', cursive;
 	color: black;
-	
+
 	 /* Safari */
 	-webkit-transform: rotate(-15deg);
 

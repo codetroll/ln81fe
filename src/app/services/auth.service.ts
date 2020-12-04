@@ -36,10 +36,11 @@ export class AuthService extends BaseService {
     }
 
     logout(): Observable<LogoutResponse> {
-        return this.httpClient.post<LogoutResponse>(BackendUrls.PROD_URL + BackendUrls.LOGOUT_URL, {}).pipe(
+        return this.httpClient.post<LogoutResponse>(BackendUrls.LOGOUT_URL, {}).pipe(
             tap((response: LogoutResponse) => {
                 localStorage.removeItem('access_token');
                 localStorage.removeItem('expires_at');
+                localStorage.removeItem('groups');
             }
         ));
             // .pipe(catchError(err => this.errorHandler.handleError(err, false)));
@@ -47,7 +48,7 @@ export class AuthService extends BaseService {
 
     private setSession(loginResponse: LoginResponse): void {
         const expiresAt = moment().add(loginResponse.expires_in, 'second');
-
+        localStorage.setItem('groups', loginResponse.payload.toString());
         localStorage.setItem('access_token', loginResponse.access_token);
         localStorage.setItem('expires_at', JSON.stringify(expiresAt.valueOf()) );
     }
@@ -58,6 +59,10 @@ export class AuthService extends BaseService {
 
     isLoggedOut(): boolean {
         return !this.isLoggedIn();
+    }
+
+    getGroups(): string[] {
+      return (localStorage.getItem('groups') || '').split(',') || [];
     }
 
     getExpiration() {
