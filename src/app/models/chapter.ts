@@ -1,3 +1,5 @@
+import { Section } from './section';
+
 export class Chapter {
     id: number;
     author_id: number;

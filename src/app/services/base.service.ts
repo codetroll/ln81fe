@@ -11,7 +11,7 @@ export enum BackendUrls {
     LOGIN_URL = 'api/auth/login',
     LOGOUT_URL = 'api/auth/logout',
 
-    REGLER_URL = 'api/rules/',
+    REGLER_URL = 'api/version/1', //TODO - Vi skal have aktuelle version fra et eller andet sted.
 }
 
 @Injectable({
