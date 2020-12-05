@@ -14,7 +14,7 @@ export class ReglerComponent implements OnInit {
     ngOnInit(): void {
         this.ruleService.hentRegler().subscribe((data: Version) => {
             this.version = data;
-            console.log(this.version);
+            console.log('version', this.version);
         });
     }
 }

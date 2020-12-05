@@ -1,1 +1,11 @@
 <p>regler works!</p>
+
+<ng-container *ngIf="version">
+    <table>
+        <tr *ngFor="let chapter of version.chapters">
+            <td>
+                {{ chapter.title }}
+            </td>
+        </tr>
+    </table>
+</ng-container>
