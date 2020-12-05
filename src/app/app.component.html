@@ -13,11 +13,11 @@
   </div>
 
   <div *ngIf="loginFormVisible" class="form-popup" id="myForm">
-    <form class="form-container">
+    <form class="form-container" [formGroup]="loginForm">
       <label for="email">Email</label>
-      <input type="text" placeholder="Enter Email" name="email" required>
+      <input type="text" placeholder="Enter Email" formControlName="email">
       <label for="psw">Kode</label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
+      <input type="password" placeholder="Enter Password" formControlName="password" required>
       <a href="#" class="button" type="submit" (click)="login(); $event.preventDefault()">Login</a>&nbsp;
       <a href="#" class="button btn cancel" (click)="loginFormVisible = false; $event.preventDefault()">Luk</a>
     </form>

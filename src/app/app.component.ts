@@ -3,6 +3,7 @@ import { LoginResponse } from './models/loginresponse';
 import { LoginRequest } from './models/loginrequest';
 import { AuthService } from './services/auth.service';
 import { Component, OnInit } from '@angular/core';
+import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
 
 @Component({
     selector: 'app-root',
@@ -15,15 +16,26 @@ export class AppComponent implements OnInit {
     subscriptions = [];
     loginResponse: LoginResponse | undefined;
     loginFormVisible: boolean = false;
+    loginForm: FormGroup;
 
+    constructor(public authService: AuthService, private formBuilder: FormBuilder) { }
 
-    constructor(public authService: AuthService) { }
+    ngOnInit(): void {
+        //Called after the constructor, initializing input properties, and the first call to ngOnChanges.
+        //Add 'implements OnInit' to the class.
+        this.loginForm = this.formBuilder.group({
+            email: new FormControl(null),
+            password: new FormControl(null)
+        });
+        
+    }
 
     login(): void {
         let loginRequest: LoginRequest;
         loginRequest = new LoginRequest();
-        loginRequest.email = 'claus.paludan@gmail.com';
-        loginRequest.password = 'agressor';
+
+        loginRequest.email = this.loginForm.controls.email.value;
+        loginRequest.password = this.loginForm.controls.password.value;
         // this.subscriptions.push();
         // TODO Hvorfor genererer dette to kald i netværks fanen????
         this.authService.login(loginRequest).subscribe((data: LoginResponse) => {
@@ -47,7 +59,4 @@ export class AppComponent implements OnInit {
       return this.authService.getGroups().includes('admin');
     }
 
-    ngOnInit(): void {
-
-    }
 }

@@ -1,4 +1,8 @@
-import { HttpClient, HttpClientModule, HTTP_INTERCEPTORS} from '@angular/common/http';
+import {
+  HttpClient,
+  HttpClientModule,
+  HTTP_INTERCEPTORS,
+} from '@angular/common/http';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -10,15 +14,32 @@ import { ReglerComponent } from './regler/regler.component';
 import { KarakterComponent } from './karakter/karakter.component';
 import { RollerComponent } from './roller/roller.component';
 import { GrejComponent } from './grej/grej.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, ReglerComponent, KarakterComponent, RollerComponent, GrejComponent],
-  imports: [HttpClientModule, BrowserModule, AppRoutingModule],
-  providers: [HttpClient, {
-    provide: HTTP_INTERCEPTORS,
-    useClass: AuthInterceptor,
-    multi: true
-  }],
+  declarations: [
+    AppComponent,
+    HomeComponent,
+    ReglerComponent,
+    KarakterComponent,
+    RollerComponent,
+    GrejComponent,
+  ],
+  imports: [
+    HttpClientModule,
+    BrowserModule,
+    AppRoutingModule,
+    FormsModule,
+    ReactiveFormsModule,
+  ],
+  providers: [
+    HttpClient,
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: AuthInterceptor,
+      multi: true,
+    },
+  ],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
