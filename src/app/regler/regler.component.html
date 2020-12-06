@@ -1,11 +1,28 @@
-<p>regler works!</p>
+    <div class="image fit">
+        <img src="images/kk_pic.jpg" alt="" />
+    </div>
+    <!-- One -->
+    <section *ngFor="let chapter of version.chapters" id="one" class="wrapper style1">
 
-<ng-container *ngIf="version">
-    <table>
-        <tr *ngFor="let chapter of version.chapters">
-            <td>
-                {{ chapter.title }}
-            </td>
-        </tr>
-    </table>
-</ng-container>
+        <header class="special">
+            <h2>{{ chapter.title }}</h2>
+            <p>{{ chapter.subtitle}}</p>
+        </header>
+
+
+        <ng-container *ngFor="let section of chapter.sections">
+            <div class="accordion1">{{ section.title }}</div>
+            <div class="accordionpanel">
+                <p>
+                    <!-- <span *ngIf="section.video" class="video right">
+                        <iframe src="{{ section.video }}"></iframe>
+                    </span>
+                    <span *ngIf="section.image" class="image right">
+                        <img src="img/data/sections/{{ section.id }}/{{ section.image }}" alt="" />
+                    </span> -->
+                    {{ section.text }}
+                </p>
+            </div>
+        </ng-container>
+        <div class="accordionbottom"></div>
+    </section>

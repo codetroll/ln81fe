@@ -12,7 +12,9 @@ export class ReglerComponent implements OnInit {
     constructor(private ruleService: RuleService) {}
 
     ngOnInit(): void {
+        console.log('ReglerComponent.ngOnInit()');
         this.ruleService.hentRegler().subscribe((data: Version) => {
+            console.log('Hent regler');
             this.version = data;
             console.log('version', this.version);
         });
