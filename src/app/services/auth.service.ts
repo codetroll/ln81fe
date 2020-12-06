@@ -1,3 +1,4 @@
+import { User } from './../models/user';
 import { LogoutResponse } from './../models/logoutresponse';
 import { LoginResponse } from './../models/loginresponse';
 import { LoginRequest } from '../models/loginrequest';
@@ -46,6 +47,14 @@ export class AuthService extends BaseService {
             // .pipe(catchError(err => this.errorHandler.handleError(err, false)));
     }
 
+    getCurrentUser(): Observable<User> {
+        return this.httpClient.post<User>(BackendUrls.USER_URL, {}).pipe(
+            tap((response: User) => {
+                console.log(response);
+            }
+        ));
+    }
+
     private setSession(loginResponse: LoginResponse): void {
         const expiresAt = moment().add(loginResponse.expires_in, 'second');
         localStorage.setItem('groups', loginResponse.payload.toString());
@@ -65,7 +74,7 @@ export class AuthService extends BaseService {
       return (localStorage.getItem('groups') || '').split(',') || [];
     }
 
-    getExpiration() {
+    getExpiration(): moment.Moment {
         // let expiration = (localStorage.getItem('expires_at') === null) ? localStorage.getItem('expires_at') : '0';
         const expiresAt = JSON.parse(localStorage.getItem('expires_at') || '{}');
         return moment(expiresAt);

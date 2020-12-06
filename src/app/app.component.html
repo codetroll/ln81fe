@@ -2,9 +2,9 @@
 
   <div class="logo">
     <div class="navbar">
-      <a *ngIf="authService.isLoggedIn()" (click)="logout(); $event.preventDefault()">LOG UD</a>
+      <a *ngIf="authService.isLoggedIn()" (click)="logout(); $event.preventDefault()">LOG UD {{ user.name }}</a>
       <a *ngIf="!authService.isLoggedIn()" href="#1" (click)="loginFormVisible = true; $event.preventDefault()">LOGIN</a>
-      <a *ngIf="isAdmin" href="http://localhost:4201">ADMIN</a>
+      <a *ngIf="isAdmin && authService.isLoggedIn()" href="http://localhost:4201">ADMIN</a>
       <a routerLink="roller">ROLLER</a>
       <a routerLink="grej">GREJ</a>
       <a routerLink="karakter">KARAKTER</a>
