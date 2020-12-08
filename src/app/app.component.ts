@@ -57,7 +57,8 @@ export class AppComponent implements OnInit {
     }
 
     get isAdmin(): boolean {
-      return this.authService.getGroups().includes('admin');
+        const groups: string[] = this.authService.getGroups();
+        return groups.includes('admin') || groups.includes('subadmin') || groups.includes('trold');
     }
 
 }
