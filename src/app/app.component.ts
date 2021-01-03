@@ -38,27 +38,25 @@ export class AppComponent implements OnInit {
         loginRequest.password = this.loginForm.controls.password.value;
         // this.subscriptions.push();
         // TODO Hvorfor genererer dette to kald i netværks fanen????
-        this.authService.login(loginRequest).subscribe((data: LoginResponse) => {
+        this.subscriptions.push(this.authService.login(loginRequest).subscribe((data: LoginResponse) => {
             this.loginResponse = data;
-            this.user.name = this.loginResponse.name;
-            console.log(this.loginResponse);
-            console.log('isLoggedIn : ', this.authService.isLoggedIn());
+            this.user.name = this.sessionService.getUserName();
+            // console.log(this.loginResponse);
+            // console.log('isLoggedIn : ', this.authService.isLoggedIn());
             this.loginFormVisible = false;
-        });
+        }));
     }
 
     logout(): void {
-        let loginRequest: LoginRequest;
-        loginRequest = new LoginRequest();
-        this.authService.logout().subscribe((data: LogoutResponse) => {
+        this.subscriptions.push(this.authService.logout().subscribe((data: LogoutResponse) => {
             console.log('logoutdata :', data);
             console.log('isLoggedIn : ', this.authService.isLoggedIn());
-        });
+        }));
     }
 
     get isAdmin(): boolean {
-        const groups: string[] = this.authService.getGroups();
-        return groups.includes('admin') || groups.includes('subadmin') || groups.includes('trold');
+        console.log('isAdmin : ', this.sessionService.isAdmin);
+        return this.sessionService.isAdmin;
     }
 
 }

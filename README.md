@@ -6,8 +6,8 @@
 ## Frontend layout
 [Frontend Layout](./documentation/layout/index.html)
 
-## Admin Layout
-[Admin Layout](./documentation/admlayout/index.html)
+## NGX Markdown parser
+[Markdown parser](https://www.npmjs.com/package/ngx-markdown)
 
 ## Postman Collection
 

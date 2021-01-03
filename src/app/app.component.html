@@ -1,57 +1,56 @@
 <header id="header">
 
-  <div class="logo">
-    <div class="navbar">
-      <a *ngIf="authService.isLoggedIn()" (click)="logout(); $event.preventDefault()">LOG UD {{ user.name }}</a>
-      <a *ngIf="!authService.isLoggedIn()" href="#1" (click)="loginFormVisible = true; $event.preventDefault()">LOGIN</a>
-      <a *ngIf="isAdmin && authService.isLoggedIn()" href="http://localhost:4201">ADMIN</a>
-      <a routerLink="roller">ROLLER</a>
-      <a routerLink="grej">GREJ</a>
-      <a routerLink="karakter">KARAKTER</a>
-      <a routerLink="regler">REGLER</a>
+    <div class="logo">
+        <div class="navbar">
+            <a *ngIf="authService.isLoggedIn()" (click)="logout(); $event.preventDefault()">LOG UD {{ user.name }}</a>
+            <a *ngIf="!authService.isLoggedIn()" href="#1" (click)="loginFormVisible = true; $event.preventDefault()">LOGIN</a>
+            <a *ngIf="isAdmin && authService.isLoggedIn()" href="http://localhost:4201">ADMIN</a>
+            <a routerLink="roller">ROLLER</a>
+            <a routerLink="grej">GREJ</a>
+            <a routerLink="karakter">KARAKTER</a>
+            <a routerLink="regler">REGLER</a>
+        </div>
     </div>
-  </div>
 
-  <div *ngIf="loginFormVisible" class="form-popup" id="myForm">
-    <form class="form-container" [formGroup]="loginForm">
-      <label for="email">Email</label>
-      <input type="text" placeholder="Enter Email" formControlName="email">
-      <label for="psw">Kode</label>
-      <input type="password" placeholder="Enter Password" formControlName="password" required>
-      <a href="#" class="button" type="submit" (click)="login(); $event.preventDefault()">Login</a>&nbsp;
-      <a href="#" class="button btn cancel" (click)="loginFormVisible = false; $event.preventDefault()">Luk</a>
-    </form>
-  </div>
+    <div *ngIf="loginFormVisible" class="form-popup" id="myForm">
+        <form class="form-container" [formGroup]="loginForm">
+            <label for="email">Email</label>
+            <input type="text" placeholder="Enter Email" formControlName="email">
+            <label for="psw">Kode</label>
+            <input type="password" placeholder="Enter Password" formControlName="password" required>
+            <a href="#" class="button" type="submit" (click)="login(); $event.preventDefault()">Login</a>&nbsp;
+            <a href="#" class="button btn cancel" (click)="loginFormVisible = false; $event.preventDefault()">Luk</a>
+        </form>
+    </div>
 
-  <div class="leflogo">
-    <a href="/">
-      <img width="40px" src="assets/images/lef_new_logo.png" alt=""/>
-    </a>
-  </div>
+    <div class="leflogo">
+        <a href="/">
+            <img width="40px" src="assets/images/lef_new_logo.png" alt="" />
+        </a>
+    </div>
 
 </header>
 
 <section id="main">
-  <div class="inner">
-    <router-outlet></router-outlet>
-  </div>
+    <div class="inner">
+        <router-outlet></router-outlet>
+    </div>
 </section>
 
 <footer id="footer">
-  <div class="container">
-    <ul class="icons">
-      <a href="https://www.facebook.com/groups/171686449632625/" target="_blank">
-        <li>
-          <i class="fab fa-facebook-square" style="font-size:40px;color:#4267b2;"></i>
-        </li>
-      </a>
-    </ul>
-  </div>
+    <div class="container">
+        <ul class="icons">
+            <a href="https://www.facebook.com/groups/171686449632625/" target="_blank">
+                <li>
+                    <i class="fab fa-facebook-square" style="font-size:40px;color:#4267b2;"></i>
+                </li>
+            </a>
+        </ul>
+    </div>
 
-  <div class="copyright">
-    &copy; Levende Eventyr & Fantasi
-    <br>
-    Octavius pages
-  </div>
+    <div class="copyright">
+        &copy; Levende Eventyr & Fantasi
+        <br>
+        Octavius pages
+    </div>
 </footer>
-
