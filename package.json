@@ -22,7 +22,6 @@
     "@angular/platform-browser-dynamic": "~11.0.1",
     "@angular/router": "~11.0.1",
     "@auth0/angular-jwt": "^5.0.2",
-    "jwt-decode": "^3.1.2",
     "moment": "^2.29.1",
     "ngx-cookie-service": "^11.0.2",
     "rxjs": "~6.6.0",

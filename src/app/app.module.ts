@@ -1,3 +1,4 @@
+import { ViewComponent } from './components/view/view.component';
 import {
   HttpClient,
   HttpClientModule,
@@ -25,6 +26,7 @@ import { CookieService } from 'ngx-cookie-service';
         KarakterComponent,
         RollerComponent,
         GrejComponent,
+        ViewComponent
     ],
     imports: [
         HttpClientModule,

@@ -1,3 +1,4 @@
+import { ViewComponent } from './components/view/view.component';
 import { User } from './models/user';
 import { SessionService } from './services/session.service';
 import { LogoutResponse } from './models/logoutresponse';
@@ -12,16 +13,17 @@ import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
     templateUrl: './app.component.html',
     styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit {
+export class AppComponent extends ViewComponent implements OnInit {
 
     title = 'ln81fe';
-    subscriptions = [];
     loginResponse: LoginResponse | undefined;
-    loginFormVisible: boolean = false;
+    loginFormVisible = false;
     loginForm: FormGroup;
     user: User = new User();
 
-    constructor(public authService: AuthService, private formBuilder: FormBuilder, public sessionService: SessionService) { }
+    constructor(public authService: AuthService, private formBuilder: FormBuilder, public sessionService: SessionService) {
+        super();
+    }
 
     ngOnInit(): void {
         this.loginForm = this.formBuilder.group({
@@ -38,7 +40,7 @@ export class AppComponent implements OnInit {
         loginRequest.password = this.loginForm.controls.password.value;
         // this.subscriptions.push();
         // TODO Hvorfor genererer dette to kald i netværks fanen????
-        this.subscriptions.push(this.authService.login(loginRequest).subscribe((data: LoginResponse) => {
+        this.subscriptions(this.authService.login(loginRequest).subscribe((data: LoginResponse) => {
             this.loginResponse = data;
             this.user.name = this.sessionService.getUserName();
             // console.log(this.loginResponse);
@@ -48,7 +50,7 @@ export class AppComponent implements OnInit {
     }
 
     logout(): void {
-        this.subscriptions.push(this.authService.logout().subscribe((data: LogoutResponse) => {
+        this.subscriptions(this.authService.logout().subscribe((data: LogoutResponse) => {
             console.log('logoutdata :', data);
             console.log('isLoggedIn : ', this.authService.isLoggedIn());
         }));

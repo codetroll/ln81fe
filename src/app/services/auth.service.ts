@@ -12,10 +12,8 @@ import { Observable } from 'rxjs';
 import { catchError, tap } from 'rxjs/operators';
 import * as moment from 'moment';
 import { CookieService } from 'ngx-cookie-service';
-import jwt_decode from 'jwt-decode';
 import { JwtHelperService } from '@auth0/angular-jwt';
-
-export const TOKEN_NAME: string = 'lef_access_token';
+export const TOKEN_NAME = 'lef_access_token';
 
 @Injectable({
     providedIn: 'root'
@@ -42,7 +40,7 @@ export class AuthService extends BaseService {
         const expirationDate = helper.getTokenExpirationDate(token);
         const isExpired = helper.isTokenExpired(token);
 
-        const decoded = jwt_decode(token);
+        // const decoded = jwt_decode(token);
         // console.log('token expiry : ', expirationDate);
 
         if (expirationDate === undefined) {

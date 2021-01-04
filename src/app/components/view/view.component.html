@@ -1,0 +1,8 @@
+<div aria-label="Loading..." class="spinner" *ngIf="busy; else content"></div>
+<ng-template #content>
+    <div id="error" focusable>
+        <ng-alerts *ngIf="error" [message]="error" alert="error" title="{{'Fejlmeddelelse' | tss:'label':'viewcomponent'}}" [withIcon]="true"></ng-alerts>
+        <ng-alerts *ngIf="warning" [message]="warning" alert="warning" [withIcon]="true"></ng-alerts>
+    </div>
+    <ng-content></ng-content>
+</ng-template>
