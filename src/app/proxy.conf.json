@@ -1,7 +1,0 @@
-{
-    "/api": {
-        "target": "http://localhost:80/LFMArbejdsgiver",
-        "secure": false,
-        "logLevel": "debug"
-    }
-}
