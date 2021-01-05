@@ -3,9 +3,15 @@ Grej til alt
 
 Det åbne marked integrerer det moderne, det populære og det nye indenfor grej og er banebrydende på feltet. Det åbne marked den moderne livsstil og standarden, som bringer dig det mest troværdige grej på markedet fra de bedste producenter. Det åbne marked kan benyttes i alle byer, på markedspladser og handelsstationer. Og husk, al grej på det åbne marked er lovligt i fleste af Valhels stater.
 
+==ITEM==
 Beklædning
-KARISMA OMRUL | AUTO !10
+==EFFECT==
+KARISMA OMRUL | AUTO 
+==PRICE==
+!10
+==DESCRIPTION==
 Giver karakteren et omrul ved fejlrul med karisma. Uden særlig beklædning er karakteren klædt i almindeligt og billigt tøj. Med beklædning kan karakteren iklæde sig pænere tøj, modetøj, smykker og lignende. Pænt tøj omfatter alt hvad en karakter kan tage på som beklædning; fra undertøj til overtøj, sko, hat og smykker. Spilleren definerer selv stilart og design.
+==IMAGE==
 
 Bioboks
 BIOALKYMI OMRUL | AUTO !10
