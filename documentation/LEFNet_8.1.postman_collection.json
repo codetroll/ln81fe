@@ -180,7 +180,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sbjgxYXBpLndpcFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwMTkyNTgxOCwiZXhwIjoxNjAxOTI5NDE4LCJuYmYiOjE2MDE5MjU4MTgsImp0aSI6Im5ITnNaZzlXSnFuWUxKTmciLCJzdWIiOjEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.OZb_j7TX-3BvKUGHHqehS1HGmyjY-02Q1B4xuFkgRCc",
+									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9hcGkubGVmbmV0LmRrXC9hcGlcL2F1dGhcL2xvZ2luIiwiaWF0IjoxNjA3MjU2ODgyLCJleHAiOjE2MDcyNjA0ODIsIm5iZiI6MTYwNzI1Njg4MiwianRpIjoiaXVYMlVFUWxVYUVxS2dQWCIsInN1YiI6MSwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.Ycw5oKOB7Ct5Vu4nW9Fc5kdkVPl7O8rvO4XQ0_Inr8I",
 									"type": "string"
 								}
 							]
@@ -208,8 +208,7 @@
 					},
 					"response": []
 				}
-			],
-			"protocolProfileBehavior": {}
+			]
 		},
 		{
 			"name": "Public",
@@ -220,7 +219,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "002ddfb6-369b-4b18-b920-6ea8d78db660",
 								"exec": [
 									"",
 									"pm.test(\"Body matches string\", function () {",
@@ -260,7 +258,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "44899f97-2597-4d83-83cf-e117fe498135",
 								"exec": [
 									"",
 									"pm.test(\"Body matches string\", function () {",
@@ -282,14 +279,14 @@
 							}
 						],
 						"url": {
-							"raw": "{{apiurl}}/api/version/1",
+							"raw": "{{apiurl}}/api/version/9",
 							"host": [
 								"{{apiurl}}"
 							],
 							"path": [
 								"api",
 								"version",
-								"1"
+								"9"
 							]
 						}
 					},
@@ -301,7 +298,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "197061ac-ea0f-4d12-a5e7-dc745d9a4ca9",
 								"exec": [
 									"",
 									"pm.test(\"Body matches string\", function () {",
@@ -342,7 +338,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "f4fc3f23-6fc4-45b3-8f6d-4e07e168eb32",
 								"exec": [
 									"",
 									"pm.test(\"Body matches string\", function () {",
@@ -369,17 +364,18 @@
 								{
 									"key": "file",
 									"type": "file",
-									"src": "/Users/claus/Library/Mobile Documents/com~apple~CloudDocs/Drawings/photos/CsfIdNMWIAAWKeU.jpg"
+									"src": "/Users/claus/Library/Mobile Documents/com~apple~CloudDocs/Drawings/photos/EK3D1m3XkAc39cb.jpeg"
 								}
 							]
 						},
 						"url": {
-							"raw": "{{apiurl}}/api/store-file",
+							"raw": "{{apiurl}}/api/admin/store-file",
 							"host": [
 								"{{apiurl}}"
 							],
 							"path": [
 								"api",
+								"admin",
 								"store-file"
 							]
 						}
@@ -392,7 +388,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "ce69f4a4-19ce-4f7b-9f0f-edbb4d2e28dd",
 								"exec": [
 									"",
 									"pm.test(\"Body matches string\", function () {",
@@ -440,8 +435,7 @@
 					},
 					"response": []
 				}
-			],
-			"protocolProfileBehavior": {}
+			]
 		},
 		{
 			"name": "Admin",
@@ -598,12 +592,69 @@
 					"response": []
 				},
 				{
+					"name": "Chicks Populate",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/populatechicks",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"populatechicks"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chick Random",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/randomchick",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"randomchick"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chick Stats",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{apiurl}}/api/admin/chickstats",
+							"host": [
+								"{{apiurl}}"
+							],
+							"path": [
+								"api",
+								"admin",
+								"chickstats"
+							]
+						}
+					},
+					"response": []
+				},
+				{
 					"name": "Version show",
 					"request": {
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{apiurl}}/api/admin/versions/10",
+							"raw": "{{apiurl}}/api/admin/versions/9",
 							"host": [
 								"{{apiurl}}"
 							],
@@ -611,7 +662,7 @@
 								"api",
 								"admin",
 								"versions",
-								"10"
+								"9"
 							]
 						}
 					},
@@ -1190,9 +1241,7 @@
 					},
 					"response": []
 				}
-			],
-			"protocolProfileBehavior": {}
+			]
 		}
-	],
-	"protocolProfileBehavior": {}
+	]
 }
