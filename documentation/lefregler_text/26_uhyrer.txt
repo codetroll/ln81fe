@@ -1,0 +1,55 @@
+Uhyrer
+De skabte
+
+Uhyrer er moralsk anstødelige skabninger, kunstigt ugudeligt liv, ofte fysisk og psykisk hæslige. Viden om uhyrer er ikke en klassificeret kundskab, men kulturelt bestemte. Det er almindeligt, at uhyrer ikke betegnes, som de her er opstillet, men ved et navn tillagt af skaberen eller de, som har oplevet konsekvenserne af uhyret. Eksempelvis blev Wilbert Steinheuers skabning ikke kendt som en ”skabning”, men som Steinheuers uhyre, og Nikolaus Natskades Golem blev ikke kendt som en ”golem” men under navnet Zarahura.
+
+Homonkulus
+Et barn, der opfostres i en rugekasse, kun med hovedet udenfor. Kroppen næres af dampe og kranieskallen skæres af, så hjernen kan vokse uhindret. Hjernen beskyttes af en glas- eller porcelænskappe, og tilføres alkymistiske ingredienser, så den kan vokse med umådelig fart. Homonkulus ligner et barn i tiårs alderen med en kæmpehjerne, der rager langt ud over det lille hoved. Inde i homonkulussens krop produceres en gas, der føres via slanger fra ryggen til glas- eller porcelænskappen, til selvopretholdelse.
+
+
+
+ 
+  Derpå skal hjernen konstant  Uden hovedskal kan hjernen vokse sig til tredobbelt størrelse efter tre måneder. På det tidspunkt beskyttes hjernen med et låg af glas eller porcelæn og til sidst lukkes barnet ud af ’rugekassen’.
+  
+
+
+
+Det er forbud ifølge DIOs kætter-konvention af 1181 at fremstille homonkulus.
+
+
+KAMP 30 | T8 | UDHOLDENHED 30 | KROP 5 | VILJE 15 | FART 5
+#Giftsky (Alle får +1 FORGIFT)
+#Kødskimmel (+1 FORGIFT)
+#Syre (Det billigste UDSTYR går i UDU)
+
+
+
+
+Gargoil
+Gargoilen er en grotesk udhugget stenfigur, normalt lavet af granit og fremstillet til beskytte bygninger eller steder. Gargoilen kan ikke laves større end halvanden meter og udformes almindeligvis som små trolde- eller dragelignende bæster. Det er almindeligt at udforme gargoiler med vinger, der kan bruges til at svæve med, men ikke direkte flyvning. Så snart en gargoile er monteret på en bygning, vil den bevogte mod alle indtrængende, der søger at bryde ind. Gargoilen reagerer kun på konkret indbrud, hvis en dør eller et vindue er ulåst eller hvis der bruges en nøgle, vil det ikke aktivere gargoilen. Gargoilen stammer oprindelige fra vanahaifolket (2200fR-98fR), hvor de ligesom i dag blev fremstillet af stenhuggere og fortryllet med magii eller behandlet alkymistisk. Der fremstilles gargoile to steder i dag; Magus Narre og Rumanoth. Gargoiler fra Magus Narre fremstilles med magii og er de ulovlige ifølge DIO, mens de rumakanske gargoiler fremstilles alkymistisk og dermed lovlige.
+Fysik 40
+Knuse (BRUDSKADE ALLE | AUTO)
+Stenkrop (PANSER 8 | AUTO)
+Uhyrlig (AFVÆRGER FOKUS ALLE | AUTO)
+
+Golem
+Det var den pagtistiske domprovst Nikolaus Natskade af Pagoden, den pagtistiske ghetto i Asit Dur, der skabte den første golem i 612. Det fortælles, at Gud talte til Nikolaus i en drøm og gav ham de hellige ord, der gjorde det muligt at gøre ler til liv. De følgende nætter byggede Nikolaus en figur af ler, en golem (vemlandsk for ’Liv’), nedfældede den hellige remse på et stykke papir og satte de i nakken på uhyret. Da han derpå fremsagde remsen, blev golem levende og Nikolaus gav den navnet Amon. Han skabte den til at beskytte pagtisterne i ghettoen, der på den tid ofte blev udsat for forfølgelse og chikane af den monopatiske befolkning. Den hellige remse for liv er gennem årene kopieret i et ukendt antal kopier og spredt i hemmelighed rund om i Valhel. Kun med den hellige remse, kan man fremstille en golem.
+Styrke 20
+Brutal (LIVSKADE ALLE | EFFEKTRUL)
+Robust (KRAFTSKADE ALLE | EFFEKTRUL)
+Uhyrlig (AFVÆRGER FOKUS ALLE | AUTO)
+
+Skabning
+Skabningen bygges af kropsdele af menneske-lig og derfor varierer udseendet alt efter de lig, der bruges. Fælles for skabninger er deres fæle og grimme udseende, huden trækkes så stramt over kroppen, at den næsten bliver gennemsigtig og svagt afslører blodårernes pulséren og musklernes bevægelser under den. Dens øjne løber konstant i vand, men har samtidig et skræmmende glødende blik. Skabninger har bevidsthed, er egocentriske og opmærksomhedskrævende som børn. De er aggressive og har let til vold, men de adlyder deres skaber i et og alt. Hvis deres skaber svigter dem og ikke giver den nødvendige opmærksomhed, udvikler skabningen et had mod skaberen og vil komme sin skaber til livs. Den første skabning blev skabt i 912 af nekroalkymisten Wilbert Steinheuer og det startede en enorm interesse i kunsten af skabe liv blandt renæssancens nekroalkymister (900-1100). Steinheuers uhyre forvildede sig snart ned i landsbyen og skræmte folk, så de samledes i flok og drog til Steinheuers laboratorie. De satte ild til huset og Steinheuer brændte inde, men i mellemtiden havde uhyret set det hele på afstand og sætte ild til byen som hævn. Det er ifølge DIOs kætterkonvention forbudt at lave skabninger.
+Styrke 10
+Udholden (HELBREDSKADE ALLE | EFFEKTRUL)
+Uhyggelig (PSYKESKADE ALLE | EFFEKTRUL)
+Uhyrlig (AFVÆRGER FOKUS ALLE | AUTO)
+
+Varulv
+Varulven er et menneske, der lider af lykantropi og forvandles til en grusom ulv i menneskeform. De bliver gerne to en halv meter høje, tydeligt højere end deres menneskeskikkelse. De kan løbe på bagbenene og opnå høj fart, deres lugtesans er uovertruffen og deres sult enorm. De er stærke og frygtindgydende, viger ikke for noget og frygter intet, hverken kugler eller ild. Den forbandede forvandles når månen har samme fase som den havde, da mennesket fik forbandelsen og jæger mennesker, indtil den har slugt et hjerte. Da ophører forbandelsens effekt indtil til næste månefase.
+Fysik 30
+Flænse (LIVSKADE ALLE | AUTO)
+Flå (BRUDSKADE ALLE | EFFEKTRUL)
+Uhyrlig (AFVÆRGER FOKUS ALLE | AUTO)
+Voldsom (KAMPGRAD RAMMER ALLE | AUTO)

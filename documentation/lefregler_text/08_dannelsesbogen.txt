@@ -1,0 +1,187 @@
+Dannelsesbogen
+Dannelsen er den proces, hvor karakteren lærer et bestemt kulturelt indhold af viden, færdigheder og holdninger, og dermed har opnået en dannelse af personligheden. En god dannelsesproces kan derfor ikke være et resultat af tvang, men forudsætter tværtimod et ønske om at blive dannet.
+
+Dannelseskrav
+For at opnå en dannelse skal karakteren bruge tre evner på mindst 10 point, bestemt af den enkelte dannelse. Nogle dannelser kræver kun én bestemt evne og to valgfri, andre kræver flere bestemte og færre valgfri. En evne kan kun benyttes én gang til at opnå en dannelse og derfor skal spilleren markere dokument-symbolet i de tre evner, der bruges på dannelsen. Karakteren kan højest opnå fire dannelser.
+
+Speciale
+Hvis karakteren har to stjerne i speciale, giver det tilladelse til at benytte én evne til to forskellige dannelser.
+
+Valg af dannelse
+Når spilleren har valgt en dannelse, noteres den under karakter, på en af de fire linjer med symbolet af de tre dokumenter. Dannelsen giver adgang til en ekspertise, der noteres under ekspertiser på karakterskemaet. Hvis karakteren ikke har et tomt ekspertisefelt, skal spilleren bytte den ud med en gammel ekspertise, der ikke kommer fra en dannelse. 
+
+===SECTION
+===TITLE
+Atlet
+===SUBTITLE
+Fysik, Valgfri, Valgfri
+===TEXT
+Som atlet er både karakterens krop og mentale tilstand i topform. Karakteren vedligeholder sin form og overholder alle regler omkring sundhed, træning og hvile.
+
+!SECTION
+!TITLE
+Rask
+!SUBTITLE
+TILSTANDSLOFTER +1 | AUTO
+!IMAGE
+rask.jpg
+!TEXT
+Den rakse karakter får +1 til alle tilstandslofter; liv, helbred, kraft, psyke.
+!ENDSECTION
+
+
+Astrolog
+Mytologi, Okkultisme, Sind
+Udøver af stjernetydning ud fra læren om angivelige forbindelser mellem himmellegemer og Jorden, samt kunsten at se fremtidige energier og muligheder, baseret på stjernernes stilling.
+
+Stjernetyder
+UDLØS TO SJÆLEGAVER | SJÆLERUL
+Stjernetyderen udløser to valgfri sjælegaver på sjælerul, det må også være den samme sjælegave to gange.
+
+Bioalkymist 
+Bioalkymi, Valgfri, Valgfri
+Som bioalkymist kender karakteren til mineralers og drogers effekt på den menneskelige krop. På den måde bliver karakteren i stand til at fremstille stimulerende lægemidler, der virker nøjagtigt som de dyrekøbte farmaka.
+
+Farmaka
+FREMSTIL FARMAKA | UDBYTTE
+Med farmaka kan drogisten fremstille 1 farmaka for 1 udbytte. Karakteren kan højest fremstille én farmaka på en runde.
+
+Biokultist
+Fysik, Bioalkymi, Valgfr
+Biokultisten er særligt interesseret i den del af bioalkymien, som beskæftiger sig med en permanent forandring af den menneskelige krop, en tilpasning og forbedring til optimering af fysikken. Forholdet mellem biokultisten og denne process er blevet til et religiøst forhold. Gennem gentagende indtagelse af diverse bioalkymiske medikamenter udvikler og forandrer karakteren sin krop for at opnå fuld kontrol over sin fysik, et bioalkymisk behandlingsritual, der gør karakteren biomorf.
+
+Biomorf
+DOBBELTEFFEKT FARMAKA | AUTO
+Som biomorf har biokultisten gennemgået en biologisk forandring i kroppen, der gør den bedre til at udnytte farmaka og karakteren sletter fremover 2 skader ved brug af en farmaka.
+
+Fribryder 
+Styrke, Valgfri, Valgfri
+Fribryderen har forbedret sin fysiske modstandsdygtighed, der fremmer helbredet.
+
+Sej
+LIV HELBRED +2 | AUTO
+Som sej får karakteren +2 i både livloft og helbredsloft.
+
+
+Charmør 
+Karisma, Valgfri, Valgfri
+Karakteren har udviklet en karismatisk fremgangsmåde i det hurtige møde med andre mennesker. Charmøren er bedst på kort sigt, da længere tids kendskab til karakteren hurtigt vil få det første charmerende indtryk til at krakkelere.
+
+Smart
+LEVNED INDTÆGT 20 | PRIVAT
+Den smarte karakter får 20 penge for hver stjerne i levned i privaten.
+
+
+Heks 
+Okkultisme, Sind, Valgfri
+Som heks vender karakteren den almene verden ryggen til fordel for det okkulte, lever et liv med spindelvæv, flagermusvinger og gustne ansigter, der mumler forbandelser over sydende kedler. For at blive heks, skal karakteren udføre et optagelsesritual til den dæmon karakteren vil være heks under. Gennem optagelsesritualet pålægges karakteren en hekselænke og underkaster sig en dæmonherre for at kunne bruge heksenes kyprianus på det eksklusive marked. Spilleren bestemmer selv hvilken dæmonherre, karakteren vil underkaste sig. Læs mere om dæmonherrerne i Metafysika s.?.
+
+Hekselænke
+BESVÆRGELSER | AUTO
+Karakteren bindes til dæmonherren med en hekselænke og får heksekraften til at bruge besværgelserne i heksenes kyprianus. Læs mere om besværgelser og kyprianus i Det eksklusive marked s.?.
+
+Intellektuel 
+Mytologi, Valgfri, Valgfri
+Karakteren er belæst og har lært at forholde sig abstrakt, rationelt og objektivt reflekterende til sin omverden. Den intellektuelle ved som regel lidt om alt og har ofte et bestemt fag, der optager dem specielt meget.
+
+Belæst
+OMRUL KUNDSKAB | AUTO
+Som belæst får karakteren et automatisk omrul på fejlrul i kundskaber. Virker ikke mod fumlerul.
+
+Justikar
+Okkultisme, Teknologi, Valgfri
+Justikarordenen er for personer, der har helliget sit liv til at bekæmpe de forbudte dæmoner, der hærger verdenen. For at blive optaget i ordenen skal karakteren rejse til Asit Dur og søge optagelse på Justis Mortis, en gammel borg på en høj klippe midt byen, hvor justikarordenen har til huse. Det er altså ikke nok at leve op til kravet om evner, karakteren skal også overbevise justikarordenen at man er værdig til at blive optaget. Ordenen står i særdeleshed for udvikling af grej og våben til brug jistikarens kamå mod de forbudte dæmoner.
+
+Psykomatrise
+JUSTIKARGREJ | AUTO
+Med den indopereret psykomatrise kan karakteren få adgang til og benytte sig af justikar-grej fra Det ekslusive marked s.?.
+
+Karnefex 
+Okkultisme, Kultur, Valgfri
+Medlemmerne af den berygtede monopatiske heksejægerorden. Angst og mistillid har til alle tider været forbundet med karnefexerne og deres virke har været diskuteret siden deres grundlæggelse, både i de kirkelige haller, som i borgernes gader og på bøndernes gårde. Karnefexens virke er baseret på en dunkel og hemmelig viden, kun de indviede kender til. For at blive karnefex skal karakteren leve op til kravet om evner, men karakteren skal også rejse til Jernport, der ligger lige nord for Asit Dur og floden Karm. Her skal man vise ordenen at man er værdig til at blive optaget.
+
+Skyggesegl
+KARNEFEXGREJ | AUTO
+Karnefexen brændemærkes med skyggeseglet på venstre skulderblad, og kan benytte sig af karnefex-grej fra Det ekslusive marked s.?.
+
+Landstryger 
+Feltkunst, Valgfri, Valgfri
+En person, der lever fra dag til dag og gerne opsøger eventyret. Denne eventyrlyst driver ofte karakteren på mærkværdige rejser og landstrygeren lærer at samle og pakke al det udbytte, der kan indsamles undervejs, for at sikre rejsens omkostninger bliver betalt i sidste ende.
+
+Pakæsel
+UDBYTTELOFT +6 | AUTO
+Som pakæsel kan karakteren pakke sit udbytte og får +6 til udbytteloft. 
+
+Magiker
+Mytologi, Sind, Valgfri, Vanahi
+Kun karakterer med blodarven vanahin kan opnå den sande indsigt i magiiens væsen og dermed blive magiker. Som magiker får karakteren indsigt i de sande navne, som er tingens inderste væsen og kraften til at binde de sande ords kraft med viljen og fremsige formularer.
+
+De sande navne
+FORMULAR | AUTO
+Med læren om de sande navne kan magikeren bruge formularbøgerne fra det eksklusive marked til at fremsige de magiske formularer. Læs mere om formularer og formularbøger i Det eksklusive marked s.?.
+
+Manateknolog 
+Okkultisme, Teknologi, Valgfri
+Den forbudte viden om manateknologi er kundskaben at tvinger ånder ned i elektroniske enheder, kaldet modstande, og styre dem ved at sende afmålte strømimpulser gennem dem. På den måde kan manateknologen udvikle maskiner,der kan forøge menneskers viden og hukommelse, den kan forbedre menneskets fysik og kan i sidste ende fremstille kunstig intelligens. Det sige, at manateknologien stammer fra mystiske fund, der faldt ned fra himlen over Rolgornia i årene 1170 til 1204.
+
+Manateknologi
+FREMSTIL MANATEKNOLOGI | UDBYTTE
+Evnen til at fremstille manateknologisk grej fra Det sorte marked. At fremstille et manateknologisk grej koster 1 udbytte for hver 3 penge grejet har i udgift.
+
+Missionær 
+Kultur, Sind, Valgfri
+At blive missionær kræver at karakteren opsøger en kirke og og godkendes til optagelse i kirken. Missionæren er viet til at leve efter religionens foreskrifter og sædvaner, prædike guds ord og forsvare guds menigheder mod det onde. Gennem et ritual, hvor karakteren berører en hellig rimsten, modtages rimkimen, en hellig åndelig gave der gør missionæren i stand til at lære og fremsige de hellige bønner.
+
+Rimkim
+BØNNER | AUTO
+En karakter, som har modtaget rimkimen fra den hellige rimsten kan lære og fremsige de hellige bønner fra bønnebøgerne. Læs mere om bønner og bønnenbøger i Det eksklusive marked s.?.
+
+Okkultist 
+Okkultisme, Valgfri, Valgfri
+Okkultisten udforsker den indre, skjulte åndenatur i væsner og ting og kan kommunikere med ånder og dæmoner i ånderiget, uden at iagttage dem med fysiske sanser. Som okkultist kan karkteren benytte sig af metafysiske meditationer, til brug for fremstilling af okkulte artifakter og brygge.
+
+Sejd
+FREMSTIL OKKULT GREJ | UDBYTTE
+Med sejd kan karakteren fremstille grej fra Det okkulte marked. Det kræver 1 udbytte for hver 3 penge det okkulte grej har i udgift.
+
+Selvlært 
+Kultur, Valgfri, Valgfri
+Den selvlærte karakter dyrker sin viden gennem selvlæring og har på den måde selv tilegnet sig sine kundskaber. Det er et almindeligt autodidakt syn, at lærdom bliver snævertsynet på skoler og universiteter. Det traditionelle system begrænser forskningen og derfor anser den selvlært sin indsats som vigtig i kundskabernes udvikling.
+
+Ekspertise
+VALGFRI EKSPERTISE
+Som indlært kan karakteren vælge én valgfri ekspertise fra en anden personlighed end karakterens egen.
+
+Snushane 
+Sanse, Valgfri, Valgfri
+En social kamæleon, der drives af nysgerrighed og viden om mennesker; hemmelig og betydningfuld viden, der kan bruges til at manipulere mennesker og situationer. Nysgerrighed og diplomati er lidenskaber og vigtige redskaber i SNUSHANENS arbejde, også selvom det kan føre karakteren på kant med loven. Men over alt står trangen til at opklare mysterier og fremstille dem til åben skue, hvilket gør dem til gode jounalister, detektiver og politifolk.
+
+Grundig
+FOKUS 4 | AUTO
+Den grundige snushane får +4 i alle sine fokus, både i dem karakteren allerede har og dem karakteren senere får. Markeres med +4 i fokusfelterne under de relevante tilstande.
+
+Teknokultist 
+Teknologi, Valgfri, Valgfri
+Karakteren dyrker teknologien og i særdeleshed sammenkoblingen mellem maskine, ånd og natur. Gennem dyrkelse af teknologien opstår en særlig forståelse af det maskinelle, det systematiske, den ufejlbarlige tekniks automatik og forbedring af mennesket. Teknokultisten forstår samlingspunket mellem maskine og biologi og kan derigennem bedre kombinere maskine med menneske.
+
+Kyperteknik
+TILSTANDSLOFT FOR MANATEK | AUTO
+Med kyperteknik får karakteren +1 i et valgfrit tilstandsloft for hver manateknisk enhed, der står noteret under grej.
+
+
+Veteran
+Snilde, Valgfri, Valgfri
+Veteranen er opmærksom og kan øjeblikkeligt reagere på udfald og pludselige situationer.
+
+Kampkneb
+AFVÆRGE KAMPSTIL | HELBRED
+Som veteran kan karakteren afværge modstanderes kampstil mod at få -1 helbred.
+
+
+Vågehals 
+Karisma, Snilde, Sind
+Vågehalsen tror så meget på sine egne talenter og lægger sin lid til, at karakteren kan alt med sin fysiske krop.
+
+Talentfuld
+OMRUL TALENT | AUTO
+Den overlegende selvtillid gør karakteren lynsnar og giver omrul i alle talentrul.

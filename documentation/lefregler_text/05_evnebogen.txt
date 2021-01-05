@@ -1,0 +1,207 @@
+Evnebogen
+Sådan bruges evnerne
+
+Terningerne
+I LEF bruges to sekssidede terninger og når reglerne referer til et rul, betyder det resultatet af to rullede terninger. Resultatet af et rul kan være mellem 2 og 12. Når reglerne nævner evnerul, eksempelvis et styrkerul, betyder det resultatet af spillerens rul + den evne, karakteren bruger. Mesteren benytter også to seksidede terninger og når reglerne taler om at rulle en grad betyder det resultatet af mesterens to terninger + den valgte grad.
+
+Evnebrug
+Evnerne bruges når en karakter udfører en handling, som mesteren vurderer har et dramatisk element, det vil sige, at der er noget på spil. Evnerne bruges altså ikke ved almindelige handlinger som at gå, køre en bil eller læse et gadeskilt, men hvis karakteren løber for at indhente nogen, sniger sig forbi en vagt, reparerer en maskine eller læser en indviklet gammel tekst, så er der tale om udfordringer, der kræver et evnerul.
+
+Evnerne kan også komme i spil uden karaktererne handler, eksempelvis med en angribende modstander eller i situationer hvor karaktererne påvirkes af kulde, gift, røg, ild, fælder eller andre udefrakommende forhold. Det kan eksempelvis udløse et sindrul, hvis en karakter har været vågen for længe, eller fysiksrul, hvis karakterene har arbejdet hårdt eller på anden måde overanstrengt sig. Det samme gælder hvis mesteren beslutter at der skal udføres et sanserul, for at se om karakteren opdager et eller andet med sine sanser.
+
+Umulige handlinger
+Mesteren skal være opmærksom på, at når evnebrug tillades, så vil muligheden for succes altid være til stede, uanset hvor høj graden er. Derfor er det afgørende at mesteren ikke tillader evnerul i sitationer, der ikke må gennemføres. Det kan eksempelvis være fordi handlingen er fysisk eller psykisk umuligt, men det kan også være fordi mesteren vurderer, at handlingen vil gå imod historiens interesse eller pointe. Mesteren bør dog have en forklaring på, hvorfor handlingen er umulig, men skal ikke nødvendigvis afsløre den, med mindre der er en god grund til at karaktererne kan gennemskue det.
+
+Grad
+Når evnerne bruges, skal mesteren beslutte en grad. Der er otte forskellige grader at vælge mellem; fra 'let' til 'umulig' og når graden er bestemt, ruller mesteren terningerne og lægger resultatet til den valgte grad. En normal grad vil med et rul på 7 eksempelvis blive en grad på 12. Når først mesteren har rullet en grad så fanger bordet og spillerne kan ikke trække sig, fordi mesteren har rullet en høj grad. Mindst én karakter må udføre forsøget.
+
+LET          +0 | Alle kan klare det
+NORMAL       +5 | De fleste kan klare det
+VANSKELIG   +10 | Mange kan klare det
+SVÆR        +15 | Nogle kan klare det
+HÅRD        +20 | Få kan klare det
+URIMELIG    +25 | De færreste kan klare det
+EPISK       +30 | Ingen kan klare det
+UMULIG       X  | Evnerul ikke tilladt
+
+Gradvurdering
+Graden skal ikke balanceres i forhold til karakterenes evner, men bestemmes ud fra en historiemæssig og dramatisk vurdering. Det vil sige at graden skal passe med det forhold situationen kræver, eksempelvis må graden på en indviklet bioalkymisk opskrift nødvendigvis være høj, ellers vil den jo ikke være indviklet. Den dramatiske vurdering handler om hvor vigtig handlingen er og graden skal stige i forhold til handlingens vigtighed. Dog kan det også være en pointe, at nogle vigtige handlinger, måske endda den vigtigste, i visse tilfælde kræver de lavere grader. 
+
+En handling kan godt være mere vigtig på ét tidspunkt i historien og mindre vigtig på et andet. Eksempelvis kan en rejse gennem et vindomsust bjergpas være vanskelig at komme igennem og kræve flere helbredsrul første gang, mens den samme rejse, senere i historien, ikke vil udløse helbredsrul, fordi udfordringen på det tidspunkt ikke længere vurderes som vigtig.
+
+Ofte kan karakterer vurdere hvor svær en handling er, før de beslutter at gennemføre den, eksempelvis hvor svært det er at springe over en kløft. Almindeligvis bør mesteren oplyse graden, men der kan være tilfælde, hvor mesteren ikke mener at karaktererne har mulighed for at vurdere graden og derfor vælger at holde den hemmelig.
+
+Intensitet
+En grad kan både dække over én enkelt handling og flere handlinger. Hvis karakteren eksempelvis vandrer gennem ørkenen, vil det være rigeligt med ét fysikrul om dagen, for at afgøre om karakteren svækkes af varmen. Men når ørkenstormen kommer, stiger intensiteten i historien og derfor udløser sandstormen flere fysikrul, før den er drevet over. Det kunne også være en karakter, der bryder ind i en lejlighed. Almindeligvis er det er rigeligt med ét teknologirul for at bryde låsen op, ét snilderul for at komme uopdaget rundt i lejligheden og ét sanserul for at undersøge den. Men når karakteren snuser rundt i soveværelset, hvor der ligger nogen og sover, kræver hver eneste bevægelse et snilderul, for ikke at vække de sovende. I tilfælde hvor en karakter vil overtale en person til noget, vil det også kræve mere end bare et karismarul. Det kan være karakteren først skal læse personens humør med et sindrul, taler om noget, der interesserer personen med et kundskabsrul, før det udløser det karismarul, der kræves for at overtale personen.
+
+Evnerul
+Når mesteren har rullet graden, skal spilleren udføre sit evnerul. Det betyder at spilleren ruller terningerne og lægge resultatet til den pågældende evne. Hvis eksempelvis en evne er på 3 og spilleren ruller 7, så bliver resultatet af evnerullet 10. Et resultat lig med eller højere end graden betyder et succesrul, ellers er det et fejlrul.
+
+Automatisk succes
+Hvis spilleren ruller dobbelt 6 lykkedes handlingen automatisk, uanset graden.
+
+Fokus
+Med fokus kan karakteren få bonus til et evnerul. For hvert tilstandspoint spilleren bruger på fokus, får karakteren +3 til sit evnerul. At bruge 2 tilstandspoint på fokus giver eksemepelvis +6 til evnerullet. Det er karakterens blodarv, som bestemmer hvilken tilstand, som kan bruges til fokus, men der kan opnås flere muligheder for fokus gennem forbedringer og ekspertiser.
+
+Fejlrul
+Når en karakter fejler et evnerul, skal det altid have en konsekvens. Der er fire konsekvenser mesteren kan vælge mellem og det er med konsekvenserne mesteren for alvor kan styre dynamikken i spillet.
+
+Anstrengelse
+Karakteren gennemfører sin handling, men må anstrenge sig ekstra og mister derfor -1 i en relevant tilstand efter mesterens valg. Denne konsekvens er særlig anvendelig når mesteren ønsker at historien skal gå videre og karaktererne ikke skal stoppes af et fejlrul. Det kunne eksempelvis være når karaktererne skal klatre over noget eller skal udholde noget. 
+
+Skade
+Karakteren gennemfører sin handling, men pådrages enten giftskade eller brudskade. Denne konsekvens er anvendelig i situationer hvor giftskade eller brudskade er en indlysende konsekvens af et fejlrul. Med denne konsekvens kan mesteren vælge om evnerullet alligevel lykkedes eller ikke, alt efter hvad mesteren vurdere er det mest hensigtsmæssige i forhold til historien. Det kunne eksempelvis være brudskade når karakteren falder ned fra noget højt eller giftskade hvis karakteren spiser noget giftigt.
+
+Handlingslammet
+Karakteren mister overblikket og gennemfører ikke sin handling. Tabet af overblik forhindrer karakteren i at benytte ekspertiser, farmaka og grej i denne runde. Denne konsekvens benyttes i situationer hvor mesteren vurderer at et fejlrul tvinger karakteren til at bruge hele sin runde på at få overblikket tilbage. Det kunne eksempelvis være hvis karakteren falder omkuld og må bruge runden på at rejse sig igen.
+
+Forgæves
+Karakteren har forsøgt alle tilgængelige muligheder for at gennemføre handlingen og har fejlet. Spilleren må vente til karakteren har hvilet, før karakteren må forsøge samme handling igen. Denne konsekvens er særlig anvendelig når spilleren ruller kundskabsrul for at afgøre om karakteren her en bestemt viden men er også anvendelig hvis mesteren ønsker at et fejlrul skal stoppe karakteren i sin handling, eksempelvis hvis karakteren vil åbne et pengeskab, det antages at ligge langt over karakterernes formåen. 
+
+Fumlerul
+Ruller spilleren to 1'ere er det et fumlerul. Et fumlerul betyder at karakteren bliver handlingslammet i denne runde, men fumlerullet er samtidig en indikator for slid på grej.
+
+Slid
+Et fumlerul betyder at et grej er slidt, brugt eller på anden måde blevet uanvendeligt. Derfor skal spilleren slette et valgfrigt grej med det samme. Det skal være grej fra den karakter som ruller fumlerullet. Hvis karakteren har grej på sig, der ikke kan gå i stykker, skal spilleren vælge et andet grej, der kan gå i stykker. Hvis karakteren slet ikke har grej på sig eller kun har grej, der ikke kan gå i stykker, sker der ingenting.
+
+Runden
+Når mesteren ruller en grad starter en runde automatisk. I en runde kan karakteren udføre ét evnerul, én reaktion samt benytte lige så mange ekspertiser det ønskes. Når alle karakterer har udført sit evnerul og brugt de reaktioner og ekspertiser, det er fundet nødvendigt, er runden forbi.
+
+Evnerul
+Karakteren har ét evnerul i hver runde. Der kan opstå situationer hvor karakteren kan vælge mellem flere handlinger og med kun ét evnerul må spilleren vælge hvilket handling, karakteren foretager sig. Hvis karakteren leder efter noget i et brændende hus, kan spilleren eksempelvis vælge mellem at undgå flammerne, eller at lede. Hvis karakteren vælger at undgå skade fra ilden, kan karakteren ikke samtidig lede og hvis karakteren vælger at lede, kan karakteren ikke samtidig undgå flammerne. De handlinger karakteren ikke ruller for, tæller automatisk som fejlrul.
+
+Reaktion
+Karakteren har én reaktion i hver runde. Reaktion kan bruges til at give eller modtage et grej fra andre eller bruge et grej, der udløses med forbrug.
+
+Ekspertiser
+Nogle ekspertiser aktiveres automatisk, andre koster en tilstand at udløse. Karakteren kan udløse alle sine ekspertiser i runden, hvad enten det er indlærte handlinger eller kommer fra grej. Uanset om ekspertisen er automatisk eller koster tilstand, kan karakteren kun bruge den samme ekspertise én gang i samme runde.
+
+Holdindsats
+Der kan opstå handlinger, der kræver at flere karakterer hjælper hinanden med at gennemføre den. Det gælder eksempelvis være når karakterne skal bære noget, der er så tungt eller stort, at det kræver mere end én karakter at løfte det, eller hvis en maskine skal betjenes af flere personer på samme tid. Det kan være alle karakterer skal klare samme evnerul, men det kan også være forskellige evnerul. At løfte noget tungt eller stort vil kræve flere styrkerul, mens maskinen måske skal betjenes med teknologirul, bioalkymirul og fysikrul. Det behøver ikke være den samme grad, til de forskellige evnerul, men mesteren benytter samme rul til at bestemme graderne. Hvis maskinen eksempelvis skal betjenes med teknologi- og bialkymirul mod normal og et fysikrul mod let, så ruller mester ternignerne og lægger resultatet til henholdsvis +5 (normal) og +0 (let). Ved er rul på 7, giver det en grad 12 til teknologi- og bialkymirul og grad 7 til fysik. Når holdindsats benyttes, oplyser mesteren spillerne om hvilke evner og hvor mange succesrul, handlingen kræver. Spillerne vælger selv hvem, der skal rulle hvilke evnerul, men det skal besluttes før rullet.
+
+Talenter
+Talenterne er karakterens fysiske og mentale evner. Når talenterne bruges betyder det at karakteren trækker på sin fysiske evner for at gennemføre handlingen og kan på den måde også indbefatte viden om det pågældende talent. Til hver talent er knyttet en kampstil, fire forbedringer og en ekspertise. Kampstilen kan benyttes fra starten, mens forbedringerne og ekspertisen kan opnås efterhånden som karateren stiger i det pågældende talent. Læs om kampstil i kampbogen s.?. og om forbedringerne i Forbedringsbogen s.?.
+
+Fysik
+Karakterens kropslige modstandskraft. Anvendes når karakteren presses fysisk, eksempelvis ved løb og svømning, når karakteren skal udholde fysiske udmattelse, undgå smitte og modstå gift.
+
+Kampstil: Står med begge ben solidt placeret i jorden for at udmatte modstanderen
+Forbedring: stjerne, liv, helbred, grej
+
+Vital
+HELBREDLOFT +2 | AUTO
+Som vital får karakteren +2 i helbredsloft. Noteres i bonusfeltet under helbred.
+
+Karisma
+Karakterens udstråling og underholdningsevne. Benyttes til at intimidere og charmere, spille skuespil, ændre stemme, synge, danse og når karakteren spiller på musikinstrumenter.
+
+Karisma: Udviser overmod og kækhed for at forvirre modstanderen
+Forbedring: stjerne, kraft, psyke, helbred
+
+Mental
+KRAFTLOFT +2 | AUTO
+Den mentale karaktere får +2 i kraftloft. Noteres i bonusfeltet under kraft.
+
+Sanse
+Karakterens opmærksomhed og sensitivitet. Bruges til at høre, se, føle, lugte og smage samt til at opdage noget, lede efter skjulte ting eller finde tabte sager.
+
+Kampstil: Holder skarpt øje med fjenden for at undvige modstanderens slag
+Forbedring: stjerne, psyke, liv, udbytte
+
+Præcision
+HELBRED +1 | KRAFT
+Karakteren kan bruge fokus for kraft. Noteres med +3 i fokusfeltet under kraft.
+
+Sind
+Karakterens viljestyrke og empati. Anvendes når karakteren udsættes for mentale udmattelser som stress og rædsel, men benyttes også til at læse en persons sindstilstand samt til at mærke åndelig aktivitet.
+
+Kampstil: Aflæser fjendens mimik og bevægelser for at forudse modstanderens træk
+Forbedring: stjerne, kraft, liv, psyke
+
+Hærdet
+PSYKELOFT +2 | AUTO
+Som hærdet får karakteren +2 i psykeloft. Noteres i bonusfeltet under psyke.
+
+Snilde
+Karakterens smidighed og balanceeven. Bruges når karakteren skal bevæge sig uset, hvad enten det er en håndbevægelse eller at snige sig rundt. Snilde bruges også når karakterens reaktionsevnes skal afprøves og når karakteren skal bevæge svært fremkommelige steder.
+
+Kampstil: Flytter sig let på tå for at udmanøvrere modstanderen 
+Forbedring: stjerne, udbytte, helbred, grej
+
+Bæreevne
+UDBYTTELOFT +2 | AUTO
+Med bæreevne får karakteren +2 i udbytteloft. Noteres i bonusfeltet under udbytte.
+
+Styrke
+Styrke er karakterens råstyrke og håndkraft. Benyttes til at klatre, løfte, holde fast, skubbe, flå og rive i stykker samt når karakteren lægger arm eller brydes.
+
+Kampstil: Tonser mod fjenden for at slå gennem modstanderens parader
+Forbedring: stjerne, udbytte, liv, grej
+
+Styrke
+Slagkraftig
+PRYGL 2 STJERNER | AUTO
+Den slagkraftige karakter får to stjerner i prygl.
+
+Kundskaber
+Karakterens evner inden for viden og indsigt. Når kundskaberne bruges betyder det at karakteren trækker på sin viden for at gennemføre handlingen og kan på den måde også indbefatte fysiske handlinger. Til hver kundskab er knyttet en modeffekt, fire forbedringer og en ekspertise. Modeffekten kan benyttes fra starten, mens forbedringerne og ekspertisen kan opnås efterhånden som karateren stiger i den pågældende kundskab. Læs om modeffekter i kampbogen s.?. og om forbedringerne i Forbedringsbogen s.?.
+
+Bioalkymi
+Karakterens viden om naturen, biologiske og organiske processer. Bruges når karakteren udfører handlinger, der omhandler naturen eller viden om alkymi, karnumteknologi, medicin, farmaka samt biokemisk obduktion.
+
+Modeffekt: Afværge giftskade
+Forbedring: stjerne, stjerne, helbred, sjæl
+
+Biomanipulation
+LAV FARMAKA OM | UDBYTTE
+Med biomanipulation kan karakteren lave en farmaka om til en anden farmaka mod at bruge 1 udbytte.
+
+Feltkunst
+Karakterens viden om navigation og rekognoscering. Det er evnen til at finde gennem ukendt terræn samt at rekonstruere hændelser ud fra efterladenskaber og følge efterladte spor.
+
+Modeffekt: Afværge livskade
+Forbedring: stjerne, stjerne, grej, sjæl
+
+Grejmester
+AUTO-GREJ TIL KARAKTER | UDBYTTE
+Som grejmester kan karakteren bruge 1 udbytte og give effekten af et auto-grej karakteren har på sig, til en anden karakter.
+
+Kultur
+Kultur udtrykker karakterens almene viden om menneskets historie og kulturer, herunder religion, skikke, kunst og politik. Det er også med kultur karakteren kan læse og tale eksisterende sprog.
+
+Modeffekt: Afværge kraftskade
+Forbedring: stjerne, stjerne, kraft, sjæl
+
+Patriot
+LIV +1 | HELBRED
+Som patriot kan karakteren få +1 liv mod -1 helbred. Karakteren kan ikke opnår mere liv end livloftet tillader. 
+
+Mytologi
+Mytologi er karakterens viden og evne til at bruge de dunkle kundskaber; magii, tydning af oldsprog og glemte skrifttegn, arkæologi samt viden om astrologi og de ikke-menneskelige kulturer.
+
+Modeffekt: Afværge psykeskade
+Forbedring: stjerne, stjerne, psyke, sjæl
+
+Traume
+TO STJERNER FOKUS LIV | AUTO
+med indsigten i den dunkle viden får karakteren en traume, der kan udnyttes til at udløse fokus for liv. Markeres med +3 i fokusfeltet under liv samt i de to stjerne nedenunder. 
+
+Okkultisme
+Okkultisme er karakterens viden om de kultiske kundskaber; en forståelse af ånderne, dæmonerne og de forskellige heksekulte samt evnen til at læse og forstå åndesymbolik og udføre okkulte ritualer.
+
+Modeffekt: Afværge helbredskade
+Forbedring: stjerne, stjerne, liv, sjæl
+
+Ritual
+HELBRED +1 | PSYKE
+Med et lille ritual kan karakteren få +1 helbred mod -1 psyke. Karakteren kan ikke opnå mere helbred en helbredloftet tillader.
+
+Teknologi
+Teknologi er karakterens matematiske forståelse og indsigt i fysikkens love; magnetisme, optik, energi. Den afspejler karakterens evne indenfor byggekunst, mekanik, elektricitet, håndværk samt håndtering af maskiner.
+
+Modeffekt: Afværge brudskade
+Forbedring: stjerne, stjerne, udbytte, sjæl
+
+Kreativ
+FREMSTIL GREJ | UDBYTTE
+Evnen til at fremstille grej varemagasinet mod at bruge 1 udbytte for hver 3 penge grejet har i udgift. Hjemmefremstillet grej har samme udgift som købt grej, men det skal noteres som skrotgrej. Ved fumlerul er det altid skrotgrej, som går i stykker først.

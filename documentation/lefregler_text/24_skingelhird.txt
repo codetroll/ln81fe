@@ -1,0 +1,48 @@
+Skingelhird
+De fremmede
+
+Skingelhirden er de mest rædselsvækkende vandvidsvæsner. De kommer fra en fremmed og ukendt verden kaldet Skingelgurk og er hverken fysiske eller åndelige. De ser meget forskellige ud, men fælles for dem er det sorte og glatte stof de består af, udflydende og tågeagtig i deres bevægelser. De hører ikke til i denne verden og ernærer sig på mystisk vis ved at sprede vanvid blandt de levende. De forfølger deres ofre, til offeret er udsuget og tømt for al livsenergi. Ofre af skingehirds rædsler efterlades altid som indtørrede lig. Man ved ikke med sikkerhed, hvorfra Skingelhirden kommer, men i de gamle skrifter; Kmoriske fragmenter og Halklan manuskripterne, nævnes det, at de kommer fra den mørkelagte verden; Skingelgurk og det er på grund af denne teori, man har givet arten sit navn.
+
+Elvarin
+Ældre end de ældste er, de første af stjernelysets folk. Høje og slanke kroppe, huden månebleg, håret sølverblankt, øjnene smalle og mandelformede med blanke hvide pupiller og et afgrundsdybt blik. Ørerne er spidse, ansigterne symmetrisk smukke og hele deres holdning er stolt og elegant. Elvarin er et nattefolk, de ernærer sig ved stjernernes lys og er derfor oftest oppe om natten, siddende eller legende under stjernehimlen. De kan kan spise og drikke, men ingen af delene giver ernæring og virker nærmest euforiserende på dem. De er immune overfor enhver sygdom og selvom de ældes, dør de ikke af alderdom. Deres oprindelse er et mysterium, kun legender kan berette de kom til fastalandet i skibe og slog sig ned længe før naturen slog rod i den golde klippejord. De kom med et ukendt og mystisk formål, der med tiden synes at være blegnet og udfaset. Elvarin lever som flygtninge i mindre grupper og gemmer sig i skovene Belerion og Berendel. I Dybskov ligger Stjernedal, der er det eneste sted mennesket kan tage kontakt med dem.
+Mytologi 30
+Lysskjul (PANSER 8 | EFFEKTRUL)
+Overlegen (HELBREDSKADE ALLE | AUTO)
+Uvirkelig (VALGFRI OMRUL KAMPGRAD | AUTO)
+Voldsom (KAMPGRAD RAMMER ALLE | AUTO)
+
+Onokil
+De ældste af de ældste er onokilen, det andet af stjernelysets folk. Slanke, høje kroppe, sorte som olie, tynde som mynder med udtryksløse smalle ansigter og hvide ovale pupilløse øjne. De er skaldede, ørerne let spidse og som elvarin ernærer de sig af stjernelys. Ingen sygdom kan ramme onokilerne og de hverken ældes eller dør af alderdom. Onokilens krop kan fungere som portal for andre onokiler, således at de kan rejse og træde ud gennem hinanden. Der findes tre arter af onokiler, der oprindeligt holdt til i hver deres matrespir; krigerne fra Nakthrin, arbejderne fra Gnathore og drømmevæverne fra Forgwaidh. Arterne udgøres ikke af fysiske forskelle, men af tre fælles bevistheder, hver af dem samlet i en onokil-autark, lederne. I dag findes der kun onokiler i Gnathore og Forgwaidh.
+Mytologi 30
+Mørkedans (PANSER 8 | EFFEKTRUL)
+Overlegen (LIVSKADE ALLE | AUTO)
+Uvirkelig (VALGFRI OMRUL KAMPGRAD | AUTO)
+Voldsom (KAMPGRAD RAMMER ALLE | AUTO)
+
+Astralkvæler
+Enorm sort-purper orm med en ti meter lange krop, der skifter og forandrer konstant form, strækker sig og vrider sig som var den i smerte. Med den følger ulyset, der omgiver den med et dunkelt mørke og den er hurtig i dens jagt gennem luften. Det siges de blev skabt af en ukendt entitet, til at bekæmpe nattekravlerne.
+Sind 10
+Kvælning (HELBREDSKADE | EFFEKTRUL)
+Rædsel (PSYKESKADE | EFFEKTRUL)
+Uvirkelig (VALGFRI OMRUL KAMPGRAD | AUTO)
+
+Dunkelbæst
+Kraftige og muskuløse skingelhird, bliver gerne to en halv meter høje, humanoid men uden øjne og mund. Armene er langstrakte, benene noget kortere og kroppen foroverbøjet. Skuldrene løfter sig højt bag dens hoved, hænder og fødder er ens, abeligende med store klør. Den siges at være intelligente, men det kan ikke bekræftes ud fra de møder mennesket har haft med dem. Dunkelbæstet er den eneste skingelhird, som kan en form for magii, eksempelvis kan den åbne til skingelgurk eller gøre sig usynlig, når den ikke er i kamp.
+Fysik 10
+Aggressiv (LIVSKADE ALLE | AUTO)
+Usynlig (PANSER 8 | EFFEKTRUL)
+Uvirkelig (VALGFRI OMRUL KAMPGRAD | AUTO)
+
+Nattekravler
+Kun få af skingelgurks entiteter omtales med navn og en af dem er den rædselsfulde Haremtek, der i følge de gamle tekster skabte nattekravlerne for at bekæmpe en super-intelligent fjende. Nattekravleren bliver omkring to meter høj med sorte vinger langs de smidige arme, der ender i hæslige gribeklør. Benene er lange og stærke, ligeledes med gribeklør og bagtil har den en lang smidig hale, der bruges til at kilde sit offer med. Den er lydløs og kan hverken høres når den kravler eller flyver.
+Sind 10
+Hurtig (KRAFTSKADE ALLE | EFFEKTRUL)
+Vanvid (PSYKESKADE ALLE | AUTO)
+Uvirkelig (VALGFRI OMRUL KAMPGRAD | AUTO)
+
+Obskurbant
+Uhyrlige disciple skabt af en mystisk ydre Gud, der havde sin bopæl i et glemt tempel et sted kaldet Uman Tu. De fremstår som formløse sorte tåger med syv pulserende krystalkugle-lignende øjne. De er skabt af vanvid og alle Skingelgurks elementer, de kender hvert et hjørne af Skingelgurk og behøver ikke lys til at finde rundt. I visse skrifter kaldes de også vogtere, der skulle overvåge Skingelgurk. Men ifølge myten kunne den ydre Gud kunne ikke rumme alle de sanseindtryk og vanviddet greb både den og disciplene, indtil de udførte et hæslig og ødelæggende ritual, hvor Guden knuste sig selv.
+Karisma 10
+Vanvid (PSYKESKADE ALLE | AUTO)
+Forfald (HELBREDSKADE ALLE | AUTO)
+Uvirkelig (VALGFRI OMRUL KAMPGRAD | AUTO)

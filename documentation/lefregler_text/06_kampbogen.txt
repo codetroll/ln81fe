@@ -1,0 +1,120 @@
+Kampbogen
+Sådan foregår kamp
+
+
+
+
+
+Mesteren ruller en kampgrad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************
+
+
+
+
+
+
+
+Kamp er den yderste løsning af konflikter og er til enhver tid god at omgå. Men der kan opstå situationer, hvor kamp, en den ene eller anden grund, er uundgåelig. Det er når kampen går i gang, at mesterrollerne bliver til modstandere. Læs mere i Arternes bog s.?.
+
+En karakter kan enten være ’i kamp’ eller ’udenfor kamp’. Karakterer, som angriber eller bliver angrebet, er automatisk ’i kamp’. Kun når en karakter er ’i kamp’ kan karakteren påvirke kampen med sit grej, farmaka, sine evner og ekspertiser. En karakter ’udenfor kamp’ kan ikke påvirke kampen på nogen måde, men kan vælge at gå ’i kamp’ og deltage i samme kamprunde, med mindre særlige forhold forhindrer det. En karakter ’i kamp’ kan ikke forlade kampen uden at vinde den, tabe den eller manøvrere sig ud af den.
+
+Kamprunden
+En kamprunde begynder i samme øjeblik nogen vælger at angribe. Kamprunden fungerer som en almindelig runde men her benytter karakteren talenterne til at kæmpe med og kundskaberne til at afværge effekter med. Kamprunden afspejler en hel scene med flere udfald og handlinger fra både karakterer og modstandere, der tilsammen udgør kamprundens samlede resultat. På den måde betyder afstand mellem de kæmpende ikke noget, da kamprunden automatisk tillader at kampdeltagerne bevæger sig og går i bedst mulige stilling i forhold til fjenden.
+
+Så længe kampen står på, kan karaktererne ikke udføre handlinger, som modstanderne vil forhindre. Hvis karaktererne eksempelvis vil plyndre besejrede fjender, fange en modstander, stjæle eller åbne noget modstanderne bevogter, kan det ikke gøres, før kampen er vundet.
+
+Når alle karakterer har handlet i en kamprunde, begynder en ny kamprunde, indtil enten karaktererne eller modstanderne vinder eller flygter fra kampen.
+
+Kampgrad
+Som det første i hver kamprunde ruller mesteren en kampgrad bestemt af modstanderens grad. En kampgrad svarer til de almindelig grader; let, normal, vanskelig, svær, hård, urimelig og episk. Hvis der er flere modstandere med forskellig kamp, benyttes den laveste kamp. Det har ingen betydning om mesteren ruller dobbelt et, det tæller som 2.
+
+Effekt
+Modstanderens automatiske effekter og egenskaber er automatisk aktive mens effekter, der udløses på effektrul, kun aktiveres hvis mesteren opnår 8 eller højere på rullet. Den samme effekt og egenskab kan kun have effekt én gang i hver kamprunde, også selvom det kommer fra forskellige modstandere. Effekter og egenskaber betragtes kun som ens, hvis både effekten og måden den udløses på, er den samme. Modstandere med både livskade ved effektrul og automatisk livskade er eksempelvis ikke ens og derfor udløses de begge, selvom de giver samme skade. Skaden fra effekter gives til alle karakterer 'i kamp', uafhængigt af om karakteren angribes eller rammes af kampgraden. Se mere om effekter og egenskaber i Habitatbogen s.?.
+
+Kampstil
+Hvis mesteren ruller 10 eller højere på terningerne ved kampgrad, udløses modstanderens kampstil. Det betyder at karakterer, der angriber modstanderne, kun kan gøre den med den evne, som svarer til modstanderens kampstil.
+
+Evnerul
+Når kampgraden er afgjort, skal spillerne rulle deres terninger, men vælger først hvad rullet skal bruges til, efter alle har rullet. På den måde kan spillerne først finde frem til den bedste strategi ud fra deres evnerul og ekspertiser. Karakteren har kun ét evnerul og må vælge hvilken af de fire kamphandlinger det skal bruges til; modeffekt, prygl, kamp eller manøvre.
+
+Modeffekt
+Spilleren kan vælge at bruge sit rul til at afværge én af modstandernes effekter og lægge rullet til den kundskab, der kan afværge den pågældende effekt. På karakterskemaet står hvilke skade fra effekter, kundskaben kan afværge, noteret med symboler i sorte skjolde under hver kundskab. Effekter, der giver kraftskade, skal eksempelvis afværges med kultur, uanset om den udløses automatisk eller ved effektrul. Hvis kamprullet bliver ligmed eller højere end kampgraden, annulleres den pågældende effekt og ingen karakterer påvirkes af den.
+
+Kamprul
+Spilleren kan vælge at bruge sit rul til at gå i kamp mod fjenden og lægge rullet til et valgfrit talent. Hvis modstanderne har udløst kampstil, kan karakteren kun benytte den evne, der svarer til modstanderens kampstil. Ved et resultat højere end kampgraden, får modstanderen 1 livskade. Et lige resultat, giver 1 livskade til både modstander og karakter, mens et lavere resultat giver 1 livskade til karakteren.
+
+Når karakteren rammer
+Når karakteren giver modstanderen skade, gives livskaden til modstanderen med lavest kamp. Modstandere der falder til 0 liv, bliver ukampdygtige eller dør. Læs mere om væsner i Arternes bog s.?.
+
+Når modstanderen rammer
+Hvis der er flere eller lige så mange modstandere, som der er karakterer, rammer kampgraden alle karakterer. Hvis der er færrer modstandere end karakterer, rammer kampgraden kun lige så mange karakterer som antallet af modstandere. Modstanderne angriber de karakterer, som opnår de laveste terningerul. Hvis flere karakterer ruller lige lavt på terningerne, bestemmer spillerne selv hvem, som rammes af kampgraden.
+
+Prygl
+Hvis karakteren udfører et kamprul og spillerens rul er ligmed eller højere end karakterens prygl, får modstanderen automatisk 1 livskade, uanset kampgraden. Spilleren kan dertil vælge at bruge sit rul til et pryglrul istedet for et kamprul. Et pryglerul betyder at karakteren skal rulle terningerne igen, og hver gang terningerullet bliver ligmed eller højere end prygl, får modstanderen 1 livskade og der udløses et nyt pryglrul. Pryglene ophører så snart terningerne ikke opnår prygl eller højere. Hverken fumlerul, stigerul eller sjælerul gælder ved pryglerul. Ved pryglrul får karakteren automatisk livskade, hvis karakteren rammes af kampgraden.
+
+Manøvre
+Karakteren kan kommandere i kamp ved at lægge rullet til feltkunst. Med et feltkunstrul lige med eller højere end kampgraden, kan karaktererne enten give skade til en selvvalgt modstander eller karaktererne kan flygte fra kampen efter kamprundens afslutning. De karakterer som vælger at flygte vil være 'udenfor kamp' i næste kamprunde.
+
+Kampudfordring
+En kampudfordring er en situation, der udspiller sig i kampen og som karaktererne er tvunget til at reagere på med et evnerul. Kampudfordringer afvikles i starten af hver kamprunde og de evnerul karaktererne tvinges til at benytte, gives uafhængigt af det éne rul karakteren har i hver kamprunde. Kampudfordringer bruges til at dramatisere og variere kampen undervejs. Det kan eksempelvis være en særlig manøvre, som modstanderen kan udføre, en magisk formular eller okkult kraft. Det kan også være vejrforhold, skjulte fælder, hvis kampen foregår i giftige dampe, i et brændende hus eller under et rystende jordskælv. Fælles for kampudfordringer er, at de udløser en eller flere grader, som karaktererne skal klare med en evne bestemt af situationen, eksempelvis okkultisme for at modstå en okkult kraft, eller snilde, for ikke at vælte under jordskælvet.
+
+Modstanderne vinder
+Normalt går kamp ikke ud på at dræbe, men på at besejre modparten. De fleste modstandere efterlader besejrede karakterer bevidstløse, med mindre der er omstændigheder, som bestemmer at modstanderne er ude efter karakterernes liv. Røvere og trolde plyndrer deres ofre for penge og grej, men der findes også væsner som udøde, uhyrer og skingelhird, der kæmper til karaktererne er sten døde. Hvis modstanderne vil dræbe karakterene, sker det først efter alle karakterer er besvimet og dermed besejret.
+
+Karaktererne vinder
+Besejrede modstandere er normalt bevidstløse, men der kan være situationer, hvor modstanderne kæmper til døden, eksempelvis ånder, udøde, uhyrer og skingelhird. Mennesker og trolde kan derimod ofte finde på at flygte eller overgive sig, før de taber kampen.
+
+Udbytte
+Karaktererne kan plyndre 1 udbytte for hver besejret modstander, uanset om denne er bevidstløs, har overgivet sig eller er død. Udbyttet repræsenterer det udstyr, som modstanderen havde på sig og defineres som værdigenstande og ødelagt grej til genbrug. Det er yderst sjældent modstandere har penge på sig, med mindre de besejres i en situation hvor det er nødvendigt eller logisk for dem, at have det.
+
+Brydud
+Normalt er karakterer i kamp låst fast i situationen og kan ikke komme fri uden at vinde kampen eller flygte fra den. Det er antallet af modstandere, som afgør hvor mange karakterer, der er bundet til kampen. Hvis der er flere karakterer end modstander, kan de overskydende karakterer altid slippe bort uden brug af manøvre eller andet. Men hvis der er lige så mange modstander, som der er karakterer eller flere, så er alle fastlåst i kampen. Karaktererne kan forsøge at flygte med en manøvre, men hvis alle karakterer udfører kamprul og klarer kampgraden, kan de vælge at kæmpe sig gennem modstanderne og videre ud på den anden side. På den måde kan karakterene kæmpe sig gennem flere modstandere og komme videre. Modstanderne kan naturligvis vælge at optage forfølgelsen.
+
+Holdop
+Et holdop er en situation, hvor den ene part står i umiddelbar nærhed med et skydevåben rettet mod sin modstander, eller står helt tæt på med en kniv for struben og tilsvarende. Uanset om det er karakteren eller modstanderen, der holder den anden op, afgøres det på samme måde. Mesteren ruller en kampgrad bestemt af modstanderens kamp og spilleren udfører et evnerul i den evne, der svarer til modstanderens kampstil. Den som ruller højest får livskade svarende til den højeste terning af både mesterens og spillerens rul. Den som opnår lavest resultat får livskade svarende til den laveste terning. Ved lige resultat får begge skade skade svarende til den højeste terning.
+
+Snigangreb
+Et snigangreb er en situation, hvor karakteren sniger sig ind på modstanderen med et snilderul eller udfører et sigteskud med et sanserul mod et uopmærksomt mål. Sigteskud kan kun udføres med rifler, buer eller armbryst. Mesteren ruller en kampgrad bestemt af modstanderens kamp og spilleren udfører sit evnerul i den evne, snigangrebet kræver. Hvis spilleren opnår et resultat lig med eller højere end kampgraden, får modstanderen livskade svarende til den højeste terning af både mesterens og spillerens rul. Hvis spilleren opnår et lavere resultat undgår modstanderen snigangrebet og en kamprunde begynder, hvis målet ønsker det. Det kræver en særlig ekspertise eller grej at slå en modstander ud, i stedet for at snigangribe.
+
+Baghold
+Ved at ligge i baghold kan karakteren eller modstanderen starte en kamp uden den anden part kan kæmpe. Det betyder, at den part som kommer i baghold får 2 i livskade hvis de rammes i den første kamprunde. 
+
+Indirekte kamp
+Der kan opstå situationer, hvor karakterene kun indirekte er indvolveret i kampen. Det kunne være hvis karaktererne løber gennem et område, hvor der er skydes vildt, eller maser sig gennem en kæmpende menneskemængde. Her benyttes passende talentrul for at undgå skud eller slag, mod en grad bestemt af mesteren og ved fejlrul pådrages karakteren 1 livskade. Der kan være flere måde at undgå skade, her er det mesterens og spillernes fantasi, er sætter grænsen. Et styrkerul kan eksempelvis skubbe en skraldekontainer i vejen for skuddene, et fysikrul kan afgøre om de kan udholde de mange tilfældige slag i menneskemængden eller snilderul kan afgøre om karaktererne er behændige nok til at undvige livskaden.
+
+Forsvarsløs
+En person kan dræbes automatisk og uden brug af evner, hvis personen er bundet eller på anden måde forhindret i at forsvare sig, herunder hvis personen sover.
+
+Kamp med fartøj
+Når karaktererne benytter et fartøj i kamp, kæmper chaufføren med den evne, der køres eller rides med. Hvis chaufføren klare kamgraden, gives 1 livskade til modstanderen. Ved lige resultat får modstanderen 1 livskade og fartøjet får 1 brudskade. Hvis chaufføren får lavere resultat end kampgraden, får fartjøet 1 brudskade. Når et køretøj falder til -1 i brud, brænder det sammen og kan ikke længere fungere. Hvis der er andre passagerer, kan de kæmpe på almindeligvis, hvis de har skydevåben. Uden skydevåben kan en karakter ikke kæmpe fra kamp, men får heller ikke skade ved kampgrad, da de sidder beskyttet af fartøjet. Effekter påvriker dig stadig alle karakterer i kamp.

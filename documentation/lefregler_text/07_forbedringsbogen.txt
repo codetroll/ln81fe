@@ -1,0 +1,88 @@
+Forbedringesbogen
+Sådan forbedres karakteren
+
+Karakteren forbedres ved at handle i historien, det er gennem handlingerne karakteren opbygger sit rygte, sit netværk og sin viden. Viden skal forstås på to måder, der er den regeltekniske viden, der kommer med kundskaberne og så er den viden spilleren får gennem historien. Den sidste viden omhandler kendskabet til historiens personer, forholdet mellem dem, kendskab til kulturen og forhistorien. Denne viden er uden tvivl den vigtigste forbedring karakteren kan få, da det er den, som i sidste ende er nødvendig for at afsløre og løse historiens konflikter og skjulte hemmeligheder. Den regeltekniske forbedring sker jævnt og kontinuerligt gennem spillet når karakteren bruger sine evner.
+
+Skæbnerul
+Når spilleren ruller dobbelt 5 eller 6 er det et skæbnerul og betyder at karakteren forbedres i en evne. Hver gang spilleren ruller skæbnerul skal det markeres i et af de fem timeglas under skæbne på karakterskemaet. Evner kan ikke blive højere end 20.
+
+Dobbelt 5
+Ved dobbelt 5 stiger karakteren +1 point i den evne, der blev rullet. Det nye point tælles med i det samlede resultat af evnerullet. Hvis karakteren stiger i en evne, der allerede er på 20, er det karakterens laveste evne, som får +1 point. Med flere laveste evner, bestemmer spilleren selv hvilken af dem som stiger.
+
+Dobbelt 6
+Ved dobbelt 6 stiger karakteren +1 i en valgfri evne.
+
+Forbedringerne
+Når en evne stiger til 5, 10, 15 og 20 point, får karakteren en forbedring. Hver evne har fire forbedringer, som står noteret til højre for evnen med symboler og spilleren kan vælge frit mellem dem, udtaget sjælegaven, der symboliseres med en flamme. Forbedringen skal vælges med det samme.
+
+Dråbe
+Giver karakteren +1 livloft. Markeres i en dråbe under Liv.
+
+Lyn
+Giver karakteren +1 kraftloft. Markeres i et lyn under Kraft.
+
+Diamant
+Giver karakteren +1 psykeloft. Markeres i en diamant under Psyke.
+
+Hjerte
+Giver karakteren +1 helbredsloft. Markeres i et hjerte under Blod.
+
+Sæk
+Giver karakteren +1 udbytteloft. Markers i en sæk under Udbytte.
+
+Grej
+Giver karakteren +1 grejfelt. Markeres i en taske under grej.
+
+Flamme
+Kan kun vælges i en kundskab med 20 point. Giver karakteren +1 sjælegave, som markeres i en sjælegave under sjæl.
+
+Stjerne
+Vælger spilleren stjernen, kan den bruges til seks forskellige forbedringer.
+
+Ekspertise
+Ved at sætte stjernen under ekspertiser, får karakteren et nyt ekspertisefelt og kan vælge en valgfri ekspertise. Spilleren kan altid vælge en ekspertise fra karakterens blodarv og personlighed. Dertil kan spilleren vælge ekspertiser fra evner med minimum 5 point og fra dannelser, hvis karakteren lever op til kravene og har valgt dem. Læs mere i om ekspertiser i Karakterbogen under blodarv s.?. og personligheder s.?.. Ekspertiserne fra evnerne findes i Evnebogen s.?. og dannelserne forklares nærmere i Dannelsesbogen s.?. 
+
+Prygl
+Ved at sætte stjernen i prygl, sættes den langsomt ned. Det kræver to stjerner at falde 1 point i prygl. Læs mere om prygl i Kampbogen s.?.
+
+Levned
+Ved at sætte stjernen i levned, forøges både hvor meget skade karakteren helbredes efter hvile og karakterens indtægt i privaten. Læs mere om hvile i Karakterbogen s.?. og om privaten i Forbedringsbogen s.?.
+
+Fokus
+Med to stjerne i fokus, kan karakteren fremover benytte fokus med den pågældende tilstand. Noteres med +5 i fokusfeltet under den valgte tilstand.
+
+De forbudte markeder
+Med to stjerner kan karakteren få adgang en af de to forbudte markeder; det sorte marked eller det okkulte marked. Fremover kan karateren købe grej fra det pågældende marked, de samme steder hvor karakteren kan købe på det åbne marked.
+
+Speciale
+Et speciale giver karakteren tilladelse til at bruge en evne to gange til at opnå en dannelse. Læs mere om dannelser i Dannelsesbogen s.?.
+
+
+
+
+
+
+
+Privaten
+Hver gang en spiller ruller skæbnerul, skal det markeres i et timeglas under skæbne på karakterskemaet. Når en spiller markerer det femte timeglas, skal alle karakterer i privaten. Privaten er en metahandling, der afspejler karakterens liv og levned over tid og er ikke en handling, der foregår på et konkret tidspunkt i historien. I privaten skal spilleren administrere op til fire forhold; lære, indtægt, udgift og træning.
+
+Lære
+Alle karakterer skal stige 1 point i lige så mange evner, som karakteren har umarkerede timeglas under skæbne. Spilleren vælger frit hvilke evner, som skal stige, men karakteren kan kun stige 1 point i samme evne. Den spiller som udløser privaten har altid alle 5 timeglas markeret og kan derfor ikke lære noget i denne privat. Efter privaten har alle karakterer det samme antal point i evner.
+
+Indtægt
+Karakteren får 10 penge for hver markeret stjerne i levned.
+
+Udgift
+Karakteren skal betale udgift for alt sit grej, både det, som er noteret på karakterskemaet det som står noteret andre steder. Udgiften går til at vedligeholde grejet og koster svarende til grejets udgift. Grej, der ikke betales udgift for, går i stykker og slettes fra karakterskemaet med det samme. Der kan også være faste rollespilmæssige udgifter, som udgifter til et hjem, til en familie eller afbetaling på lån.
+
+Træning
+Spilleren kan udskifte en ekspertise efter eget valg. Ekspertiser fra dannelser kan ikke udskiftes.
+
+Afslut privaten
+Når alt er ordnet i privaten slettes alle markeringer i timeglassene.
+
+Sjælegave
+Når en kundskab opnår 20 point markeres det i forbedringen med flamme-symbolet. Det betyder at karakteren har fået en sjælegave og frit må vælge en af de seks sjælegave under sjæl på karakterskemaet. En sjælegave betyder at spilleren på sjælerul må slette 1 skade i én af de sjælegaver karakteren har. 
+
+Sjælerul
+Sjælerul er et rul på dobbelt 2, dobbelt 3, dobbelt 4, dobbelt 5 eller dobbelt 6.

@@ -1,0 +1,25 @@
+Autonarkerne
+De mekaniske
+
+Det var Mekkel Venderberg, som opfandt den første autonark i 1140, en optrækkelig mekanisk robot, der kunne styres via en kontrol. Den storregianske hær købte pantentet i 1142 og gennembruddet kom for alvor, da forskningsoberst Henriette Von Bard opfandt agnosen i 1147. Agnosen var en elektrisk enhed med linse, der kunne få robotten til at se og reagere på sine omgivelser uden fjernstyring. Agnosen var på den tid den største militære hemmelighed, men teknologien kom frem i dagens lys efter storregias fald. Den teknologi, der lå bag agnosen var den første kendte fremstilling af manateknologi, der er kunsten at binde ånder i komponenter og påvirke dem gennem elektroniske impulser. På den måde kan manateknologi efterligne reaktionsmønstre og virke delvis intelligente, selvom den er kunstig. Den første massefremstillede autonark var Sentron PROTO, der blev produceret af Nordlandsk Mekanik og kom på gaden i 1190. Der er siden fremstillet talrige udgaver af autonarken, både til at udføre tungt løftearbejde og til bevogtningsopgaver.
+
+Autonaut
+En hurtig og let robot med fastmonteret maskinpistol til bevogtning. Kører på to mindre larvehjul og udstyret med genkendelsesmodul, der tillader personale med adgangskort at passere. Bruger petrolium som brændstof.
+Sanse 4
+Mekanisk (PANSER 8 | AUTO)
+Maskinpistol (LIVSKADE ALLE | EFFEKTRUL)
+Motor (KRAFTSKADE ALLE | EFFEKTRUL)
+
+Protektor
+En kraftfuld autonark med fuld panserdækning, fire maskinpistoler og granatkaster. Den bevæger sig hurtigt og mobilt på sine tre hydraulikben, den er petroliumsdrevet og udstyret med avanceret genkendelsesmodul, der kan genkende ansigter og tillade godkendt personale at passere.
+Fysik 6
+Mekanisk (PANSER 8 | AUTO)
+Motor (KRAFTSKADE ALLE | EFFEKTRUL)
+Granatkaster (LIVSKADE ALLE | AUTO)
+
+Aggrenaut
+Aggrenauten er en tobenet petroliumdrevet krigsmaskine med selenforet stålpanser og maskingevær, der kan skyde 180 grader vandret. Det er den mest kraftfulde autonark i den tunge klasse og den eneste, som benyttes i krig til bevogtning af fremskudte stillinger og militære mål. Aggrenauten er udstyret med avanceret manateknologisk genkendelsesmodul, der kan genkende ansigter og tillade godkendt personale at passere.
+Styrke 10
+Manateknologisk (KRAFTSKADE ALLE | AUTO)
+Maskingevær (LIVSKADE ALLE | AUTO)
+Mekanisk (PANSER 8 | AUTO)

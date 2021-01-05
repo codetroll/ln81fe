@@ -1,0 +1,64 @@
+Trolde
+De brutale
+
+Alle trolde nedstammer fra urtroldene, som man idag ved var sesrymnerne. Det var sesrymnerne, der fik sjæl og forandrede sig til mere eller mindre individuelle væsner. De spredte sig over store dele af det nordlige suborien, men drog senere til hoddmimer skov, hvor Valhel ligger idag. De udviklede sig i mange retninger og blev til mange forskellige trolde, herunder hedetroldene, der udviklede sig til mennesket. Men mange andre trolde har overlevet i talstærke horder, nogle i bjergene, andre i skovene og atter andre nasser på menneskebyernes ressurser.
+
+Forkvakling
+Forkvaklinger er de mindste i troldeslægten og måler ikke højere end halvanden meter, lavere end de skæggede umnol. Øjnene er røde og stikkende, huden mørkegrøn med et gustent gult skær og sylespidse tænder i kæften. Lange næser, krogede fingre og sorte klør på hænder og tær. De stinker af affald og ekskrementer, hvilket ofte afslører deres ankomst. Forkvaklinger bor i huler og kloakker, de er mestre til at bygge underjordiske gange og behersker kunsten at lave de mest sindrige fælder. Et bo har altid mange udgange og mange tunneler til for at forvirre den indtrængende. Boet er tilmed altid fyldt med sindrige fælder, der gør det svært for den uindbudte gæst at komme langt. Da mennesket byggede store byer, flyttede mange forkvaklinger med. De slog sig ned i kloakkerne og udviklede sig væsentligt forskelligt fra forkvaklingerne i naturen. De begyndte at handle med mennesker, lærte teknik og brug af moderne våben og blev snart mere snu og kløgtige end deres forfædre.
+Snilde 2
+Tykhudet (PANSER 5 | AUTO)
+Smitte (HELBREDSKADE ALLE | EFFEKTRUL)
+
+Bjergtrold
+Bjergtrolden er den talrigeste blandt alle trolde, store og stærke, varierende højde fra 170cm til 250cm og med store skarpe hugtænder i deres store gab. Nogle er behårede med strid og ildelugtende pels, andre er beklædt med panser af ekstra tykke hudplader og der er dem med issede hoveder og horn eller en blanding af det alt sammen. De er grålige i hud og pels med brune eller sorte plamager. På hænder og fødder har de lange kratige klør og i deres grusomme ansigter stikker to små røde øjne. Deres beklædning virker tilfældig, men har det stor symbolsk betydning. Man tager på hvad man erobrer sig. Rustningsdele og stykker af forhenværende fjender er yndede smykker, guldørenringe, ringe og halskæder. I krig er de berømte for at tilsvine og håne fjenden med råb og snerren. Det sker, at bjergtrolde rider på ryggen af de store varg-ulve, hvilket giver bjergtrolden 8 i liv istedet for 4.
+Styrke 4
+Tykhudet (PANSER 5 | AUTO)
+Aggressiv (LIVSKADE ALLE | EFFEKTRUL)
+Udholden (HELBREDSKADE ALLE | EFFEKTRUL)
+
+Jerntrold
+Barske og ubarmhjertige med et brændende had til alt og alle. Deres hud er mørkegrå og kraftigt rynket, skallet men med hårduske flere steder på kroppen, der bliver op til to en halv meter høje. De æder deres fjender efter kamp og holder slaver, der må arbejde til de dør af mangel på lys og luft. Jerntroldenes oprindelige navn er kaukil og de blev skabt i fordums tid af onokilautarken Nauglaf af Nakhtrin. Som de blev skabt i smerte, fødes de i smerte og bærer smerte i sig hele livet. Den eneste måde, de kan dulme den evige smerte på, er ved at påføre andre smerte og død. Derfor betragtes Kaukilen som den mest grusomme troldeart af alle, selvom de langt fra er de stærkeste.
+Fysik 6
+Tykhudet (PANSER 5 | AUTO)
+Aggressiv (LIVSKADE ALLE | EFFEKTRUL)
+Brutal (BRUDSKADE ALLE | EFFEKTRUL)
+
+Urkil
+Krigeriske, rå og brutale. Tre meter høje med store hårmanker fra pande til nakke. Øjnene er store og røde, munden fuld af hugtænder og klør så skarpe som flint på de store hænder. Huden er grov og næsten sort, flere steder dækkes kroppen af ekstra tykke hudlag, der fungerer som panser. Hannerne har fire horn i panden og to hornplader ved skuldrene, mens hunnerne er uden horn. Deres klæder fremstilles af jern og stål, de elsker krig og kamp og det lever kun for at dø på slagmarken. Urkilen blev skabt af onokilerne fra Gnathore og de fleste holder stadig til i Gnathores opland.
+Styrke 8
+Tykhudet (PANSER 5 | AUTO)
+Stærk (BRUDSKADE ALLE | EFFEKTRUL)
+krigerisk (LIVSKADE ALLE | AUTO)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jætte
+HÅRD 8
+Magii (LIVSKADE ALLE | AUTO)
+Overnaturlig (KAMGRAD RAMMER ALLE | AUTO)
+De store jætter bliver op til tre meter høje og ligner på mange måder mennesket når det kommer til hår, skæg, øjne og hud, der dog har en grønlig glød i sin bleghed. De er muskuløse og udholdende, hår og skæg er ofte rødt og de er gerne tykke og buttede af figur. Jætten blev oprindelig skabt af Droan i Forgwaidh, der skabte dem med drageblod i årerne, det gør magii til en naturlig del af deres liv. Jætterne holder til i Troldehavet og er den mest civiliserede og kultiverede troldeart, man kender til. Flere lande har indgået handelsaftaler med dem og i 1202 blev de optaget i DIO; Den Internationale Organisation.
+
+
+
+Skovtrold
+HÅRD 20
+Kampstil: Fysik
+Knogleknuser (BRUDSKADE ALLE | EFFEKTRUL)
+Kæmpe (RAMMER ALLE | AUTO)
+Hårdfør (HELBREDSSKADE ALLE | AUTO)
+Skovtroldene er den ældste nulevende troldeart, langsomme og træagtige. Deres hud er rå og knudret, farven grumset brun og opnår en højde af fire til seks meter. Øjnene er sorte, munden fuld af hugtænder, tøjet er fremstillet af skindet fra døde dyr og smykker af knogler og sten. Skovtrolde lever i århundrede, da tid ikke synes at have den store effekt på dem. De opfatter langsomt og lever primitivt, hvilket fejlagtigt kan give det indtryk, at de er dumme. Skovtrolde er nådesløse, grådige og altid sultne. De lever helst i triader, det vil sige tre trolde, uden nogen egentlig leder, der sammen vandrer rundt i de store skove på jagt efter mad. De lever udelukkende af kød og øverst på listen over livretter findes menneske og umnol.

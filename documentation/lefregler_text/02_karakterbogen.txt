@@ -1,0 +1,158 @@
+Karakterbogen
+Sådan fungerer karakteren
+
+Spilleren administrerer karakteren på et karakterskema for at holde styr på alle karakterens kvaliteter. Grøn tekst beskriver hvordan spilleren laver sin karakter fra start.
+
+Karakteren
+Først skal spilleren finde på en baggrund ved at beslutte fire forhold; Hvor kommer karakteren fra? Hvilket folkeslag kommer karakteren fra? Hvad er karakterens famileforhold? Hvad har karakteren lavet indtil nu? Baggrunden laves sammen med mesteren, så den passer til kampagnen og ikke overskygger historien, med mindre det er meningen. Mesteren bør nedskrive navnene på karakterens nærmeste familie, så de lettere kan involveres i historien. Læs nærmere om staterne, folkeslag og sprog i Bogen om Valhel s.?.
+
+Navn
+Karakteren skal have et navn og en alder. Spilleren bestemmer selv karakterens navn, men mesteren kan forbyde det, hvis det er upassende eller på anden måde bryder fiktionsrammen. I Bogen om Valhel s.?. vises eksempler på navne fra de forskellige folkeslag. Karakterens alder er som udgangspunkt spillerens valg, men også her en mesteren sætte grænser, hvis det findes nødvendigt i forhold til kampagnen. Gennemsnitsalderen for mennesker i Valhel er omkring 70 år. Det giver hverken fordele eller ulemper at være en ældre karakter, det afspejler blot at karakteren ikke rigtig har fortaget sig noget vigtigt eller afgørende i sit liv - indtil nu.
+
+Start
+Notér karakterens navn og alder på linjen med person-symbolet. Læs mere om navne i Bogen om Valhel s.?.
+
+Blodarv
+Alle karakterer er mennesker, men mennesker er født med forskellig blodarv, der er opstået i blandingen med andre arter. Blandingen af mennesker og andre arter er almindelige i de fleste folkeslag og derfor kan der godt være folk fra forskellige folkeslag med samme blodarv og omvendt. Der findes seks kendte blodarv og valget af blodarv bestemmer hvilken tilstand karakteren kan udløse fokus med og giver adgang til en ekspertise.
+
+Start
+Vælg en blodarv og noter den på linjen med dna-symbolet. Læs om blodarv i Karakterbogen s.?.
+Personlighed
+Valget af personlighed er kernen i karakterdannelsen da den afspejler karakterens verdenssyn og adfærd. Personligheden opstår som et resultat af karakterens indre mentale processer i samspil med det omgivende samfund karakteren er opvokset i. Personligheden giver karakteren adgang til otte særlige ekspertiser, der udtrykker personlighedens tilgang til forskellige problemstillinger og kan vælges efterhånden som karakteren forbedre sig.
+
+Start
+Vælg karakterens personlighed og notérer den på linjen med maske-symbolet. Læs om personligheder i Karakterbogen s.?.
+Dannelser
+De fire linjer med symboler af triple-dokumenter er forbeholdt dannelser, som karakteren kan opnå senere i spillet. Læs mere om dannelser i Dannelsesbogen s.?.
+
+Speciale
+Dokument-symbolet med 2-tallet giver karakteren et speciale. Speciale bruges i forbindelse med dannelser. Læs mere om speciale i Dannelsesbogen s.?.
+
+De forbudte markeder
+Til at begynde med har karakteren ikke adgang til de forbudte markeder. Der er to forbudte markeder; det sorte marked, symboliseret med forbudtskilt, og det okkulte marked, symboliseret med et pentagram. Karakteren kan få adgang til markederne gennem forbedring. Læs mere om forbedring i Dannelsesbogen s.?.
+
+Evner
+Talenterne er karakterens fysiske og mentale evner, kundskaberne er karakterens viden og faglige kunnen. Det er gennem brug af evnerne, karakteren udvikles og forbedres. Læs om evnerne i Evnebogen s.?.
+
+Start
+Alle evner starter med 1 point. Fordel derpå 3 point til valgfrie evner, dog må ingen evne starte højere end 3 point.
+Forbedringerne
+De fire symboler til højre for evnerne er forbedringer, som spilleren kan vælge efterhånden som karakteren stiger i den pågældende evne. Læs mere om forbedringer i Forbedringsbogen s.?.
+
+Omrul
+Cirkelpilen markeres hvis karakteren har omrul i den pågældende evne. Karakteren kan opnå omrul på forskellige måder og ved at markere cirkelpilen bliver det lettere at huske.
+
+Bonus
+Bonus-feltet med det lille plus benyttes til at notere bonuspoint til evnen. Bonuspoint lægges kun til evnen, når den bruges.
+
+Dannelse
+Symbolet af et dokument, nederst til højre under hver evne, bruges når karakteren vælger dannelser. Læs mere om dannelser i Dannelsesbogen s.?.
+
+Modeffekt
+Ved hver kundskab står noteret en modeffekt i et sort skjold, nederst til venstre. Modeffekt bruges til at afværge skadeeffekter i kamp. Læs mere om modeffekt i Kampbogen s.?.
+
+Tilstande
+De fire tilstande er karakterens fysiske og psykiske ressourser. De seks symboler under hver tilstand viser tilstandens loft og dermed hvor meget karakteren kan miste eller bruge af den pågældende tilstand. Karakteren starter med 2 i hver tilstandsloft, hvilket er markeret på karakterskemaet med de to forreste sorte symboler. Karakteren mister tilstande ved skader og udmattelse og kan kan bruge dem til fokus og ekspertiser så længe karakteren har point at bruge.
+
+Liv
+Blod
+Fysiske skader
+
+Helbred
+Hjerte
+Sundhedstilstand
+
+Kraft
+Lyn
+Fysisk udmattelse 
+
+Psyke
+Diamant
+Mental udmattelse
+
+Hvile
+Èn gang i døgnet kan karakteren hvile for at genvinde. At genvinde betyder at karakteren kan sove i seks timer og fjerne skader svarende til karakterens levned i hver af de fire tilstande. Forstyrres karakteren under søvnen, genvinder karakteren ikke og må sove 6 timer påny.
+
+Besvimet
+Karakteren besvimer, hvis en tilstand falder til -1 og det noteres under tilstanden med et X. At være besvimet svarer til at hvile, bort set fra, at karakteren ikke vækkes før de seks timer er gået. Dog er det muligt at vække en besvimet karakter, ved at få alle tilstande, der er markeret med X, op på mindst 0 point.
+
+Bonus
+Hvis karakteren får bonus til et tilstandsloft fra grej eller ekspertiser, noteres det i bonus-feltet med det lille plus.
+
+Fokus
+Fokus udløses med tilstande og bruges til at forbedre et evnerul. Karakteren starter med at kunne udløse fokus med én tilstand, men kan senere udvide det til flere tilstande gennem forbedring.
+
+Start
+Blodarven bestemmer hvilken tilstand karakteren kan udføre fokus med og det noteres med +3 i fokus-feltet og en markering i de to stjerner nedenunder. Se mere om fokus i Evnebogen s.?.
+
+Ekspertiser
+Ekspertiserne er særlige praktiske, erfaringsbaserede handlinger, som karakteren kan få i kraft af sin blodarv, personlighed samt evner og dannelser. Det er i særdeleshed ekspertiserne og kombinationen af dem, der udgør den regeltekniske forskel på karaktererne. Karakteren starter med én ekspertise, men kan få flere gennem forbedring. Ekspertiser er opbygget af en effekt og en aktivering. Forrest står effekten, der beskriver hvad ekspertisen gør og bagerst står, hvad der skal til for at aktivere effekten. Effkten af en ekspertise er kun aktiv i den runde, den udløses, men virker med tilbagevirkende kraft inden for runden. I nævnte eksempel giver ekspertisen karakteren +1 i kraft mod at karakteren får -1 helbred. Det er vigtigt at læse ekspertisens tekst for at forstå brugen af ekspertisen korrekt.
+
+Start
+Karakteren starter med en valgfri ekspertise, hvilket er noteret på karakterskemaet under ekspertiser med en sort stjerne. Vælg en ekspertise fra karakterens blodarv eller personlighed, notér navnet på øverste linje og effekten på nederste linje. Læs mere i Karakterbogen under Blodarv s.?. eller Personligheder s.?.
+
+Forbandelse
+Der findes åndemaneri, hekseri, magii og andre obskure magter, der kan forbande karakteren. En forbandelse betyder, at karakteren mister evnen til at bruge en ekspertise. Spilleren vælger selv hvilken ekspertise karakteren mister og markerer det i kraniet under stjernen ud for ekspertisen på karakterskemaet. Karakteren kan ikke benytte den forbandede ekspertise, før forbandelsen er ophævet. Se mere om ophævese af forbandelser under Tjenester s.?.
+
+Grej
+Grej er udstyr, der giver karakteren en ekspertise, når det står noteret under grej på karakterskemaet. På øverste linje noteres grejets navn og på linjen nedenunder, noteres den ekspertise, grejet giver. Til at begynde med kan karakteren bære op til 4 grej, hvilket allerede er noteret på med fire sorte taske-symboler. De sidste fire grej skal låses op gennem forbedringerne. Læs mere om grej i Det åbne marked s.?, Det sorte marked s.?. og Det okkulte marked s.?. Læs mere om forbedringerne i Forbedringsbogen s.?.
+
+Udgift
+Grej, som kan benytte flere gange har en udgift, noteret med et udråbstegn. Udgiften viser både hvad grejet koster at købe, samt hvor meget det koster at vedligeholde i privaten. Læs mere om privaten i Forbedringsbogen s.?.
+
+Pris
+Grej, der kun kan benyttes én gang, udløses med forbrug og har en pris, noteret med et valuta-symbol. Grej med pris betales kun ved køb og koster ikke udgift i privaten. Læs mere om privaten i Forbedringsbogen s.?.
+
+Salg
+Brugt grej kan sælges for +1 penge for hver 5 i udgift grejet har. Et grej med udgift 10 kan eksempelvis sælges for 2 penge.
+
+Brud
+Knogle-symbolet bruges til at markere benbrud. Ved brudskade markeres det i en knogle og grej-feltet kan ikke bruges, før brudskaden er helbredt. Hvis karakteren får flere brudskader end karakteren har grej-felter, er karakteren så rædbrækket, at karakteren ikke kan gøre noget som helst og må bæres. Til at begynde med kan karakteren tåle 4 brudskader, men får +1 for hvert grej-felt, der låses op med forbedringerne.
+
+Start 
+Karakteren kan købe grej og ydelser fra Servicebogen s.?, Det åbne marked s.? og Det ekslusive marked s.?. Grej noteres under grej på karakterskemaet, øverst noteres grejets art og på linjen nedenhunder noteres den ekspertise grejet giver. Farmaka noteres under farmaka og eventuelt følge eller fartøj noteres bag på karakterskemaet. 
+
+Udbytte
+Udbytte er ikke nærmere definerede genstande, der enten har salgsværdi, kan anvendes som resurse eller reservedel. Udbytte kan bruges eller sælges for 3 penge stykket på ethvert marked. Udbytteloftet vises med markerede sække og angiver hvor meget udbytte karakteren kan bære. Udbytte stjæles, plyndres fra besejrede modstandere eller købes på det sorte marked. 
+
+Bonus
+Hvis karakteren får bonus til udbytteloft fra grej eller ekspertiser, noteres det i bonus-feltet med det lille plus.
+
+Levned
+Levned afspejler karakterens levemåde, både på det fysiske og det økonomiske plan. Når karakteren hviler, helbreder karakteren lige så mange skader i hver tilstand, som karakteren har i levned. Med levned på 2, fjerner karakteren eksempelvis 2 skader i hver tilstand efter hvile. Levned afgør også hvor mange penge karakteren har til sig selv. Pengene opnås gennem mindre handel og småarbejde, mådehold og økonomisk forstand, der ikke omtales nærmere i historien, men giver karakteren 10 penge for hver stjerne i levned. Karakteren får pengene fra spillets start og hver gang karakteren kommer i privaten. Læs mere om privaten i Forbedringsbogen s.?.
+
+Indtægt
+Paragraf-symbolet betyder indtægt og her noteres det hvor mange penge, karakteren får i privaten. Som udgangspunkt svarer den faste indtægt til levned x10, men der kan opstå situationer, hvor karakteren får indtægt fra andre kilder. Fast indtægt skal altid gives som +levned og noteres i bonus-feltet med det lille plus. Læs mere om privaten i Forbedringsbogen s.?.
+
+Start
+Karakteren har et udbytteloft på 2 fra start, som det er markeret med sorte sække. Notér 20 som indtægt på linjen med paragraf-symbolet.
+
+Udgift
+Udråbstegnet betyder udgift og her noteres hvor mange penge karakteren skal betale i privaten. Som udgangspunkt betaler karakteren for sit grej, men karakteren kan også blive pålagt andre udgifter, som husleje, automobil og familie. Læs mere om privaten i Forbedringsbogen s.?.
+
+Start
+Hvis karakteren har købt grej fra start, noteres den samlede udgift som udgift på linjen med udråbstegnet og de penge karakteren eventuelt har tilbage noteres som kontanter under Levned.
+
+Bonus
+Hvis karakteren får bonus til udbytteloft fra grej eller ekspertiser, noteres det i bonus-feltet med det lille plus. 
+
+Farmaka
+Her noteres farmaka, et populært middel til helbredelse af tilstande, skøbelige sprøjter af glas, der må bæres adskilt fra det øvrige grej, for ikke at blive ødelagt. Læs mere om farmaka i Det åbne marked s.?.
+
+Farmpak
+Her noteres hvor mange farmaka karakteren kan bære på sig. 
+
+Start
+Notér 4 i farmpak-feltet, der viser at karakteren kan bære op til 4 farmaka. Hvis karakteren har købt farmaka, noteres det her.
+
+Gift
+Forgiftning symboliserers med en kanyle. Ved giftskade noteres det i en kanyle under en af de fire farmaka. Karakteren kan ikke benytte gift-markeret farmaka indtil det er helbredt. Med 5 giftskader dør karakteren af overdosis. Læs om helbredelse af gift i Det åbne marked s.?. 
+
+Skæbne
+Skæbne er en slags tidsmåler, der afgør hvornår karakteren skal i privaten og betale udgifterne for grej. Timeglassene markeres efterhånden som karakteren stiger point i evnerne. Læs mere om at stige i evnerne og forbedring i Forbedringsbogen s.?.
+
+Prygl
+Med prygl sænker karakteren sine parader for at tildele ekstra skade til fjenden. Karakteren starter med prygl 12, som allerede er noteret på karakterskemaet med en sort stjerne. Prygl kan forbedres gennem forbedring. Læs mere om prygl i Kampbogen s.?. og om forbedring i Forbedringsbogen s.?.
+
+Sjæl
+Karakteren får sjælegaver når karakteren opnår 20 point i en kundskab. Læs om sjælegaver i Forbedringsbogen s.?.

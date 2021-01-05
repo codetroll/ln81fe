@@ -1,0 +1,67 @@
+Tjenestebogen
+Tjenesteydelser og folk
+
+På hospitaler, mindre klinikker, i kirker og større apotekere, kan karakteren få de nyeste og mest effektive metoder til behandling af alverdens lidelser og skader. Behandlingen kan enten foregå gennem almindelig lægebehandling, men udføres også af maskiner, den såkaldte biomat. Det er samme steder, karakteren kan købe de eftertragede farmaka.
+
+Stimnol ¤5
+LIV +1 KARAKTER | FORBRUG
+Engangssprøjte fra NoxPharm i Noxius. Giver +1 liv til valgfri karakter.
+
+Stikolin ¤5
+HELBRED +1 KARAKTER | FORBRUG
+Praktisk engangssprøjte fra Medika i Asit Dur. Giver +1 helbred til valgfri karakter.
+
+Krafttab ¤5
+KRAFT +1 KARAKTER | FORBRUG
+En kraftfuld kanyle fra NoxPharm i Noxius. Giver +1 kraft til valgfri karakter.
+
+Psykonyl ¤5
+PSYKE +1 KARAKTER | FORBRUG
+Et stærkt psykofarmaka fra Konzordium i Triptagon. Giver +1 psyke til valgfri karakter.
+
+Skadebehandling ¤1
+TILSTANDSSKADE -1 | BETALING
+Det koster 1 penge at slette 1 skade i en tilstand.
+
+Brudbehandling ¤5
+BRUDSKADE -1 | BETALING
+Det koster 4 penge at behandle 1 benbrud.
+
+Giftbehandling ¤5
+GIFTSKADE -1 | BETALING
+Det koster 5 penge at behandle 1 forgiftning.
+
+Ophæve forbandelse ¤5
+FORBANDELSE -1 | BETALING
+Forbandelser kan kun ophæves hos præster med rimkim og det vil sige i kirkerne. Det koster 5 penge at ophæve 1 forbandelse.
+
+Følge
+Når karakterene vil hyre folk med på rejse eller til brug i kamp, kaldes de følge. Følge benyttes også hvis karaktererne er officerer i hæren med en deling af folk under sig, eller karaktererne kan være ledere af en bande. Følge er folk, der almindeligvis følger karaktererne hvor de går og adlyder karakterernes kommando. Følge er som udgangspunkt upersonlige og spilles derfor ikke som mesterroller. Mester og spillere skal være opmærksom på, at følge fylder en del og der derfor kan være steder, hvor hele følges ikke kan opholde sig. Hav også blik for, at et større følge ofte vil virke truende og skabe utryghed i befolkede områder.
+
+Sold
+Følge købes og vedligeholdes med udgift på samme måde som grej, men de noteres på bagsiden af karakterskeamet. Der kan være tilfælde hvor udgiften ikke betales af karakterene, hvis følget eksempelvis er kongens soldater, så betales de af kongen. Hvis der ikke betales, vil det følge, som ikke får sin løn, forlade karaktererne og hvis det står rigtig slemt til, kan det føre til mytteri.
+
+Såret
+Følge har ekspertiser, som kan udløses mod at følget bliver såret. Et såret følge er ukamdygtig og kan ikke benyttes før følget er behandlet.
+
+Behandling
+Når kampen er overstået udføres et bioalkymirul mod kampgraden af den modstander med højest kamp. Graden kan sættes højere eller lavere, hvis der er omstændigheder, der gør det vanskeligere eller lettere af behandle de sårede. Hvis bioalkymirullet bliver ligmed eller højere end kampgraden, overlever hver femte såret følge og kan bruges igen. Hvis bioalkymirullet ikke opnår kampgraden, dør hver anden såret følge. Hvis der kun er ét følge, dør følget også. Karaktererne kan helbrede følge med stimnol, for hver stimnol, der bruges, overlever ét følge.
+
+Uerfaren §5
+TAG SKADE KARAKTER | SÅRET
+Et uerfaren følge kan afværge en valgfri skade for en karakter, mod at blive såret.
+
+Trænet §10
+TAG SKADE KARAKTER | SÅRET
+LIVSKADE 1 | SÅRET
+Det trænede følge kan enten afværge en valgfri skade eller give 1 livskade til modstanderen, mod at blive såret.
+
+Erfaren §15
+TAG SKADE KARAKTER | SÅRET
+LIVSKADE 2 | SÅRET
+Det erfarne følge kan afværge 1 valgfri skade eller give 2 livskade til modstanderen, mod at blive såret.
+
+Specialist §20
+UDLØS EKSPERTISE | KRAFT
+LIVSKADE 1 | SÅRET
+Når specialisten hyres, vælges samtidig hvilken ekspertise følget kan. Specialisten kan ikke selv udløse sin ekspertise, men karaktererne kan udløse den mod at bruge 1 kraft, uanset hvad ekspertisen oprindeligt kræver af tilstand. Specialisten kan også afværge en valgfri skade, mod at blive såret.

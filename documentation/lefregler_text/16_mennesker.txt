@@ -1,0 +1,51 @@
+Mennesker
+De menneskelige typer
+
+Mennesket er den mest udviklede og avancerede troldeart vi kender til. Af alle troldearter er mennesket den mest opfindesomme, samfundskabende og individuelle. Mennesket nedstammer fra hedetrolden, nærmere bestemt Sezrymerne og bebor store dele af Valhel og Suborien. Der findes mennesker af alle typer, her gengives de i meget brede kategorier.
+
+
+Godtfolk
+Almindelige mennesker, med almindeligt arbejde, der kan mødes på gaden, kroerne, restauranterne eller teatrene. Almindelige mennesker vil oftest forsøge at flugte fra kampen, med mindre de selv har interesse i at udkæmpe den. Hvis der trækkes våben, vil de fleste almindelige mennesker overgive sig.
+Snilde 2
+
+Bølle
+En uhæderlig, utiltalende, brovten og grov person, der fremstår truende, gerne slår på tæven og er kriminel. De lever i de laveste samfundsklasser og inddriver ofte penge ved trusler eller arbejder for betaling som voldsmænd, vagter eller kriminelle inkassatorer.
+Styrke 4
+Grov (LIVSKADE ALLE | EFFEKTRUL)
+
+Betjent
+Den klassiske gadebetjent, der i de fleste af Valhels stater opretholder almindelig god ro og orden i det offentlige rum, holde opsyn eller våge. Betjente er ansat af den lokale magt, adelsmand, borgmester eller byfoged. Betjente har politimyndighed og fungerer også som almindelig udrykningspersonel i Valhels politienheder.
+Fysik 6
+Knippelsuppe (BRUDSKADE ALLE | EFFEKTRUL)
+Stædig (KRAFTSKADE ALLE | EFFEKTRUL)
+
+Soldat
+Den moderne soldat opstod i 1140'erne da, Storregia indførte værnepligten for alle unge mænd. Fortidens ridder var overhalet af Valhels lejesoldater, der snart overgik selv kongernes bedste krigere. Den moderne soldat er mobil og uddannet til at besjere fjende, besætte et territorium eller på anden måde beskytte borgere og økonomiske ressourcer.
+Feltkunst 8
+Krigerisk (LIVSKADE ALLE | EFFEKTRUL)
+Trænet (KRAFTSKADE ALLE | AUTO)
+
+Gejstlig
+De gejstlige mennesker, som er indtrådt i en præstestand for at arbejde og leve for den pågældende religion. Gejstelige fungere som kirkernes embedsmænd, der varetager de kirkelige handlinger og den kirkelige adminstration.
+Kultur 6
+Overnaturlig (KAMGRAD RAMMER ALLE | AUTO)
+Moralisering (PSYKESKADE ALLE | EFFEKTRUL)
+
+Heks
+Hekse er mennesker, der dyrker dæmoner gennem ritualer eller hekselænke. De er dermed underlagt en dæmonherre til fordel for heksekunst og forbandelser. Hekse kan være hvem som helst, de lever mest et almindeligt liv med et almindeligt arbejde, mens de i hemmelighed dyrker deres dæmon og kæmper for indflydelse og magt i heksekulten.
+Okkultisme 6
+Hekseri (FORBANDELSE ALLE | AUTO)
+Overnaturlig (KAMGRAD RAMMER ALLE | AUTO)
+Dræn (HELBREDSKADE ALLE | EFFEKTRUL)
+
+Magiker
+Magikerne stammer fra Vanahai, der selv blev skabt med drageblod i sine årer. Vanahai eksisterer ikke mere, men blodet er kommet ind i menneskeslægten og lever videre i nutidens magikere. Men blodet giver ikke blot vanahinen evnen til at bruge magii, men har også dragens grådighed. Der findes magikere, der fødes af almindelige mennesker og vokser op i almindelige civilisationer, men i troldmændenes by, Magus Narre, lever et helt folk af magikere; Vanahin.
+Mytologi 6
+Magii (LIVSKADE ALLE | AUTO)
+Overnaturlig (KAMGRAD RAMMER ALLE | AUTO)
+
+
+
+
+
+

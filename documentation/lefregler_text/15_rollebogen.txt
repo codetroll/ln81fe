@@ -1,0 +1,136 @@
+Rollebogen
+Bipersoner, venner og modstandere
+
+Karaktererne er historiens hovedroller, alle øvrige er mesterroller i skikkelse af bipersoner, venner og modstanderne. Bipersoner er tilfældige roller, som mesteren kan hive ind på scenen for at udfylde en ubetydelig men nødvendig rolle, som en avissælger eller en taxachauffør. Vennerne er dem, karaktererne kan hente hjælp hos og modstanderne er dem, der direkte eller indirekte forhindrer karaktererne i at opnå deres mål. Fælles for venner og modstandere er, at de er lavet på forhånd med et bestemt formål. Dog kan det ske, at karaktererne involverer en biperson så meget, at bipersonen bliver en ven eller en modstander. Det kunne være karaktererne konstant bruger samme taxachauffør, så vedkommende til sidst bliver en slags privatchauffør, eller det kan være avissælgeren planlægger en hævn over alle de gange karaktererne har læst avisen uden at betale. I Lef er mesterrollerne det mest centrale i historien, det er gennem historiens personer, dramatikken og rollespillet egentlig tager fat gennem dialogen. Det er kun mesterrollerne, som karaktererne kan spejle sig i og sammeligne sig med, og mesterrollerne er de eneste, kan reagerer på karakterernes handlinger. Mesteren bør træne sig i at lave gode mesterrolle og det er ingen skam at lade sig inspirere af eksisterende litterære eller virkelige personer. Udvikling af holdbare mesteroller en af de mest afgørende faktorer for at spille en god kampagne.
+
+
+
+Venner
+I en histoie fuld af evetyr, farer, grusomheder og svig, er det vigtigt, der også findes venner. Venner er særlige mesterroller i historien, der følger karaktererne på deres eventyr og derfor er givet en personlighed og et navn. Venner er i modsætning til modstanderne allieret med karaktererne og vil måske endda gå med dem i kamp. Venner opbygges af tre kvaliteter; tilstand, ekspertiser og grej, der skal afspejle vennens erfaring, interesser og udstyr. Det er mesteren, som styrer vennerne og handler på deres vegne, ud fra den personlig og rolle vennen har.
+
+Tilstand
+Venner har kun én form for tilstand, der blot kaldes tilstand og repræsenterer en fællesnævner for liv, helbred, kraft og psyke. Vennen bruger tilstand til at udløse ekspertiser og til at tage skade med. Almindeligvis har en ven mellem 3 og 10 point i tilstand, alt efter hvor dygtig vennen er. Karaktererne kan bruge farmaka på en ven og give +1 i vennens tilstand, uanset hvilken farmaka, der bruges. En ven besvimer på 0 i tilstand og helbreder alle sine skader efter hvile. Om en ven dør, afgøres af situationen og historien, på samme måde som en karakters død. Dog kan mesteren tilskrive en ven en bestemt skæbne, som en del af historien. Det kan være vennen skal tages til fange, eller vennen skal dø i en særligt situation. Det kan naturligvis også være, en ven bliver til en modstander gennem uenighed eller forrædderi.
+
+Ekspertiser
+Det er ekspertiserne, der for alvor udtrykker vennen og der kan vælges ekspertiser fra blodarv, personlighed, evner og dannelser. Mesteren bør ikke give en ven for mange ekspertiser, men kun dem, der udtrykker karakteren mest og bedst. Mesteren kan også finde på sine egne ekspertiser, eksempelvis kunne en krigsveteran give 1 livskade automatisk i hver kamprunde.
+
+Grej
+Vennen kan også være i besiddelse af grej og farmaka. Hvis vennen kan benytte bønnebøger, kyprianus eller formularbøger, hører det almindeligvis også under grej. Venner kan almindeligvis bære 4 grej og have 4 farmaka på sig.
+
+Evner
+Almindeligvis ruller venner ikke evnerul, men klarer automatisk de evnerul karaktererne udsættes for. Mesteren kan dog lade en ven fejle, for at skabe en dramatisk effekt i historien. En anden mulighed er at gøre vennen særlig god eller utrolig dårlig til en bestemt evne, for at personliggøre vennen med er kendetegn. Den viden og kunnen en ven besidder baseres ikke på evner men på hvad mesteren mener vennen kan og ved. I kamp ruller venner heller ikke kamprul, men kan udløse relevante ekspertiser i kampens hede.
+
+
+Modstandere
+Når karakteren kommer i kamp, bliver de involverede fjender til modstandere. Modstandere optræder oftest som en planlagt mulighed i historien, men det kan også ske, at karaktererne roder sig ind i en kamp, som mesteren ikke har planlagt. Arternes bog indeholder et udsnit af forskellige arter, opdelt i 12 kategorier. Naturligvis findes der mange flere mennesketyper og arter, end man kan finde i arternes bog, men det kan give mesteren og spillerne et overblik over hvilke arter og typer Valhel præsenterer. Nogle kategorier af arter tilhører ikke de naturlige arter på Urhavet, men de er taget med her for at give så bredt et billede af hvilke slags modstandere, karaktererne kan støde på. De arter, som ikke hører til Urhavets naturlig evolution er de mekaniske autonarker, de mægtige drager, de fremmede skingelhird, de kolde udøde og de grusomme uhyrer. Til hver modstander er en beskrivelse samt de tre kvaliteter, modstanderen bruger i kamp.
+
+Kampbalance
+Ved brugen af modstandere skal mesteren ikke tage stilling til balanceforholdet mellem karakterernes og modstandernes kampevner. Det er historien, som bestemmer hvilke modstandere, der er, og hvor farlige de er. Den rige bank har dygtige og professionelle vagter mens baggårds kasinoet bevogtes af bøller. Hvis det bliver for hårdt at kæmpe, må spillerne finde en anden måde at løse opgaven på. Kampe er ikke til for at karaktererne skal vinde dem og flugt er en almindelig udvej.
+
+Kvaliteter
+Modstandere har tre kvaliteter, der står noteret med rød skrift under beskrivelsen. Først og forrest står modstanderens kampstil, i form af en evne, efterfulgt af et tal, der viser hvor meget liv modstanderen har. Nedenunder følger effekterne.
+
+Snilde 2
+Uhellig (OMRUL HØJESTE RUL | AUTO)
+Uhyggelig (PSYKESKADE ALLE | EFFEKTRUL)
+
+Her i bogen er modstanderne noteret med de kvaliteter, der er generelle for sin art, men det er en god dramatisk effekt, hvis mesteren laver sine egne modstandere, ved at kombinere de tre kvaliteter, så de svarer til modstanderens personlighed og type. Mesteren kan dertil vælge at en modstander kan udløse specifikke formularer, heksekunst, bønner eller noget helt fjerde. Disse muligheder afvikles som kampudfordringer.
+
+Taktik
+Taktik afspejler den måde en modstander forsøger at kæmpe på. Det kræver dog særligt taktikrul, før modstanderens taktik udløses. Alle modstandere har en taktik, der knytter sig til et talent eller en kundskab. Modstanderens taktik er det første, der står med rødt under modstanderens kvaliteter. Se mere om taktik i Kampbogen s.?.
+
+Liv
+Angiver hvor meget skade modstanderen kan udholde. Når modstanderens liv falder til 0 er modstanderen besejret. Liv står angivet til højre for kampstil ved modstanderesn kvaliteter.
+
+Effekter
+Modstandernes effekter afspejler hvordan modstanderen angriber og forsvarer sig. Effekterne udløses i kamp, enten automatisk eller på effektrul, men de kan afværges af karaktererne med modeffekt. Listen her gennemgår typen af effkter og er navngivet efter hvilken skade, den giver. Ved modstanderne har effekterne andre navne, der afspejler årsagen til effekten. Det er særligt med effekterne, at mesteren kan designe sine egne modstandere.
+
+Giftskade
+GIFTSKADE ALLE | EFFEKTRUL/AUTO
+Til modstandere, der angriber med gift eller på anden måde kan forgifte karaktererne i kamp. Kan afværges med bioalkymi, som modeffekt.
+
+Kraftskade
+KRAFTSKADE ALLE | EFFEKTRUL/AUTO
+Til modstandere, der udmatter karaktererne i kamp ved at være særligt hurtige eller robuste. Kan afværges med kultur, som modeffekt.
+
+Livskade
+LIVSKADE ALLE | EFFEKTRUL/AUTO
+Til modstandere, der er aggresive eller er udstyres med særligt farlige våben. Kan afværges med feltkunst, som modeffekt.
+
+Helbredskade
+HELBREDSKADE ALLE | EFFEKTRUL/AUTO
+Til modstandere, der kan smitte karaktererne med sygdomme eller bestråling af gilgatom og lignende. Kan afværges med okkultisme, som modeffekt.
+
+Brudskade
+BRUDSKADE ALLE | EFFEKTRUL/AUTO
+Til modstandere, der er særligt stærke eller store nok til at brække karakterenes knogler. Kan afværges med teknologi, som modeffekt.
+
+Psykeskade
+PSYKESKADE ALLE | EFFEKTRUL/AUTO
+Til modstandere, der skræmmer eller intimiderer karaktererne. Kan afværges med mytologi, som modeffekt.
+
+Egenskaber
+Hver art har sin egen egenskab, der kendetegner arten fra de andre. Egenskaber virker ligesom effekter, de kan ikke afværges med modeffekt, men kræver særlige ekspertier eller grej at modvirke.
+
+Bestrålet
+FARMAKA GIFTSKADE | AUTO
+Karnum: De forureningsskabte karnum opstod under kraftig bestråling og er blevet en del af deres eksistens. Bestrålingen fra karnum bevirker at karakteren får 1 giftskade hver gang karakteren bruger en farmaka. Giftskaden opnås i den farmaka, som karakteren benytter.
+
+Drageild
+PRYGLRUL 8 | AUTO
+Drager: Drageilden er noget af det mest skadelige hos nogen art. Med drageild får dragen prylgrul og giver en ekstra skade til alle karakterer for hvert resultat på 8 eller over. Når dragen udløser drageild udløser den ikke sine øvrige skadeeffekter.
+
+Dæmonform
+LIVSKADE 1 ALLE | DØD
+Bastarder: Halvdæmonerne har både en fysisk menneskeform og en dæmonisk form. Når den menneskelige form dør, bryder den dæmoniske form ud i en manaeksplosion og giver alle kampdeltagere 1 livskade.
+
+Dæmonisk
+AFVÆRG OMRUL ALLE | AUTO
+Dæmoner: Dæmoniske væsner har en aura, der svækker karaktererne psykisk og forhindrer dem i at udføre omrul i kamp.
+
+Fordel
+VINDER PÅ UAFGJORT | AUTO
+Mytisk: De mytiske arter er på mange måder bedre udviklet til kamp end mennesket og har derfor den fordel, at de vinder på lige kamprul.
+
+Mekanisk
+PANSER 8 | AUTO
+Autonarker: Mekaniske modstandere er bygget i jern eller stål og kan tåle en del skade, før de bliver skadeligt for den. Derfor kan mekaniske ikke rammes af spillere, der ruller 5 eller mindre på terningerne ved kamprul. Gælder kun ved kamprul, ikke ved modeffektrul, manøvrerul eller pryglrul.
+
+Tykhudet
+PANSER 5 | AUTO
+Trolde: De tykhudede trolde har panser 5, hvilket betyder at den ikke kan rammes af spillere, der ruller 5 eller mindre på terningerne ved kamprul. Gælder kun ved kamprul, ikke ved modeffektrul, manøvrerul eller pryglrul.
+
+Uhellig
+OMRUL HØJESTE RUL | AUTO
+Udøde: Mødet med de udøde er altid en uhyggelig affære, der skræmmer karaktererne og svækker dem mentalt. Derfor skal den karaktere, der ruller det højeste resultate på terningerne automatisk udføre et omrul, også ved fumlerul, skæbnerul og sjælerul. Spillerene må udføre egne omrul, før dette omrul udføres.
+
+Uhyrlig
+AFVÆRGER FOKUS ALLE | AUTO
+Uhyrer: De grusomme uhyrer er så skrækindjagende, at karaktererne har svært ved at koncentrere sig om kampen og dermed forhindres i at bruge fokus i kamp. 
+
+Uvirkelig
+VALGFRI OMRUL KAMPGRAD | AUTO
+Skingelhird: De uvirkelige skingelhird er ikke underlagt den naturlige verdens love og derfor må mesteren vælge at udføre omrul ved kampgrad, uanset terningernes resultat.
+
+Ånd
+KAMP MED SIND ALLE | AUTO
+Ånder: Ånder, der ikke kan påvirkes fysisk, tvinger karakterene til at benytte sind til kamprullet. Ånd er ikke en kampstil og kan derfor ikke påvirkes af ekspertiser eller grej, der afværger modstanderens kampstil eller på anden måde tillader andre evner til kamp.
+
+Særlige egenskaber
+Udover de egenskaber, der knytter sig til modstanderens art, er der fire særlige egenskaber, der går på tværs af arterne.
+
+Magi
+AFVÆRG MODEFFEKT | AUTO
+Modstandere med magisk kraft og formularer forhindrer karaktererne i at udføre modeffekt med kundskaberne.
+
+Hekseri
+FORBANDELSE ALLE | EFFEKTRUL
+Modstandere, der benytter hekseri, forbander alle karakterer på effektrul. Læs mere om forbandelser i Karakterbogen s.?.
+
+Voldsom
+RAMMER ALLE | AUTO
+Til modstandere, der er overnaturligt hurtige, store eller benytter sig af magii, åndekraft eller kraftige automatvåben. Kampgraden rammer alle karakterer uanset antallet af modstandere.
+
+Leder
+KAMPGRAD +1 GRAD | AUTO
+Hvis en modstander fungerer som leder, stiger kampgraden et niveau, eksempelvis fra Normal til Vanskelig. Hvis lederen nedkæmpes, før kampen er forbi, falder kampgraden igen. Der kan være flere ledere blandt modstanderne, men kampgraden stiger stadig kun ét niveau.

@@ -1,0 +1,51 @@
+Blodarv
+
+Blodarv
+Avarin
+I slutningen af den mytologiske tid skete en utænkelig hændelse, da flere elvarin fra Stjernedal forelskede sig i mennesker og selvom elvarin slet ikke er et biologisk væsen og  hverken har forplantnignsorganer eller organer i det hele taget, lykkedes det dem alligevel at få børn med menneskene. I mange år levede disse børn blandt elvarin, men en indre strid fik i sidste ende halvmenneskene til at forlade deres hjem og flytte til menneskenes byer. Her blev de en del af de menneskelige kulturer og der kom nye børn til, børn der havde tydelig træk fra deres forfædre. De bliver kaldt avarinere og fødes let spidse ører.
+Fokus: psyke
+
+Psykesyntese
+PSYKE +1 | KRAFT
+Med psykesyntese har avarinen optrænet sin evne til at få +1 psyke mod -1 kraft. Avarinen kan ikke få mere psyke end
+psykeloftet tillader.
+
+Nemal
+Nemal kaldes den blodarv. der ikke er blandet med nogen anden art. Det er Valhels mest udbredte blodarv og begtragtes at være tættest beslægtet med hedetrolden. Nemal karaktiseres ved sin veludviklede stædighed og viljestyrke. Navnet nemal var oprindeligt det man kaldte mennesket helt tilbage il Tukku Kabas tid (6000fR). Det betyder, ”de som ikke er dyr”, men efterhånden som diversiteten af mennesket blev kendt og især da blodarvene kom til, brugte man istedet vanahaifolkets ord for nemal; menneske. Derfor er nemal i dag betagelsen for de mennesker, der ikke har blod fra andre arter i sig.
+Fokus: Kraft
+
+Viljestyrke
+KRAFT +1 | PSYKE
+Som viljestærk har nemal optrænet sin evne til at få +1 kraft mod -1 psyke. Nemal kan ikke få mere kraft end kraftloftet tillader.
+
+Rakker
+Det er ikke ualmindeligt, at dæmoner har en fascination af mennesket på grund af menneskets sjæl. Allerede fra gammel tid har dæmonerne opsøgt mennesker med det formål at få børn med dem, uden menneskets viden, i håb om at komme nærmere den selvstændig sjæl. De børn der kommer ud af disse forhold er både menneske og dæmon og kaldes bastarder. Bastarder lever i slægter med strenge love mod at få børn med mennesker, men det sker alligevel og når det sker, fødes en rakker. Rakkere fødes med fysiske attributter som horn, en hale eller ekstra tær, der dog ofte bortopereres kort efter fødslen.
+Fokus: HELBRED
+
+Manakraft
+HELBRED +1 | PSYKE
+Med manakraft har rakkeren optrænet sin evne til at få +1 helbred mod -1 psyke. Rakkeren kan ikke få mere helbred end helbredloftet tillader.
+
+Tater
+Ligarafolket skabte i sin tid vanahai for at besejre dragen Vanahai Orm, men da det var gjort overtog de også magten over ligarastammen. Ligarafolket kunne ikke hamle op mod vanahai og valgte at løse problemet ved at skabe et nyt væsen med nekroalkymi. Denne gang blandede de et menneske med onokil og elvarin og resultatet blev snitalfen. Snitaflerne jog vanahai bort og forlod derefter ligarafolket, for at grundlægge deres egne riger. Da de store snitalferiger brød sammen flyttede snitalfer flyttede til menneskenes lande, hvor de fik børn med dem. Derfor fødes der i dag mennesker med så meget snitalfeblod i årerne, at deres øjne er stålgrå.
+Fokus: KRAFT
+
+Astralkraft
+KRAFT +1 | HELBRED
+Med astralkraft har tateren optrænet sin evne til at få +1 kraft mod -1 helbred. Tateren kan ikke få mere kraft end kraftloftet tillader.
+
+Umkai
+I en periode på over tusind år var umnol fordrevet fra deres oprindelige rige i Smededal og måtte leve i andre bjergriger eller blandt menneskene. Det førte til forhold mellem mennesker og umnol og i nogle tilfælde kom der børn ud af det. På den måde kom umnolblodet ind i menneskeslægten og de børn, der fødes med umnolblod i årerne kaldes umkai. De er gerne bredskuldrede, lavere højde end gennemsnittet og har enten kraftig hår eller slet intet. Da Smededal blev generobret og umnols konge kaldte alle umnol hjem, forlod de menneskenes riger og efterlod umkai, der ikke måtte drage med eller slå sig med i Smededal.
+Fokus: HELBRED
+
+Jernhelbred
+HELBRED +1 | KRAFT
+Med jernhelbred har unkai optrænet sin evne til at få +1 helbred mod -1 kraft. Umkai kan ikke få mere helbred end helbredloftet tillader.
+
+Vanahin
+Det var ligarafolket, en menneskestamme, der skabte den første vanahai af en drages blod. Vanahai kunne i kraft af drageblodet beherske magiien og blev et mægtigt folk. Det var intern strid og grådighed, der blev vanahais endeligt, men før de uddøde, havde de blandet sig med mennesker og på den måde kom vanahaiblodet ind i menneskeslægten. Vanahinen er født med vanahaiblod og derfor bruser ekkoet af dragens grådighed og higen efter viden og magt i personen sind. Vanahin har ingen særlige ydre fysiske kendetegn, men adskiller sig ved at have fire særlige kamre i kraniet. Kun som vanahin kan karakteren vælge dannelsen Magiker.
+Fokus: PSYKE
+
+Dræn
+PSYKE +1 | HELBRED
+Med dræn har vanahain optrænet sin evne til at få +1 psyke mod -1 helbred. Vnahain kan ikke få mere psyke end psykeloftet tillader.

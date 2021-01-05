@@ -1,0 +1,501 @@
+Det eksklusive marked
+Specialbutikker og eksklusive varer
+
+Det eksklusive marked er for det meste et lovligt, men dyrt eller svært tilgængeligt marked. Det er her karakteren køber biler, men også her man kan køber grej, der kun virker under særlige omstændigheder. Det er på det eksklusive marked magikeren køber sine formlarbøger, heksen sine kyprianus og missionærerne, dere bønnebøger. Her står om grej man kun kan købe, hvis man er optaget i særlige loger eller organisationer.
+
+Fartøj
+Fartøj er betegnelsen for transportmidler, både ridedyr og motoriserede fartøjer, der kan styres af én person. fartøj og ridedyr noteres bag på skemaet eller andet sted.
+
+Brug af fartøj
+Evnerul for fartøj benyttes kun når chaufføren skal udføre særlige manøvrer, eksempelvis for at undvige, flygte eller indhente. Mesteren bestemmer hvilken evne, der skal bruges og vurderer det ud fra manøvrens art. Det kunne være sanse for at opdage faren i tide, snilde for at reagere hurtigt, teknologi for at betjene køretøjet bedst muligt eller feltkunst for at presse ridedyret.
+
+Fart
+Fartøjets manøvredygtighed. Fart er en bonus, der lægges til det evnerul karakteren manøvrere fartøjet med. Benyttes også som bonus i kamp med fartøj. Læs mere i Kampbogen s.?.
+
+Brud
+Viser hvor meget skade fartøjet kan tåle, før det bryder sammen. Brud kan repareres på et værksted eller helbredes hos en dyrelæge mod en betaling svarende til fartøjets udgift, uanset hvor skadet det er.
+
+Last
+Viser hvor meget grej og udbytte fartøjet kan rumme eller bære. Grej og udbytte i fartøjet noteres bag på skemaet eller andets sted.
+
+Ridedyr !10
+FART 1 | BRUD 1 | LAST 5
+Af populære heste er den tofarvede grå 'Kurganger', den hvide 'Stoltenhov' samt den sorte 'Nordenmanke'. Af kameler er de mest populære den hurtige 'Shushu' og den sorte, stærke 'Umbra'. Mest special er nok den mekaniske hest, 'Autogangeren' fra den lille fabrik Magellan Teknik i Anrar. En til to passagerer.
+
+Motorcykel !10
+FART 1 | BRUD 2 | LAST 5
+Mest købte motorcykler er den stabile 'Kossak' fra Nordlandsk Mekanik, den kraftfulde 'MGA' med to sæder og sidevogn fra Meier Guhle samt den klassiske noxmanniske 'Triumf' med sidevogn fra VitVourage. En til to passagerer.
+
+Karet !15
+FART 2 | BRUD 2 | LAST 10
+Selvom den motoriserede trafik er almindelig, er hestetrukne fartøjer i høj grad brug mange steder i Valhel. Mest populære kareter er den avancerede smarte karet 'Chival', den komfortable og rummelige 'Ponella' og den lette og velaffjedret 'Rikko' med åbent kuskesæde til bykørsel. Fire til seks passagerer.
+
+Automobiler !20
+FART 2 | BRUD 3 | LAST 10
+Mest populære modeller er den klassiske familiebil 'Fabula' fra Nordlansk Mekanik, den sidste nye model af 'AutoPio' fra AutoKuria samt Valhels billigst automobil 'Provo' produceret af den Rolgornske statsindustri Vultaga. Fire til seks passagerer.
+
+Sportsvogn !25
+FART 4 | BRUD 3 | LAST 5
+Mest populære sportsvogne er 'Karavella' Ludvig Lavarres smukt kurvede sportsvogn med kaleche samt Valhels hurtigste bil, 'Zonello', fremstillet af Karlwalt, der er den mest avancerede og højteknologiske automobil til dato. To passagerer.
+
+Pansrede automobiler !25
+FART 3 | BRUD 3 | LAST 10
+Det mest populære modeller er Den store pansersikrede vogn 'Pikard' fra Karlwalt og 'Sultana' Kopiversionen af 'Den Gyldne Sultana', guldbilen der blev fremstillet af Autokhan i Rumanoth. Fire til seks passagerer.
+
+Lastbiler !30
+FART 2 | BRUD 4 | LAST 20
+Mest populære model af de små private lastbiler er den praktiske 'Transporter' fra Nordlandsk Mekanik, men også 'Lasteren' fra Autokuria og 'Fragteren' fra Nordkraft er ubredt i det meste af valhel. To til fire passagerer.
+
+Jernport
+Det var den monopatiske prædikant Franz Molliére, der i 437 udviklede skyggeseglet gennem sin dunkle forskning. Han brændemærkede sig selv og kunne nu fremstille grej, der i hans hånd havde særlige effekter. Således udstyret tog han kampen op mod heksene, der på hans tid var mangfoldige og blev på den måde den første karnefex, selvom ordenen først kom til efter hans død. Karnefexerne holder i dag til i Jernport, i det centrale Velhel og den karakter, som er optaget i karnefexordenen kan altid komme forbi og købe et særlige grej, der er fremstillet i Fexeriet og kun kan benyttes af mennesker med skyggeseglet. Kun karnefexer kan køber grej fra jernport.
+
+Svartpatak !5
+IMMUN UHELLIG | AUTO
+En sort patak, der gør karnefexen immun overfor det uhellige. Den er på størrelse med en tommelfinger i en lædersnørre. Gør karakteren immun overfor egenskaben uhellig.
+
+Natretter !5
+SKADE 3 OKKULT | PSYKE
+Et langklinget og slankt sværd af blåstål fra Zanger. Skæftet er omviklet af en kraftig sort lædersnørre og ender i en patak af stål. Giver 3 skade til en modstander med egenskaben hekseri ved at bruge 1 psyke.
+
+Maskinbue !5
+AFVÆRG FORBANDELSE | PSYKE
+Et fantastisk våben opbygget af en kraftig blåstålsbue, fastgjort til en stok af piletræ. Buen spændes automatisk af en okkult mekanik, der også roterer den tromle, som føder buen med bolte. Afværge egenskaben forbandelse mod -1 psyke.
+
+Svartberger !5
+LIVLOFT +2 | AUTO
+En kraftig panservest af sort læder, med okkulte og manafyldte metalbånd til ekstra beskyttelse. Giver +2 til livloft, der noteres i bonusfeltet under liv.
+
+Nokturn !5
+PSYKELOFT +2 | AUTO
+Den berygtede heksejægerhat med den høje koniske puld, bred skygge og sølvspænde i hattebåndet. Fremstilles i læder og giver +2 til psykeloft, der noteres i bonusfeltet under psyke.
+
+Vievand ¤5
+FUMLERUL OMRUL | FORBRUG
+Det indviede vand fra en hellig kilde afværger et fumlerul og giver karakteren et omrul. Helligt vand fremstilles både af monopaterne, pagtisterne og de lovtro, men kun til kirkelig brug.
+
+Justis Mortis
+Justikarerne holder til i den mere end totusind år gamle borg, Justis Mortis, på toppen af Lovklippen midt i byen Asit Dur. Justikarerne er dæmonjægere, som jagter kriminelle dæmoner og dæmoner under de syv forbudte dæmonherrer. Justikarerne optager medlemmer på baggrund af dygtighed og den som optages, får indopereret en særlig manateknisk enhed, kaldet en psykomatrise, der gør det muligt for karakteren at benytte justikarernes særlige grej. Ordenen fungerer som et lav, der beskytter Justikarens rettigheder og sikrer at karakteren har adgang til at købe det særlige justikar-grej. Kun justikarer kan købe grej fra Justis Mortis.
+
+Plasmariffel ¤5
+SKADE 3 DÆMONISK | PSYKE
+En kraftig riffel til affyring af plasmaprojektiler, med gasudløser og plasmadunk som magasin over løbet ved aftrækkeren. Giver 3 skade til modstandere med effekten dæmonisk mod at bruge 1 psyke.
+
+Manakyras ¤5
+LIVLOFT +2 | AUTO
+Er specialfremstillet blankt messingkyras til beskyttelse af kroppen med tilhørende skinner til arme og ben. Giver +2 til livloft, som noteres i bonusfeltet under liv.
+
+Manavisir ¤5
+FYSIK +2 | AUTO
+Hovedbeskyttelse af messing med visir og bioalkymisk drop til optimering af karakterens helbred. Giver +2 til helbredloft, som noteres i bonusfeltet under helbred. 
+
+Justikarsegl ¤5
+AFVÆRG DÆMONISK | KRAFT
+Et sølvsegl med justikarernes segl, et sværd med to vægtskåle, som bæres på venstre del af brystkassen. Seglet er fremstillet med en lille manateknisk enhed, som gør det muligt at afværge effekten dæmoninsk mod -1 kraft. 
+
+Autogeist ¤5
+OMRUL KAMP | AUTO
+En lille men effektfuld energipistol med batteri i skæftet og spolerør i jernglas, der udsender elektriske lynladninger mod målet. Giver omrul ved fejlrul med kamprul.
+
+Formularbøger
+Der findes særlige butikker, boghandlere og antikvariater, der sælger formularbøger. Formularbøger er nedfældede magiske formularer, som kun magikere kan benytte og kun hvis magikeren bærer bogen på sig, noteret under grej på karakterskemaet. Nogle formularbøger er forbudte, og det står skrevet ved den enkelte formularbog, hvis det er tilfældet. Bogens titel noteres øverst og nedeunder noteres den ekspertise formularen giver. Formularer bruges på samme måde som almindelige ekspertiser.
+
+Anrars porte ¤100
+LUK ÅBNING | PSYKE 4
+Denne formular binder en dør til sin karm, låg til sin kiste eller omslaget om en bog, således at den ikke kan åbnes med fysisk styrke. Låsen ophæves når magikeren ønsker det, men så er magiien brudt og den magiske lås er ophævet. Formularen kan også bruges til at åbne noget, som andre magikere har låst og kræver smatidig mytologirul mod en grad bestemt af mesteren, der afspejler magten på den magiker, som lavede låsen.
+Forfatter: Cronos Eidelech (813) 
+
+Asketale ¤50
+AFSLØRE ASKE | PSYKE 1
+Dette er kunsten ved berøring af aske at afgøre hvad det oprindeligt har været, før det blev brændt, herinder at læse et brændt brev.
+Forfatter: Oldurn Grågnist (111)
+
+At se i sandet ¤300
+AFSLØRE BLÆNDVÆRK | PSYKE 3
+Med denne formular og et vellykket mytologirul, der afspejler blændværkets styrke, kan magikeren gennemskue alle illusioner.
+Forfatter: Ærkekogler Namron (612)
+
+Begaris begavis ¤100
+HEMMELIG BESKED | PSYKE 1
+Med sølvskrift kan magikeren skrive en besked, der kun kan læses af den magikeren skriver beskeden til. For alle andre vil teksten fremstå som en ligegyldig men dog forståelig tekst.
+Forfatter: Mennentol Kedes (304)
+
+De grå sider ¤300
+TELEKINESE | PSYKE 1
+Med tankekraft kan magikeren løfte grej og udbytte indenfor sit synsfelt og bevæge det helt frem til en karakter, som kan benytte det i samme runde.
+Forfatter: Avatar Hvidstjerne (578)
+
+Den indre tanke ¤600
+LÆSE TANKER | PSYKE 4
+Dette er kunsten gennem tankerne at læse et andet væsens tanker med et mytologirul mod en grad, der afspejler offerets modstandskraft. Magikeren kan lede dybt i offerets viden og finde netop den viden man ønsker, men det kræver et mytologirul for hver viden, der skal findes frem. Denne formularbog er forbudt.
+Forfatter: Ravlan Kanaar (592)
+
+Den sjette sans ¤300
+EFTERLAD SANS | PSYKE 3
+Giver magikeren mulighed for at efterlade en af sine sanser på et bestemt sted og herefter se eller høre hvad som sker på dette sted, som var man der selv. Magikeren bestemmer selv hvilke sans; se eller høre, der efterlades. Hvis eksempelvis mageren efterlader sin se-sans, betyder det at mageren ikke kan se hvad der sker lige foran sig, men kun kan se hvad som sker, det sted sansen blev efterladt. Vil magikeren havde sin sans tilbage, skal magikeren hen til det sted, sansen blev efterladt, men kan så få den tilbage uden brug af formularen. Denne formularbog er forbudt.
+Forfatter: Gollman den gamle (856)
+
+Den ukendte vogter ¤100
+PÅKALD NATTEVAGT | PSYKE 2
+Formularen giver liv til magikerens skygge, der efter magikeren er faldet i søvn, løsriver sig og driver rundt for at holde vagt. Hvis den opdager noget, som kogleren selv anser som fjendtligt, vil skyggen straks vende tilbage og vække magikeren. Så snart magikeren vågner, bliver skyggen almindelig igen.
+Forfatter: Spenner den grønne (912)
+
+Den ægte magii ¤50
+VARLYS | AUTO
+Fremtrylle en oval lysende kugle, der giver et et tydeligt og klart lys, som hverken kan blænde eller brænde. Magikeren kan tænde og slukke varlyset som det ønskes.
+Forfatter: Tusk Taskenspiller (832)
+
+Droanomikon ¤300
+PÅKALD SKELETHOB | PSYKE 4
+Det var Jafar Ösen, også kaldet den gale Rumakaner, der i 737 skrev denne dystre og foruroligende bog om dødens og dødsrigets hemmeligheder. Den beskriver nøje dødens rædsler og tomhed, dens beboere og herskere og indeholder en rite der kan påkalde en skelethob. En skelethob består af lige så mange skeletter, som karakteren har mytologi. De udøde rejser sig eller graver sig op af jorden og de fungerer som trænet følge, der dog kun kan bruges én gang. Læse mere om følge i Tjenester s.?. Denne formularbog er forbudt.
+Forfatter: Jafar Ösen (737)
+
+Dukkeføreren ¤600
+FYSISK KONTROL | PSYKE 4
+Magikeren kan styre et menneskes fysiske bevægelser som at gå, svinge med arme og rulle med hovedet. Offeret kan tale af egen fri vilje, men modstand i kroppen gør kun bevægelserne langsommere. Formularen varer så længe magikeren holder koncentrationen og derfor magikeren ikke bruge evner, ekspertiser, reaktion eller formularer så længe formularen skal virke. Formularen kan ikke få offeret til at udføre indviklede manøvrer, som at angribe eller betjene mekanismer og offeret skal være ved bevidsthed, før magiien virker. Denne formularbog er forbudt.
+Forfatter: Ramondil den Røde (702)
+
+Forvandlingernes bog ¤150
+FORVANDLE GREJ | PSYKE 2
+Dette er kunsten at forvandle et grej til et andet med samme eller mindre udgift. Virker kun for grej fra det åbne og det sorte marked.
+Forfatter: Kaza Arzak (640)
+
+Himmelfesten ¤50
+FYRVÆRKERI | PSYKE 1
+Fremstryller et stort fyrværkeri i luften. Magikeren kan selv vælge hvilke effekter som vises, men det er ganske ufarligt og kan ikke antænde noget.
+Forfatter: Kaza Arzak (638)
+
+Indre stemme ¤150
+TALE I TANKERNE | PSYKE 2
+Dette er kunsten gennem tankerne at tale med et andet væsen. Det kræver at begge kan tale samme sprog, men giver ellers begge mulighed for at tale til og høre den anden i tankerne. Magikeren må koncentrere sig og kan derfor ikke kaste formularer, bruge ekspertiser, reaktioner eller evner mens tanketunge er aktiv. Denne formularbog er forbudt.
+Forfatter: Helkan Loko (483fR)
+
+Jernkogleri ¤150
+KOMPAS | PSYKE 4
+Dette er kunsten at lave et magisk kompas med jernsplint, der kan pege i retning af en genstand, et sted eller en person, som magikeren kender det sande navn på. Jernkogleri virker indtil stedet, genstanden eller personen er fundet.
+Forfatter: Oldurn Grågnist (107)
+
+Kaosmagii ¤300
+LIVSKADE ANTAL MODSTANDERE | PSYKE 4
+Giver modstanderne livskade svarende til antallet af modstandere, dog ikke højre end 10. Magikeren bestemmer selv hvordan skaden gives, om det er et flammehav, en isstorm, et kuglelyn eller noget andet.
+Forfatter: Ramondil den Røde (843)
+
+Kobberkisten ¤150
+MORFUSION | PSYKE 3
+Dette er kunsten at lade den fysiske krop smelte sammen med en genstand af mindst samme vægt og størrelse som magikeren selv. På den måde kan magikeren træde ind i og blive en del af sofaen, reolen, bordet eller døren. I morfusioneret tilstand er magikeren stadig ved bevidsthed, kan høre, se, lugte men hverken bevæge sig, fremsige formularer, bruge ekspertiser, reaktion eller evner. Magikeren kan ikke hvile i morfusioneret tilstand, men kan træde ud af morfusionen når det ønskes, dog altid kun samme sted, hvor magikeren trådte ind. Derfor kan morfusion ikke bruges til at gå hele vejen igennem fysiske ting.
+Forfatter: Rossko af Ark (299)
+
+Korridoren ¤300
+TELEPORTAL | PSYKE 5
+Ved at tegne et magisk anker et diskret sted, kan denne formular åbne en purper portal, som karakterne kan gå igennem og vende tilbage til det sted, hvor det magiske anker er tegnet. Portalen kan kun føre ét sted hen, hvis det magiske anker tegnes et nyt sted, ophører det forrige anker med at virke. Fremtrylles portalen i kamp, kræver det stadig at karaktererne kan flygte fra kampen, før de kan komme gennem portalen.
+Forfatter: Gollman den gamle (122)
+
+Magiium Skriptum ¤300
+NEDSKRIV FORMULAR | PSYKE 2
+Kunsten at nedfælde en magisk formular på et dokument, så den kan udløses af enhver, der bærer formularskriften på sig. Den som udløser formularskriften behøver ikke være magiker, men skal selv bruge den nødvendige psyke, før formularen kan udløses. Når den er udløst, brænder formularskriftet bort og slettes fra karakterskemaet.
+Forfatter: Gollman Den Gamle (81)
+
+Maskespil ¤150
+SKJUL ANSIGT | PSYKE 2
+Formularen maske kaste en magii over en karakters ansigt og gør vedkommende uigenkendelig for en runde.
+Forfatter: Janus Vakkelvorn (903)
+
+Mystika ¤50
+MAGISK LIM | PSYKE 2 
+Dette er kunsten at binde to materialer sammen til ét stykke. Materialerne kan være af vidt forskellig art, jern, stof, træ eller sten, sålænge det er et fast materiale. Det er ligeledes med denne kunst muligt at strække et materiale og således at det kan dække eventuelle huller og lækager. Kan bruges til at reparere ødelagt grej.
+Forfatter: Osmos Hale (202)
+
+Mørkets bog ¤150
+PÅKALD MØRKE | PSYKE 2
+Påkalder et unaturligt mørke, der dækker hele området og gør det meget vanskeligt at se. På den måde får alle karakterer terminus 12 og modstandere effektrul 10. Mørket virker en runde og driver derefter bort.
+Forfatter: Kronos Eidelek (750)
+
+Mørkets magter ¤100
+PÅKALD SKELET | PSYKE 1
+Dette er kunsten at vække 1 lig til live og på magikerens forlangende at angribe enhver fjende. De døde graver sig op til overfladen for at lyde magikeren og virker som et trænet følge, men kan ikke helbredes efter kamp. Denne formularbog er forbudt. Se mere om følge i Tjenester s.?.
+Forfatter: Kronos Eidelek (751)
+
+Navnebogen ¤100
+AFSLØRE SANDE NAVN | PSYKE 4
+Dette er kunsten at finde det sande navn på nogen eller noget, mod et vellykket mytologirul mod en grad, som afspejler offerets eller genstandens modstandskraft.
+Forfatter: Rossko af Ark (283)
+
+Sindstvang ¤300
+HUKOMMELSESTAB | PSYKE 6
+En magisk bog, der kan fratage et offers hukommelse om en hel dag ved et vellykket mytologirul mod en grad, der svarer til offerets modstandkraft. Hukommelsen er borte permanent, men kan hentes tilbage hvis offeret kureres af samme formular. Denne formularbog er forbudt.
+Forfatter: Vé Hvidstjerne (890)
+
+Skyggernes bog ¤150
+TELEPORT TIL SKYGGE | PSYKE 3
+Således kan magikeren gå ind i en skygge, der kastes fra en genstand og dukke op fra en anden skygge fra en genstand, indenfor magikerens synsfelt. Magikeren tager alle de ting han har på sig og kan bære, med på skyggevandringen. Kan ikke benyttes på skygger, der kommer fra levende væsner.
+Forfatter: Kronos Eidelek (722)
+
+Smertebogen ¤150
+SKADE 2 | PSYKE 1
+Dette er kunsten at give 2 livskade til en modstander mod at bruge 1 psyke. Magikeren bestemmer selv hvordan skaden gives, om det er ild, is, fingerlyn eller noget helt andet.
+Forfatter: Osskil Erasmus (902)
+
+Til hverdag og fest ¤50
+FORME RØG | PSYKE 1
+Kunsten at farve røg og forme det til de illustrationer, som magikeren kunne ønske. Kan også styre røg til at bevæge sig i en bestemt retning. Magikeren må holde koncentrationen og kan ikke kaste formularer, bruge ekspertise, reaktion eller evner mens røgmagiien bruges.
+Forfatter: Tusk Tasekspiller (873)
+
+Tungespil ¤100
+BUGTALE | PSYKE 2
+Med tungespil kan magikeren tale og få det til at lyde, om kom stemmen fra et andet sted.
+Forfatter: Rossko af Ark (295)
+
+Usynlige hånd ¤200
+PÅKALDE HUSÅND | PSYKE 6
+Dette er kunsten at fremmane en tjenende ånd, der holder sig til det sted, den er påkaldt. Den tjenende ånd er usynlig, men kan åbne flasker og døre, hælde vin i glas, lave mad, gøre rent, vande blomster, hente ting, vende siderne i en bog, flytte en stol og lignende. Alle disse evner kan den med samme dygtighed som magikeren selv. Tjenende ånder kan ikke slås og har hverken hukommelse eller vilje. Der kan kun være én ånd indenfor samme område.
+Forfatter: Ravlan Kanaar (584)
+
+Vand er liv ¤100
+PÅKALDE VAND | PSYKE 2
+Formularen tryller vand frem fra den tørre jord eller klippe. Den lille kilde vil løbe i en times tid, før den vil tørre ud.
+Forfatter: Mech Al Azhiff (962)
+
+Vilje ¤600
+KONTROLLERE VILJE | PSYKE 3
+Ved at udtale denne formular og klare et mytologirul, der afspejler offerets modstandskraft, kan magikeren styre offerets vilje til at udføre en enkelt handling. Det kan dog ikke være handling, der bringer offeret selv i fare. Offeret kan intet huske efter oplevelsen, det vil være som intet var hændt. Denne formularbog er forbudt.
+Forfatter: Naran Esgarod (781)
+
+Vejrmagerens bog ¤150
+PÅKALDE VEJR | PSYKE 2
+Kunsten at frembringe det vejrforhold som magikerens Ønsker. Vejret opstår med det samme uafhængigt af naturlovene, upåvirket af klima og geografi. Efter seks timer vil vejret vende tilbage til det naturlige forhold.
+Forfatter: Mennentol Kedes (904)
+
+Bønnebøger
+De hellige bønnebøger er afskrifter af de bønner, som de fem ærkeengle nedfældede og gav Kejser Stezian efter slaget om Annumnur i 898fR. Bønnebøger kan købes i kirker og særlge boghandlere, men de kan kun bruges af karakterer, der er optaget i en kirke og har modtaget rimkimen. Missionæren kan kun benytte de bønnebøger, der er noteret under grej på karakterskemaet. Bønnebogens titel noteres på øverse linje og nedeunder noteres den ekspertise bønnen giver. Bønner bruges på samme måde som almindelige ekspertiser.
+
+Absolution ¤200
+OPHÆV FORBANDELSE | PSYKE 2
+At bære en forbandelse er en synd, som tærer sit offer indefra gennem sjælen. Absolutionen er den guddommelige tilgivelse, som ophæver én karakters forbandelse mod at missionæren får -2 psyke.
+Ærkeengel: Usiel (898fR)
+
+Apostlens mod ¤150
+SUCCESRUL SIND | PSYKE 2
+Med ordene om apostlens mod ænser missionæren ingen frygte og omdanner dermed sit fejlrul til et vellykket rul. Virker ikke på fumlerul.
+Ærkeengel: Siva (898fR)
+
+Askesens dyd ¤50
+SJÆLEGAVE UDEN GREJ | AUTO
+Med askesen søger missionæren at frigøre ånden fra det materielle ud fra et ønske om selvkontrol og en negativ opfattelse af det materielle liv. Hvis missionæren vælger at gå uden grej og farmaka får karakteren en valgfri sjælegave. Karakteren må dog gerne bære simpelt tøj og bruge hellige relikvier, herunder hellige symboler.
+Ærkeengel: Siva (898fR)
+
+At lyse i band ¤100
+BANDLYS GREJ | PSYKE 2
+Dette er bønnen om det åndelige brændemærke, der bindes til et grej eller en genstand således, at ingen, ud over missionæren selv, kan røre det uden at få 1 livskade i hver runde. Missionæren skal røre grejet eller genstanden, som skal bandlyses og så længe missionæren opretholder en bandlysning, sænkes karakterens psykeloft med 1.
+Ærkeengel: Ulanos (898fR)
+
+Bøn ¤50
+OMRUL FUMLE KARAKTER | PSYKE
+En ydmyg bøn, der opildner troen på miraklet og giver dermed et omrul til en karakter med fumlerul mod at missionæren får -1 psyke.
+Ærkeengel: Hishenna (898fR)
+
+Den hellig bod ¤50
+TILSTANDSLOFT FOR EKSPERTISE | AUTO
+Den hellige bod giver missionæren mulighed for at slette ekspertisefelter permanent mod at få +2 fra hvert felt til et valgfrit tilstandsloft. Bonus til tilstandsloft noteres i bonusfeltet under tilstandene og de fravalgte ekspertiser streges over. Missionæren kan ikke ophæve den hellige bod igen og ekspertisefelterne er for altid uanvendelige.
+Ærkeengel: Siva (898fR)
+
+Den hellige krig ¤100
+PRYGL -1 ALLE | PSYKE 2
+Hellig krig påkalder Guds kriglykke, der giver alle karakterer -1 i prygl for en runde.
+Ærkeengel: Valakia (898fR)
+
+Det hellige løfte ¤200
+LØFTE | PSYKE 3
+Men den hellige ed kan missionæren give et løfte til Gud og dermed blive belønnet om det lykkedes eller straffet om det ikke lykkedes. Løftet skal indeholde at gøre ond gerning god igen, men derudover kan missionæren selv definere løftet. Når det hellige løfte er udtalt, skal det indfris inden karakteren kommer i privaten. Hvis det lykkedes, kan missionæren og alle, der deltog i at omgøre den onde gerning slette alle sakde i alle tilstande, brud og gift.
+Ærkeengel: Valakia (898fR)
+
+Dæmonum sanktum ¤300
+BORTMANE DÆMON | SPECIEL
+De hellige ord bortmaner dæmoner mod at missionæren klarer et kulturrul mod dæmonens kampgrad og ofrer 2 psyke for hver grad dæmonen har i kampgrad. Dæmoner med kampgrad let kræve 2 psyke, grad normal kræver 4 psyke, vanskelig kræver 6 psyke og så videre. Missionæren mister psyke uanset om bortmaningen virker eller ej.
+Ærkeengel: Valakia (898fR)
+
+Guds vrede ¤200
+KAMPRUL +10 | PSYKE 1
+Den hellige vrede vækker en krigerisk ild i missionæren, der får +5 til sit kamprul.
+Ærkeengel: Valakia (898fR)
+
+Indvielsen ¤50
+HELLIG JORD | PSYKE 1
+Med denne bøn indvier missionæren jorden rund om sig i en radius af 10 meter. Uhellige modstandere kan ikke opstå i eller betræde indviet jord. Indviet jord bliver automatisk afværget af modstandere med egenskaben okkult eller dæmonisk.
+Ærkeengel: Siva (898fR)
+
+Jernbyrd ¤50
+VARMEIMMUN | PSYKE 1
+Med bønnen om jernbyrd, kan missionæren for en enkelt runde røre brændende, glødende eller på anden måde varme genstande, uden at få skade. Gælder for al slags varme, undtaget varme fra evighedens ild.
+Ærkeengel: Siva (898fR)
+
+Krafttalen ¤100
+FOKUS +5 KARISMA | AUTO
+Med kraftalen får missionæren +5 ved fokus til karisma istedet for +3.
+Ærkeengel: Hishenna (898fR)
+
+Livskald ¤150
+LIVSKADE 3 UHELLIG | PSYKE 1
+Påkaldelse af livets essens, der fordriver det uhellige mod tilintetgørelse og giver modstandere med egenskaben uhellig 3 i skade mod at missionæren får -1 psyke.
+Ærkeengel: Ulanos (898fR)
+
+Skytsengel ¤300
+FRIT MULTI OMRUL | PSYKE 1
+Ved at påkalde en skytsengel, kan missionæren give flere omrul til både den samme og forskellige karakterer, uanset resultatet. Skytsenglen kan bruges lige så mange gange i samme runde som missionæren ønsker, men det koster -1 psyke for hvert omrul.
+Ærkeengel: Hishenna (898fR)
+
+Smertens glød ¤100
+TAGE ANDRES LIVSKADE | AUTO
+Med stigmatiseringen påtager missionæren andre karakterers livskade. Missionæren bestemmer selv hvor mange livskader der skal tages og hvilke karaterer der skal hjælpes, men det virker kun mod livskade, givet i samme runde som stigmatiseringen foregår.
+Ærkeengel: Ulanos (898fR)
+
+Velsignelse ¤300
+VALGFRI TILSTAND +1 ALLE | PSYKE 2
+Den kraftfuld velsignelse udføres med ord og formidler den guddommelig kraft til alle karakterer, der får +1 i en valgfri tilstand mod at missionæren får -2 psyke.
+Ærkeengel: Hishenna (898fR)
+
+Åndesynet ¤150
+MÆRKE ÅNDER | PSYKE 2
+Denne bøn kan med et vellykket kulturrul, afgøre om der er ånder tilstede. Der rulles mod en grad, der afspejler tydeligheden af åndeaktiviten. Missionæren kan tydeligt mærke hvor mange ånder der er og hvor stærke de er; det vil sige at afgøre åndernes kampevne samt hvilke ånder der er tale om.
+Ærkeengel: Siva (898fR)
+
+Kyprianus
+Der findes hemmelige butikker og særlige boghandlere, som sælger kyprianus. Kypranus er heksebøger med en heksebesværgelse, nedskrevet af alverdens hekse gennem tiden. Kyprianus kan kun benyttes af karakterer med hekselænke. Med lad det være sagt med det samme; den, som lader sig lægge i hekselænke, er ikke bare af denne verden, men står med det ene ben i afgrunden og omgås med ånder og dæmoner. Gevinsten er kyprianusens magt, men prisen er din sjæl. Heksen kan kun benytte de kyprianus, som er noteret under grej. Kyprianus titel noteres på øverse linje og nedeunder noteres den ekspertise kyprianusen giver. Kybrianus bruges på samme måde som almindelige ekspertiser. Nogle kyprianus er forbudte og det står noteret ved bogen, hvis det er tilfældet.
+
+Den søde kløe ¤100
+LIDERLIGHED | PSYKE 3
+Efnizir: Tal besværgelsen og peg på offeret med højre hånds lillefinger. Besværgelsen kræver et vellykket okkultismerul mod en grad, der svarer til offerets modstandskraft. Lykkedes det vil en voldsom liderlighed vækkes i offeret, som tvinger offeret til at kysse og befamle den nærmeste person med højest karisma af det køn offeret tiltrækkes af. Offeret vil ikke helme, før vedkommende har udført kønslige omgang med den udvalgte eller når solen stå op.
+Forfatter: Tara Hildflid (666)
+
+Det frydefulde kys ¤200
+VILJE KONTROL | PSYKE 3
+Efnizir: Med et frydefuldt kys og en okkultismerul mod en grad, der afspejler offerets modstandskraft, kan heksen styre offerets vilje til at udføre en enkelt handling. Offeret vil dog ikke udføre handlinger, der bringer offeret selv i fysisk fare. Efter hændelsen kan offeret kun huske det frydefulde kys. Denne kyprianus er forbudt.
+Forfatter: Vildflirt Skøgedatter (357)
+
+Heksegryden ¤300
+OVERVÅGNING | PSYKE 4
+Efnizir: Kog efter solnedgang en gryde med mosevand, flagremusøjne, tidsler og stinkende gevækster. Når gryden koger skal besværgelsen fremsiges og en let tåge stiger fra den. På en times tid vil tågen dække et område på en kilometer rundt om gryden. Ved at kigge ned i grydens kogende vand, kan heksen se alt inden for området som tågen dækker og lede efter alle levende væsner, der opholder sig inden for tågen. Heksgryden virker kun så længe heksen er koncentreret om at holde besværgelsen oppe og kan derfor hverken bruge evner, ekspertiser, reaktion eller grej.
+Forfatter: Maren Mose (72)
+
+Den lille grønne ¤50
+KURERE SÆRSKADE | PSYKE 1
+Efnizir: En hurtig og praktisk besværgelse, der kurerer én giftskade eller brudskade på en karakter, mod at få -1 psyke.
+Forfatter: Injala (ukendt oprindelse)
+
+Kærlighed og tvang ¤100
+KÆRLIGHEDSPAGT | PSYKE 3
+Efnizir: Et ritual, der udføres om natten med et edderkoppespind, blod fra de to, der skal blive forelsket og urter plukket i fuldmåneskygge. Når ritualet er gennemført, vil de to ofre falde i en dyb forelskelse i hinanden, en forelskelse, der kun brydes, hvis kærlighedspagten brydes med samme ritual. Denne kyprianus er forbudt.
+Forfatter: Rigmor Hvidskjold (1170)
+
+Drømmetalen ¤50
+TALE I DRØMME | PSYKE 1
+Azile: Sæt dig efter mørkets frembrud med et vandfad og tal besværgelsen med offerets navn over vandet. Hvad du herefter hvisker til vandet, vil offeret kunne høre i sine drømme, som mange hviskende stemmer. Offeret vil tydeligt kunne huske ordene fra drømmen den følgende dag.
+Forfatter: Hanna huld (711)
+
+Hvilebogen ¤100
+HVILE ALLE | AUTO
+Azile: Med hvile kan alle karakterer hvile og slette alle skader i tilstande efter seks timers søvn.
+Forfatter: Magnus Mogatti (342)
+
+Drømmenes bog ¤100
+GIV MARERIDT | PSYKE 1
+Azile: Tal da besværgelsen mod din egen skygge og ud fra den springer en mare. På heksens ordre vil mare opsøge det menneske heksen ønsker og beride offeret den ganske nat med rædselsvækkende drømme, der forhindrer offeret i at genvinde efter hvile. Denne kyprianus er forbudt.
+Forfatter: Signe Nordagter (892)
+
+Sjælesang ¤200
+LOKKE BØRN | PSYKE 6
+Azile: En sang så sød som den rislende flod, lokker uskyldig blod. Denne besværgelse skal synges og hvis heksen klarer et okkultismerul mod en grad, der svarer til ofrenes modstandskraft, vil tonerne påvirke alle menneskebørn under 15 år og lokke dem til at følge med heksen, hvorhen i verden det end skulle være. Sjælesang virker kun så længe der synges og heksen kan hverken bruge evner, reaktion, grej eller ekspertiser imens. Denne kyprianus er forbudt.
+Forfatter: Charlot de Akdor (583)
+
+Vuggevise ¤300
+MODSTANDER SOVE | PSYKE 4
+Azile: Får en modstander til at sove. Heksen kan få flere til at sove i samme runde ved at bruge 4 helbred for hver modstander, der skal falde i søvn. Kan også benyttes i kamp, men virker ikke mod uhellige, ånder, dæmoniske, overnaturlige eller uvirkelige.
+Forfatter: Hansine Greta (593)
+
+Den åbne bog ¤300
+FIND VIDEN | PSYKE 2
+Baraskef: Heksen kan se ind i et offers viden gennem offeret øjne og finde den viden heksen søger i offeret. Heksen kan kun finde den viden offeret har og selv tror er rigtigt. Besværgelsern virker kun på bevidste væsner med sjæl; mennesker, trolde og umnol. Denne kyprianus er forbudt.
+Forfatter: Hannibal Svigter (957)
+
+Irettesættelsen ¤50
+GIV LUSSING | PSYKE 1
+Baraskef: Klap i hænderne og hvisk det besværgende ord, da vil klappet føles som en lussing på offerets kind. Lussingen kan gøre kinden blussende rød og ydmyge offeret, men ikke give skade eller genere offerets handlinger iøvrigt.
+Forfatter: Skolemester Vinterhaupt (1002)
+
+Kundskab og magt ¤200
+KAMP MED KUNDSKABER | AUTO
+Baraskef: Denne mægtige indsigt i kundskabernes verden gør at heksen må udføre kamprul med kundskaber, på samme måde, som karakteren normalt gør med talenter.
+Forfatter: Vizgoz Altweiser (983)
+
+Tungesegl ¤100
+FORBYDE OMTALE | PSYKE 3
+Baraskef: Denne heksekunst forhindrer et offer i at viderebringe en bestemt information, både i form af skrift, tale og andre kommunikationsformer. Før forbandelsen virker, skal heksen klare et okkultismerul mod en grad, der svarer til offerets modstandskraft. Herefter kan offeret ikke omtale den viden, indtil forbandelsen ophæves med samme besværgelse.
+Forfatter: Tavs Tunglod (1071)
+
+Vrangtunge ¤100
+TALE BAGVENDT | PSYKE 1
+Baraskef: Vrangtungens tale virker på både heksen selv og de som taler med heksen, der alle taler og forstår bagvendt tale. På denne måde kan de tale med hinanden, uden nogen andre kan forstå hvad der tales om, omend det kan være ret skæmmende at høre på.
+Forfatter: Sixten Vismand (231)
+
+Det blege ansigt ¤100
+SIMULERE DØD | PSYKE 2
+Med disse ord bliver en karakters krop kold, får indsunkne øjne, gusten hud og vejrtrækningen stopper, som var karakteren død. Kun et bioalkymirul mod episk kan afsløre, at offeret faktisk ikke er død. Offeret kan tænke og høre, men hverken lugte, føle eller se. Effekten kan ophæves når offeret ønsker det.
+Forfatter: Gina Hengemt (713)
+
+Grønne øjne
+OMRUL EVNEGRAD | PSYKE
+Hekseri hjælper til i en given situation med et omrul på mesterens evnegrad. Når heksen trække på dæmonkraften på den måde lyser øjnene op med et grønt skær, deraf navnet; grønne øjne.
+Forfatter: Heksos (ukendt oprindelse)
+
+Hekseform
+FORVANDLE TIL DYR | PSYKE 6
+Med hekseform kan heksen forvandle sig til et dyr. Dyret kan ikke mindre end en kat og ikke større end heksen selv. Det første dyr heksen forvandler sig til, vil fremover være det dyr heksen kan blive. I forvandlingen indgår hverken grej, udbytte, farmaka eller penge, der efterlades på jorden hvor forvandlingen foregik. Som dyr har heksen sin egen forstand og kan derfor forstå menneskelig tale, men evnerne vil være som dyrets. Tydelige træk fra karakteren krop vil gå igen hos dyret, eksempelvis vil hårfarve, ar og manglende lemmer gå igen hos dyret. I dyreskikkelse kan heksen ikke bruge hekseri eller ekspertiser, men kan ophæve hekseformen når det ønskes.
+Forfatter: Heksos (Ukendt oprindelse)
+
+Heksemesterens bog ¤1000
+INDVIE HEKS | PSYKE 1
+Denne magtfulde besværgelse lægger en frivillig person i hekselænke, der således bliver heks under samme dæmonherre som karakteren. Besværgelsen kan kun udføres på et kultsted og heksen, som udfører ritualet bliver automatisk heksemester for den nye heks. Som heksemester er man ansvarlig for de hekse, man selv har indviet og man skal derfor være påpasselig med, hvem man lukker ind i heksekulten. En heksemester, der har fem hekse i sin kult, kan også bruge heksemesterens bog til at teleportere sig tilbage til sit eget kultsted. Men i samme øjeblik heksen forlader kultstedet igen, bliver heksen teleporteret tilbage til det sted heksen kom fra.
+Forfatter: Irene Magdalene (744)
+
+Kultsted
+KULTSTED | PSYKE 3
+Dette er det vigtige ritual at indvie et kulsted til ære for dæmonherren. Gå til det udvalgte sted en torsdag nat, medbring en vædder på mindst seks somre og lad dens blod flyde som offer til dæmonherren. Tegn da et pentagram med vædderhovedet som centrum og sig besværgelsen. Da vil stedet og alt indenfor cirklen, være indviet til kultsted. Heksen kan opbevare 10 grej på sit kultsted og kan fremover tegne heksecirkel på jorden og fremsige besværgelsen for at få alle de ting heksen har på sit kultsted frem i cirklen. Heksen kan lukke heksecirklen når det ønskes og dermed vil alt grej i heksecirkeln forsvinde tilbage til kultstedet. Læs mere om kultsted i Metafysika s.?.
+Forfatter:  Katrine Splid (117)
+
+Kultvogter ¤100
+KULTSTED VOGTER | PSYKE 4
+Påkalder en dæmon, der kun opholder sig på heksens kultsted. Hvis fremmede bryder ind på kultstedet vil kultvogteren påkalde heksen, uanset hvor i verden heksen befinder sig. Når kultvogteren kalder, men heksen vælge at teleportere sig tilbage til kultstedet med det samme, men så snart heksen forlader kultstedet igen, bliver heksen teleporteret tilbage til det sted heksen kom fra. Efter kultvogteren har kaldt på heksen, forsvinder den tilbage hvor den kom fra og der må påkaldes en ny, hvis kultstedet stadig skal bevogtes.
+Forfatter: René Dunkelhvisker (592)
+
+Måneforbandelsen ¤200
+OFFER TIL VARULV | PSYKE 5
+Udvælg et offer med venstre hånds lillefinger og tal besværgelsen. Det kræver et vellykket okkultismerul mod en grad svarede til offerets modstandkraft, men da vil offeret lide af måneforbandelsen. Hver gang månen står i samme fase som den gjorde da forbandelsen blev pålagt, vil offeret forvandle sig til en varulv. Læs mere om varulve i Arternes bog s.?. Forvandlingen tager en runde og begynder ved midnat. Offeret vedbliver med at være varulv, indtil varulven har ædt et menneskehjerte eller til solen står op. Offeret vågner som menneske igen og har ingen hukommelse eller erindring om hændelsen, men tøjet er sønderrevet og kroppen sølet i blod. Forbandelsen virker indtil den ophæves med samme besværgelse. Denne kyprianus er forbudt.
+Forfatter: Nikolai Malenko (842)
+
+Narrestreger ¤100
+BYLDESYGE | PSYKE 1
+Besudler en håndfuld bær, der kastes mod et offer og giver offeret byldesyge. Byldesygen er ufarlig, men giver store bylder i ansigtet og offeret får -2 karisma, så længe sygdommen hærger. Byldesyge kan ikke helbredes, men ophører af sig selv ved daggry.
+Forfatter: Lasko Lodby (952)
+
+Okkulte alter ¤1000
+OFFERRITUAL | PSYKE 3
+Ved at ofre et dyr på et kultsted under dette ritual belønnes heksen ved at blive kureret for alle skader i en valgfri tilstand. Ofres et menneske, helbredes alle skader i alle tilstande. Denne kyprianus er forbudt.
+Forfatter: Hatarina Siskana (589)
+
+Podebogen ¤150
+PÅSÆTTE LEGMESDEL | PSYKE 3
+Dette er kunsten at pode en legemsdel på en levende krop således, at bæreren kan benytte den, som var den naturlig. Et øje kan sættes i nakken og den afhuggede arm kan sættes på plads. Vær opmærksom på, at podninger, der er synlige og unaturlige vil nedsætte karakteren karisma. Heksen kan kun pode legemsdele, der højst er en time gamle.
+Forfatter: Heralda Drogemutter (283)
+
+Råddenskab og fordærv ¤150
+RÅDNE FORBANDELSE | PSYKE 2
+Gå i ulvetimen, mærk et område med fem spytklatter og tal forbandelsen. Herefter vil tilberedt mad, bagte brød, plukkede frugter, høstede grøntsager, kød, bryg og vin, som fremstilles inden for området, rådne. Alt som vokser på markerne, træerne eller buskene forbliver upåvirket, indtil det høstes eller plukkes eller dyret slagtes. Forbandelsen virker indtil den ophæves med samme besværgelse.
+Forfatter: Merle Kny (712)
+
+Skyggefængeren ¤1000
+FANG SKYGGE | PSYKE 6
+Tag en dåse af det pureste bly, ret åbningen mod offeret og fremsig besværgelsen. Hvis heksen klarer et okkultismerul mod en grad, der svarer til offerets modstandskraft, tvinges offerets skygge ned i den åbne dåse. Smæk straks låget på og forsegl dåsen godt og grundigt. Fremover vil besværgelser og forbandelser, der rettes mod dåsen, virke som blev den rette på skyggens ejermand selv. Lukkes låget op, vil skyggen straks finde tilbage til sin herrer, uanset hvor i verdenen denne befinder sig. Denne kyprianus er forbudt.
+Forfatter: Hisfan Khanata (978fR)
+
+Tørke og tørhed ¤150
+UDTØRRE OMRÅDE | PSYKE 4
+Gå i ulvetimen og spyt fem gange for at indramme området. Tal forbandelsen og kast en håndfuld salt. I læbet af en time vil fugtigheden forsvinde i jorden og regnskyer vil undgå området. Søer, åer og moser vil tørre ud, mens floder der har sit udspring udenfor det forbandede område ikke vil blive påvirket. Men det vil stadig ikke kunne give vand til træ eller busk. Tørken virker indtil forbandelsen ophæves med samme besværgelse.
+Forfatter: Hanna Mulvard (1152)

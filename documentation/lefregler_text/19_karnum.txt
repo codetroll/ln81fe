@@ -1,0 +1,31 @@
+Karnum
+De forureningsskabte
+
+Den moderne verdens industri er baseret på Doktor Robert Leys karnumteknik, en videreudvikling af bioalkymien, hvis fader var den berømte professor Gilbert Glammer. Karnumteknikken bruges til at fremstille biologiske muskel-motorer, men blev også tidligere brugt til at fremstille menneskelignende soldater og diverse væsner. Forureningsulykker og obskure karnumtekniske forsøg er til stadighed årsag til frygtelige mutationer, der skaber vildt levende karnum, til fare for alt liv. Særligt nedsmeltningen af en lang række Karnumfabrikker i det gamle Stor Regia, medførte at der opstod en ny slags liv; Karnum. Inden for de sidste tredive år er der registreret ti karnum-arter, der lever i skyggen af menneskets civilisationer og som kan reproducere sig selv. Disse karnum består kun af muskel, ben, sener og hud og kan kun få næring af kød. Karnum anses som skadedyr og må nedkæmpes frit, som det findes nødvendigt.
+
+Kynis
+Et ubehageligt hundeagtigt kryp med laset og rådden hud, særligt omkring det grusomme gab. De er hidsige og angrebsivrige, lever altid i store flokke hvor der er skald og affald. Kynis formerer sig ved at nogle af dem muteres til hunner og befrugter sig selv. De føder kuld på ti til tyve kynishvalpe. En kynis lever op til tre år. Karakteren kan fremstille stikolin af kynis med lægekunstrul mod svær.
+Snilde 2
+Bestrålet (FARMAKA GIFTSKADE | AUTO)
+Giftig (HELBREDSKADE ALLE | EFFEKTRUL)
+
+Zmig
+Den langhalede zmig er med sine to kraftige forben, den hurtigste karnum der kendes. Til forskel fra alle andre karnum, lever zmig af blod og har særlige hugtænder flere steder i og omkring gabet. Zmig kan blive op til ti år gamle, de lever nær kirkegårde og gravpladser, hvor der gerne graver ligene op for at æde dem, hvis ikke der er levende føde at angribe. Karakteren kan fremstille én psykonyl af zmig med lægekunstrul mod svær.
+Snilde 4
+Bestrålet (FARMAKA GIFTSKADE | AUTO)
+Giftig (HELBREDSKADE ALLE | EFFEKTRUL)
+Hurtig (KRAFTSKADE ALLE | EFFEKTRUL)
+
+Gug
+En humanoid kolos på op til to meter i højden, med tunge væskende kødklumper i stedet for hænder og fødder. En gug har ingen mund, den æder ved at slå på byttet, så sørger væsken i kødklumpen for at tilføre den næring. De bliver op til fem år gammel og findes særligt i bakker eller bjergområder, hvor den kan skjule sin to meter høje krop. Den lever mest af ådsler, men angriber altid et levende måltid. Karakteren kan fremstille én stimnol af gug med lægekunstrul mod svær.
+Styrke 6
+Bestrålet (FARMAKA GIFTSKADE | AUTO)
+Brutal (BRUDSKADE ALLE | EFFEKTRUL)
+Giftig (HELBREDSKADE ALLE | EFFEKTRUL)
+
+Kavder
+Med sine store horn kan blive op til tre meter høje. De lever oftest i skovene, ikke langt fra menneskenes landbrug. De lever mest af skovens dyr og bøndernes kvæg, men kan også tage mennesker, hvis man kommer for tæt på. Den har to hurtige korte ben og stærke arme med hovsakse, der både kan slå, holde fast og knuse. Kavdere lever i cirka ti år. Karakteren kan fremstille én krafttabs af kavder med lægekunstrul mod svær.
+Fysik 8
+Bestrålet (FARMAKA GIFTSKADE | AUTO)
+Giftig (HELBREDSKADE ALLE | EFFEKTRUL)
+Horn (LIVSKADE ALLE | AUTO)

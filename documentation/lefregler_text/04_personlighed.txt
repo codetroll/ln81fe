@@ -1,0 +1,540 @@
+Personligheder
+
+Beleven
+Den stilfulde: Den belevne er en høflig og taktfuld person, dannet, galant og opmærksom på andres behov. Personen går op i sit ydre, klæder sig passende eller måske ligefrem overdådigt, ynder at tilegne sig en bred viden og forstår at konversere både privat og i selskab. Den belevne er almindeligvis en behagelig og underholdende person.
+Almen viden
+KUNDSKABER +1 | AUTO
+En bred viden om kundskaberne, der giver den praktiske +1 til alle kundskaber. Noteres i bonusfeltet under kundskaberne.
+Alsidig
+TO STJERNER | AUTO
+Som alsidig får karakteren to stjerner, der kan placeres valgfrit i prygl, ekspertiser, de ulovlige markeder, speciale, levned eller fokus.
+Hjælpsom
+FOKUS KARAKTER | AUTO
+Den hjælpsomme kan give bonusen fra egen fokus til en anden karakter, istedet for at få bonussen selv.
+Energisk
+LIV +1 | KRAFT
+Som energisk kan den belevne få +1 liv mod at få -1 kraft én gang i runden. Den belevne kan ikke opnå mere liv end livloftet tillader.
+Inspiration
+FLYT KUNDSKAB ALLE | PRIVAT
+Med indspiration kan alle  flytte et point fra én kundskab til en anden i privaten. En kundskab kan dog ikke bliver mindre end antallet af valgte forbedringer kræver.
+Kulturel
+INDTÆGT KULTUR | PRIVAT 
+Forståelse for de lokale kulturer forøger indtægten svarende til den belevnes kultur. Noteres som indtægt i feltet med udråbstegnet under levned.
+Parade
+FORSVAR MODEFFEKT | AUTO
+Forhindrer den belevne i at blive ramt af kampgrad ved et vellykket modeffektrul.
+Smørtunge
+SALG UDBYTTE 4 | AUTO
+Med smørtunge kan den belevne sælge alle karakteres udbytte for 4 penge stykket.
+Disciplinær
+Den beslutsomme: En person, der er fokuseret på ære, orden og disciplin. Den disciplinære har orden i sine ting, er ordentlig klædt og overholder sine aftaler til punkt og prikke. Det er en beslutsom person, også når det gælder de svære valg og handler loyalt ud fra sine valg, uden tøven. Den disciplinære er eftertænksom og velovervejet, handler sjældent overilet, men står gerne op for sine principper og venner.
+Dedikeret
+OMRUL BESTEMT EVNE | AUTO
+Giver automatisk omrul i en valgfri evne. Når først evnen er valgt, er det fremover denne evne, der har omrul.
+Disciplin
+FLYT TALENT ALLE | PRIVAT
+Med opmuntring kan alle karakterer flytte et valgfrit point fra ét talent til en kundskab. Et talent kan dog ikke blive mindre end antallet af valgte forbedringer kræver.
+Kommando
+SKADE SUCCESRUL ALLE | KRAFT
+Angrebskommando, der giver modstanderen +1 skade for hvert vellykket kamprul.
+Kraftfuld
+KRAFT +1 | SKÆBNERUL
+Som kraftfuld får den disciplinære +1 i kraft ved skæbnerul. Den disciplinære kan ikke opnå mere kraft end kraftloftet tillader.
+Ordensans
+KRAFT TIL LEVNED | AUTO
+Med ordensans får den disciplinære +1 levned for hver forbedring i kraft, karakteren har, det vil sige antallet af markerede lyn i evnerne. Noteres i bonusfeltet under levned.
+Overblik
+UDLØS GREJ KARAKTER | KRAFT
+Med overblik kan den disciplinære udløse effekten på et grej, både eget og andre karakteres, mod at få -1 kraft.
+
+Pli
+SUCCESRUL KARAKTER | KRAFT
+Med pli kan den disciplinære bruge 1 kraft og tage en karakter med på sit eget succesrul. Det gælder både ved fejlrul og fumlerul, dog vil fumlerul stadig ødelægge et grej.
+Rutineret
+RUL TALENT KUNDSKAB | KRAFT
+Tillader brug af samme rul til at aktivere både et talent og en kundskab i samme runde. I tilfælde af skæbnerul på dobbelt fem vælger spilleren selv hvilken af de to evner, som stiger.
+Ilter
+Den ihærdige: Den iltre står sjældent i vejen for en konflikt og kan have en tendens til at være kort for hovedet, reagere overilet eller voldsomt. Karakterens temperamentsfulde og stærke følelser viser sig ofte som en energisk, lidenskabelig eller ivrig tilgang til livet, der gerne trodser farer og opsøger udfordringer for udfordringens skyld. Den iltre kan være et besværligt selskab men en god rejsekammerat på farefulde eventyr.
+Effektiv
+RUL TO EVNER | HELBRED
+Den iltre kan bruge det samme rul til at aktivere to evner i samme runde. Ved skæbnerul på dobbelt fem vælger spilleren selv hvilken af de to evner, som stiger.
+Fyrrig
+HELBRED +1 | LIV
+Som fyrrig kan den iltre få +1 helbred mod -1 liv, én gang i hver runde. Den iltre kan ikke opnå mere helbred end helbredsloftet tillader.
+Hidsig
+TO STJERNER PRYGL | AUTO
+Som hidsig får den iltre to stjerner i prygl. Hvis ekspertisen senere byttes ud, mister karakteren de to stjerner i prygl.
+Ildhu
+HELBRED +1 | SKÆBNERUL
+Som ildhu får den iltre +1 i helbred ved skæbnerul. Den iltre kan ikke opnå højere helbred end helbredsloftet tillader.
+Impulsiv
+UDLØS EFFEKT | BRUD
+Som impulsiv kan den iltre udløse fokus, omrul eller en valgfri ekspertise, herunder grej-ekspertise, mod at få 1 brudskade. Noteres i en knogle i et aktivt grejfelt.
+Målrettet
+VALGFRI DOBBELT 5 | KRAFT
+Som målrettet kan den iltre selv bestemme hvilken evne som stiger ved dobbelt 5, mod at få -1 kraft.
+Viljestærk
+HELBREDLOFT +2 | AUTO
+Som viljestærk får den iltre +2 kraftloft. Noteres i bonusfeltet under kraft.
+Virketrang
+FORBEDRE HELBRED LEVNED | AUTO
+Med virketrang får den iltre +1 levned for hver forbedring i helbred, karakteren har, det vil sige antallet af markerede hjerter i evnerne. Noteres i bonusfeltet under levned.
+Letsindig
+Den ubekymrede: En person, der tager tingene let og ubekymret og som ofte handler uforsigtig eller skødesløs. Den letsindige ser ofte positiv på det meste og opfører sig ofte flirtende overfor andre. Det er ikke mod eller dristighed, der driver den letsindige, men en flyvsk tankegang, der får personen til at glemme faren omkring sig og kan have svært ved at se sit eget ansvar for egne handlinger. 
+Efterabe
+EFTERLIGN RUL | LIV
+Benytter en anden karakters rul i samme evne, som var det karakterens eget rul. Efterligningen giver ikke effekten af hverken fumlerul, skæbnerul eller sjælerul.
+Heldig
+OMRUL ÉN TERNING | LIV
+Som heldig kan den letsindige omrulle én enkelt terning efter eget valg, mod at miste 1 psyke.
+Kaotisk
+OMRUL ALLE | KRAFT
+Den letsindige skaber et kaos og giver et omrul til alle karakterer, der ikke opnår graden.
+Sjakre
+HALV UDGIFT KØB | AUTO
+At charme og flirte giver mulighed til at købe grej fra det åbne marked til den halve pris. Grejet har stadig almindelig udgift i privaten.
+Selvtillid
+TALENTER +1 | AUTO
+Med selvtillid stoler den letsindige på sig selv og får +1 til alle talenter. Noteres i bonusfeltet til højre for alle talenter.
+Overmod
+LIV +1 | PSYKE
+Med overmod kan den letsindige få +1 liv mod at få -1 psyke. Den letsindige kan ikke opnå højere liv end livloftet tillader.
+Vedholden
+FORBEDRING LIV LEVNED | AUTO
+Som vedholden får den letsindige +1 levned for hver forbedring i liv, karakteren har, det vil sige antallet af markerede bloddråber i evnerne. Noteres i bonusfeltet under levned.
+Uforsigtig
+UNDGÅ GREJBRUD | LIV
+Som uforsigtig kan den letsindige forhindre grejbrud ved at beskytte det med sin egen krop og miste 1 liv.
+Praktisk
+Den forberedte: En person, der har sans for det praktiske, som fokuserer på det mest hensigtsmæssige i en konkret situation og på løsningen af konkrete problemer. Den praktiske har ofte et godt håndelag og intuitiv forståelse for fysiske principper og matematik. Personen går systematisk til værks og forstår at benytte forhåndenværende ting som redskaber til at løse udfordringer.
+Bivuak
+HVILE KARAKTER | UDBYTTE
+Med bivuak kan den praktiske bygge én soveplads til én karakter, for hver udbytte der bruges.
+Feltpak
+FARMPAK +4 | AUTO
+En specialiseret viden om pakning af skøbelige farmakaprodukter gør at den praktiske kan bære +4 farmaka. Noteres i Farmpak under farmaka.
+Førstehjælp
+LIV +1 KARAKTER | UDBYTTE
+Med den rette sårbehandling og forbinding bruger dem praktisk 1 udbytte men giver en karakter +1 liv. Kan ikke give mere liv en livloftet tillader.
+Genbrug
+GREJ TIL UDBYTTE | AUTO
+Grej, som går i stykker ved fumlerul samt grej, der ikke betales for i privaten bliver automatisk til 1 udbytte. Karakteren kan også omdanne et grej til 1 udbytte.
+Hjælpegrej
+RUL +3 KARAKTERER | UDBYTTE
+Hjælper flere karaktere i samme runde. For hvert brugt udbytte gives én karakter +3 til et rul. Hjælpegrej kan ikke give mere end +3 til den samme karakter i samme runde.
+Pakkemester
+GREJ 2 TASKER | AUTO
+Som pakkemester kan den praktiske bære to ekstra grej, dog ikke flere end 8. Noteres i to tasker under grej.
+Reparation
+FUMLE REPARATION | UDBYTTE
+Med reparation kan den praktiske forhindre en karakters grej går i stykker ved fumlerul mod -1 udbytte.
+Samler
+GREJ TIL LEVNED | AUTO
+Som samler får den praktiske +1 levned for hver forbedring i grej, karakteren har, det vil sige antallet af markerede tasker i evnerne. Noteres i bonusfeltet under levned.
+Rebelsk
+Den utilpassede: Den rebelske ser sig selv som en modsætning til det etablerede samfund og lever i et oprør mod almindelige normer og moral. Personen mistror de fleste autoriteter og handler ofte uregerligt ud fra sin egen moral og sine egne love. Det modsætningsfyldte verdenssyn gør ofte den rebelske til en kampklar overlever, der tilbringer tilværelsen på kanten af samfundet.
+Afledning
+2 REAKTIONER KARAKTER | AUTO
+En afledningsmanøvre, der giver en karakter to reaktioner i samme runde.
+Beskidte kneb
+SKADE FEJLRUL ALLE | KRAFT
+Vender en dårlig kampsituation til en fordel og modstanderen får 1 skade for hver karakter, som opnår fejlrul med kamprul, mod at den rebelske får -1 kraft.
+Sortbørs
+SORTE MARKED | AUTO
+Med sortbørs får den rebelske adgang til det sorte marked. Noteres i de to stjerne ved det sorte marked under karakter.
+Gadetrick
+INDTÆGT SANSE | PRIVAT
+Den rebelske lever billigere ved at finde ting og på den måde opnå en ekstra indtægt svarende til den rebelskes sanse. Noteres i feltet indtægt under penge.
+Hærdet
+KRAFT +1 | LIV
+Som hærdet kan den rebalske få +1 kraft mod -1 liv. Den rebelske kan ikke opnå mere kraft end kraftloftet tillader.
+Klop
+SLÅ UD | KRAFT
+Et vellykket snilderul, kan slå en modstander ud mod -1 kraft. Kan benyttes i situationer hvor det er muligt at snige sin ind på modstanderen og kan ikke benyttes i kamp.
+Opmærksom
+OMRUL SANSE KARAKTER | AUTO
+Den opmærksomme er sensitiv og giver automatisk en karakter et omrul ved fejlrul med sanse. Noteres i omrulfeltet under sanse.
+Plyndre
+DOBBELT UDBYTTE | AUTO
+Med erfaring i at plyndre finder den rebelske altid det dobbelt udbytte, hvad enten det findes, stjæles eller plyndres fra besejrede modstandere.
+Religiøs
+Den søgende: Den religiøse er en gudsfrygtig person, der tror på en gud som forklaring på tilværelsens grundlæggende spørgsmål. Personen er ofte tilhørende en trosretning, hvor hellige tekster, giver retningslinjer for, hvordan tilværelsen bør leves, hvordan personen skal handle og i det hele taget sætter retningslinjerne for den moralske korrekthed og den åndelige frelse.
+Almisse
+PSYKE TIL LEVNED | AUTO
+Med almisse får den religiøse +1 levned for hver forbedring i psyke, karakteren har, det vil sige antallet af markerede diamanter i evnerne. Noteres i bonusfeltet under levned.
+Brandtale
+KRAFT +1 KARAKTER | PSYKE
+Brandtalen styrker en karakters tro på offeviljen og giver vedkommende +1 kraft mod at den religiøse får -1 psyke. Karakteren kan ikke opnå mere kraft end kraftloftet tillader.
+Fanatisk
+KAMPRUL SUCCESRUL | PSYKE
+Ved fejlrul med kamprul omdannes fejlrullet til et succesrul mod -1 psyke. Dermed skader den religiøse modstanderen og undgår selv skade. Virker ikke ved fumlerul.
+Flaggelant
+PSYKE +1 | LIV
+Som flaggelant, påfører den religiøse sig selv skade får dermed +1 psyke mod -1 liv én gang i runden. Den religiøse kan ikke opnå mere psyke end psykeloftet tillader.
+Formaning
+PSYKE +1 KARAKTER | PSYKE
+En kraftfuld tale styrker en karakters mentale tilstand og giver +1 psyke mod at den religiøse får -1 psyke. Karakteren kan ikke opnå mere psyke end psykeloftet tillader.
+Gerning
+SEKS EVNER +1 | AUTO
+Giver den religiøse +1 til 6 valgfrie evner. Evnerne besluttes samtidig med ekspertisen vælges og noteres i bonusboksen til højre for hver valgt evne.
+Moral
+FOKUS PSYKE ALLE | PSYKE
+Med moral kan alle karakterer udløse fokus med psyke mod at den religiøse får -1 psyke.
+Trofast
+PSYKE +1 | SKÆBNERUL
+Som trofast kan den religiøse hente mental styrke gennem sin tro og få +1 i psyke ved skæbnerul. Kan ikke give mere psyke end psykeloftet tillader.
+Spirituel
+Den sensitive: Den spirituelle er en åndrig person, der bygger sit verdenssyn på intuitive, bevidsthedsmæssige og åndelige erfaringer. For den spirituelle er ånderne det essientielle og praktiserer åndeseancer for at kommunikere med dem, hente hjælp og indsigt i den åndelige åbenbaring. Ånderverdenens mangfoldighed giver ofte den spirituelle et åbent sind og stor tolerance.
+Aura
+PANSER 5 | AUTO
+Danner en åndeaura omkring den spirituelle, der blokerer angreb ved modstanderens rul på 5 eller mindre med kampgrad. Noteres under grej.
+Edder
+FARMAKA KARAKTER | GIFT
+Med edder kan den spirituelle give effekten af en valgfri farmaka til en karakter, mod at karakteren får -1 gift. Noteres i en valgfri kanyle under farmaka.
+Hjælpeånd
+GRAD -2 | PSYKE
+Med hjælpeånd trækkes to point fra enhver grad, både evnergrad og kampgrad.
+Indviet
+OKKULTE MARKED | AUTO
+Som indviet får spiritisten adgang til det sorte marked. Noteres ved at markere de to stjerner i Det okkulte marked under karakter.
+Overtro
+OMRUL OKKULT KARAKTER | AUTO
+Med overtro giver den spirituelle automatisk en karakter omrul ved fejlrul med okkultisme. Noteres i omrulfeltet under den valgte kundskab.
+Skæbnebyt
+BYT TERNINGERUL | PSYKE
+Med skæbnebyt kan to karakterer bytte terningerul. Karaktererne skal gøre det frivilligt og alle konsekvenser af rullene; skæbnerul og fumlerul, følger med i byttehandlen.
+Åndegrej
+GREJEFFEKT KARAKTER | AUTO
+Med Åndegrej kan den spirituelle udløse sine grej-ekseprtise til andre karakterer, istedet for til sig selv.
+Åndemedie
+INDTÆGT OKKULTISME | PRIVAT
+Søger hjælp hos ånderne til forøger sin indtægt svarende til den spirituelles okkultisme. Noteres i feltet indtægt under penge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*************************
+
+
+
+Beleven
+Den stilfulde
+Den belevne er en høflig og taktfuld person, dannet, galant og opmærksom på andres behov. Personen går op i sit ydre, klæder sig passende eller måske ligefrem overdådigt, ynder at tilegne sig en bred viden og forstår at konversere både privat og i selskab. Den belevne er almindeligvis en behagelig og underholdende person.
+
+Almen viden
+KUNDSKABER +1 | AUTO
+En bred viden om kundskaberne, der giver den praktiske +1 til alle kundskaber. Noteres i bonusfeltet under kundskaberne.
+
+Alsidig
+TO STJERNER | AUTO
+Som alsidig får karakteren to stjerner, der kan placeres valgfrit i prygl, ekspertiser, de ulovlige markeder, speciale, levned eller fokus.
+
+Hjælpsom
+FOKUS KARAKTER | AUTO
+Den hjælpsomme kan give bonusen fra egen fokus til en anden karakter, istedet for at få bonussen selv.
+
+Energisk
+LIV +1 | KRAFT
+Som energisk kan den belevne få +1 liv mod at få -1 kraft én gang i runden. Den belevne kan ikke opnå mere liv end livloftet tillader. Noteres i omrulfeltet under det valgte talent.
+
+Inspiration
+KUNDSKAB TIL KUNDSKAB ALLE | PRIVAT
+Med indspiration kan alle karakterer flytte et valgfrit point fra én kundskab til en anden kundskab i privaten. Der kan ikke flyttes point fra kundskaber, der bliver mindre end antallet af valgte forbedringer kræver.
+
+Kulturel
+INDTÆGT KULTUR | PRIVAT 
+Som kulturel forstår den belevne de lokale kulturer og kan på den måde forøge sin indtægt svarende til den belevnes kultur. Noteres som indtægt i feltet med udråbstegnet under levned.
+
+Parade
+FORSVAR MODEFFEKT | AUTO
+Forhindrer den belevne i at blive ramt af kampgrad ved et vellykket modeffektrul.
+
+Smørtunge
+SALG UDBYTTE 4 | AUTO
+Med smørtunge kan den belevne sælge alle karakteres udbytte for 4 penge stykket.
+
+
+
+Disciplinær
+Den beslutsomme
+En person, der er fokuseret på ære, orden og disciplin. Den disciplinære har orden i sine ting, er ordentlig klædt og overholder sine aftaler til punkt og prikke. Det er en beslutsom person, også når det gælder de svære valg og handler loyalt ud fra sine valg, uden tøven. Den disciplinære er eftertænksom og velovervejet, handler sjældent overilet, men står gerne op for sine principper og venner. I det hele taget er loyalitet overfor egne principper og venner en afgørende æressag for den disciplinære.
+
+Dedikeret
+OMRUL BESTEMT EVNE | AUTO
+Giver automatisk omrul i en valgfri evne. Når først evnen er valgt, er det fremover denne evne, der har omrul. Hvis ekspertisen senere fravælges i privaten og vælges igen, kan den disciplinære vælge en ny evne med omrul.
+
+Disciplin
+TALENT TIL KUNDSKAB ALLE | PRIVAT
+Med opmuntring kan alle karakterer flytte et valgfrit point fra én evne til en anden. Der kan ikke flyttes point fra evner, der bliver mindre end antallet af valgte forbedringer kræver.
+
+Kommando
+SKADE SUCCESRUL ALLE | KRAFT
+Angrebskommando, der giver modstanderen +1 skade for hvert vellykket kamprul.
+
+Kraftfuld
+KRAFT +1 | SKÆBNERUL
+Som kraftfuld får den disciplinære +1 i kraft ved skæbnerul. Den disciplinære kan ikke opnå mere kraft end kraftloftet tillader.
+
+Ordensans
+FORBEDRING KRAFT LEVNED | AUTO
+Med ordensans får den disciplinære +1 levned for hver forbedring i kraft, karakteren har, det vil sige antallet af markerede lyn i evnerne. Noteres i bonusfeltet under levned.
+
+Overblik
+UDLØS GREJEFFEKT KARAKTER | KRAFT
+Med overblik kan den disciplinære udløse effekten på et grej, både eget og andre karakteres, mod at få -1 kraft.
+
+Pli
+SUCCESRUL TIL KARAKTER | KRAFT
+Med pli kan den disciplinære bruge 1 kraft og tage en karakter med på sit eget succesrul. Det gælder både ved fejlrul og fumlerul, dog vil fumlerul stadig ødelægge et grej.
+
+Rutineret
+RUL TALENT KUNDSKAB | KRAFT
+Som rutineret kan den disciplinære bruge det samme rul til at aktivere både et talent og en kundskab i samme runde. I tilfælde af skæbnerul på dobbelt fem vælger spilleren selv hvilken af de to evner, som stiger.
+
+
+Ilter
+Den ihærdige
+Den iltre står sjældent i vejen for en konflikt og kan have en tendens til at være kort for hovedet, reagere overilet eller voldsomt. Karakterens temperamentsfulde og stærke følelser viser sig ofte som en energisk, lidenskabelig eller ivrig tilgang til livet, der gerne trodser farer og opsøger udfordringer for udfordringens skyld. Den iltre kan være et besværligt selskab men en god rejsekammerat på farefulde eventyr.
+
+Effektiv
+RUL TO EVNER | HELBRED
+Som effektiv kan den iltre bruge det samme rul til at aktivere to evner i samme runde. I tilfælde af skæbnerul på dobbelt fem vælger spilleren selv hvilken af de to evner, som stiger.
+
+Fyrrig
+HELBRED +1 | LIV
+Som fyrrig kan den iltre få +1 helbred mod -1 liv, én gang i hver runde. Den iltre kan ikke opnå mere helbred end helbredsloftet tillader.
+
+Hidsig
+TO STJERNER PRYGL | AUTO
+Som hidsig får den iltre to stjerner i prygl. Hvis ekspertisen senere byttes ud, mister karakteren de to stjerner i prygl.
+
+Ildhu
+HELBRED +1 | SKÆBNERUL
+Som ildhu får den iltre +1 i helbred ved skæbnerul. Den iltre kan ikke opnå højere helbred end helbredsloftet tillader.
+
+Impulsiv
+UDLØS EFFEKT | BRUD
+Som impulsiv kan den iltre udløse fokus, omrul eller en valgfri ekspertise, herunder grej-ekspertise, mod at få 1 brudskade. Noteres i en knogle i et aktivt grejfelt.
+
+Målrettet
+VALGFRI DOBBELT 5 | KRAFT
+Som målrettet kan den iltre selv bestemme hvilken evne som stiger ved dobbelt 5, mod at få -1 kraft.
+
+Viljestærk
+HELBREDLOFT +2 | AUTO
+Som viljestærk får den iltre +2 kraftloft. Noteres i bonusfeltet under kraft.
+
+Virketrang
+FORBEDRING HELBRED LEVNED | AUTO
+Med virktrnag får den iltre +1 levned for hver forbedring i helbred, karakteren har, det vil sige antallet af markerede hjerter i evnerne. Noteres i bonusfeltet under levned.
+
+
+
+Letsindig
+Den ubekymrede
+En person, der tager tingene let og ubekymret og som ofte handler uforsigtig eller skødesløs. Den letsindige ser ofte positiv på det meste og opfører sig ofte flirtende overfor andre. Det er ikke mod eller dristighed, der driver den letsindige, men en flyvsk tankegang, der får personen til at glemme faren omkring sig og kan have svært ved at se sit eget ansvar for egne handlinger. 
+
+Efterabe
+EFTERLIGN RUL | LIV
+Ved at efterabe en anden karakter, kan den letsindige benytte en anden karakters rul i samme evne, som var det karakterens eget rul. Handlingen er kun en efterligning og derfor får den letsindige ikke effekten af hverken fumlerul, skæbnerul eller sjælerul.
+
+Heldig
+OMRUL ÉN TERNING | LIV
+Som heldig kan den letsindige omrulle én enkelt terning efter eget valg, mod at miste 1 psyke.
+
+Kaotisk
+OMRUL ALLE | KRAFT
+Den letsindige skaber et kaos og giver et omrul til alle karakterer, der ikke opnår graden.
+
+Sjakre
+HALV UDGIFT KØB | AUTO
+Evnen til at forhandle sig med charme og flirten giver den letsindige lov til at købe grej fra det åbne marked til den halve pris. Grejet har stadig den normale udgift i privaten. Den letsindige kan også købe til andre karakterer.
+
+Selvtillid
+TALENTER +1 | AUTO
+Med selvtillid stoler den letsindige på sig selv og får +1 til alle talenter. Noteres i bonusfeltet til højre for alle talenter.
+
+Overmod
+LIV +1 | PSYKE
+Med overmod kan den letsindige få +1 liv mod at få -1 psyke. Den letsindige kan ikke opnå højere liv end livloftet tillader.
+
+Vedholden
+FORBEDRING LIV LEVNED | AUTO
+Som vedholden får den letsindige +1 levned for hver forbedring i liv, karakteren har, det vil sige antallet af markerede bloddråber i evnerne. Noteres i bonusfeltet under levned.
+
+Uforsigtig
+UNDGÅ GREJBRUD | LIV
+Som uforsigtig kan den letsindige forhindre grejbrud ved at beskytte det med sin egen krop og miste 1 liv.
+
+
+Praktisk
+Den forberedte
+En person, der har sans for det praktiske, som fokuserer på det mest hensigtsmæssige i en konkret situation og på løsningen af konkrete problemer. Den praktiske har ofte et godt håndelag og intuitiv forståelse for fysiske principper og matematik. Personen går systematisk til værks og forstår at benytte forhåndenværende ting som redskaber til at løse udfordringer.
+
+Bivuak
+HVILE KARAKTER | UDBYTTE
+Med bivuak kan den praktiske bygge én soveplads til én karakter, for hver udbytte der bruges.
+
+Feltpak
+FARMPAK +4 | AUTO
+En specialiseret viden om pakning af skøbelige farmakaprodukter gør at den praktiske kan bære +4 farmaka. Noteres i Farmpak under farmaka.
+
+Førstehjælp
+LIV +1 KARAKTER | UDBYTTE
+Med den rette sårbehandling og forbinding bruger dem praktisk 1 udbytte men giver en karakter +1 liv. Kan ikke give mere liv en livloftet tillader.
+
+Genbrug
+GREJ TIL UDBYTTE | AUTO
+Grej, som går i stykker ved fumlerul samt grej, der ikke betales for i privaten bliver automatisk til 1 udbytte. Karakteren kan også omdanne et grej til 1 udbytte.
+
+Hjælpegrej
+RUL +3 KARAKTERER | UDBYTTE
+Den praktiske kan hjælpe flere karaktere i samme runde med hjælpegrej. For hver udbytte den praktisk bruger på hjælpegrej får én karakter +3 til et rul. Hjælpegrej kan ikke give mere end +3 til den samme karakter i samme runde.
+
+Pakkemester
+GREJ 2 TASKER | AUTO
+Som pakkemester kan den praktiske bære to ekstra grej, dog ikke flere end 8. Noteres i to tasker under grej.
+
+Reparation
+FUMLERUL REPARATION | UDBYTTE
+Med reparation kan den praktiske forhindre en karakters grej går i stykker ved fumlerul mod -1 udbytte.
+
+Samler
+FORBEDRING GREJ LEVNED | AUTO
+Som samler får den praktiske +1 levned for hver forbedring i grej, karakteren har, det vil sige antallet af markerede tasker i evnerne. Noteres i bonusfeltet under levned.
+
+
+Rebelsk
+Den utilpassede
+Den rebelske ser sig selv som en modsætning til det etablerede samfund og lever i et oprør mod almindelige normer og moral. Personen mistror alle autoriteter og handler ofte uregerligt ud fra sin egen moral og sine egne love. Det modsætningsfyldte verdenssyn gør ofte den rebelske til en kampklar overlever, der tilbringer tilværelsen på kanten af samfundet.
+
+Afledning
+TO REAKTIONER KARAKTER | AUTO
+En afledningsmanøvre, der giver en karakter to reaktioner i samme runde.
+
+Beskidte kneb
+SKADE FEJLRUL ALLE | KRAFT
+Vender en dårlig kampsituation til en fordel og modstanderen får 1 skade for hver karakter, som opnår fejlrul med kamprul, mod at den rebelske får -1 kraft.
+
+Sortbørs
+TO STJERNER SORTE MARKED | AUTO
+Med sortbørs får den rebelske adgang til det sorte marked. Noteres i de to stjerne ved det srote marked under karakter.
+
+Gadetrick
+INDTÆGT SANSE | PRIVAT
+Med gadetrick kan den rebelske leve billigere ved at finde ting til vedligeholdelse, salg eller forbrug. På den måde opnås en ekstra indtægt svarende til den rebelskes sanse. Noteres i feltet indtægt under penge.
+
+Hærdet
+KRAFT +1 | LIV
+Som hærdet kan den rebalske få +1 kraft mod -1 liv. Den rebelske kan ikke opnå mere kraft end kraftloftet tillader.
+
+Klop
+SLÅ UD | KRAFT
+Ved at snige sig ind på en modstander med et vellykket behændigrul, kan karakteren slå modstanderen ud mod -1 kraft. Kan benyttes i situationer hvor det er muligt at snige sin ind på modstanderen og kan ikke benyttes i kamp.
+
+Opmærksom
+OMRUL SANSE KARAKTER | AUTO
+Den opmærksomme er sensitiv og giver automatisk en karakter et omrul ved fejlrul med sanse. Noteres i omrulfeltet under sanse.
+
+Plyndre
+DOBBELT UDBYTTE | AUTO
+Med erfaring i at plyndre finder den rebelske altid det dobbelt udbytte, hvad enten det findes, stjæles eller plyndres fra besejrede modstandere.
+
+
+Religiøs
+Den søgende
+Den religiøse er en gudsfrygtig person, der tror på en gud som forklaring på tilværelsens grundlæggende spørgsmål. Personen er ofte tilhørende en trosretning, hvor hellige tekster, giver retningslinjer for, hvordan tilværelsen bør leves, hvordan personen skal handle og i det hele taget sætter retningslinjerne for den moralske korrekthed og den åndelige frelse.
+
+Almisse
+FORBEDRING PSYKE LEVNED | AUTO
+Med almisse får den religiøse +1 levned for hver forbedring i psyke, karakteren har, det vil sige antallet af markerede diamanter i evnerne. Noteres i bonusfeltet under levned.
+
+Brandtale
+KRAFT +1 KARAKTER | PSYKE
+Brandtalen styrker en karakters tro på offeviljen og giver vedkommende +1 kraft mod at den religiøse får -1 psyke. Karakteren kan ikke opnå mere kraft end kraftloftet tillader.
+
+Fanatisk
+KAMPRUL SUCCESRUL | PSYKE
+Ved fejlrul med kamprul kan den fanatiske omdanne fejlrullet til et succesrul mod -1 psyke. Dermed rammer den religiøse modstanderen og undgår selv at få skade ved kamprul. Virker ikke ved fumlerul.
+
+Flaggelant
+PSYKE +1 | LIV
+Som flaggelant, påfører den religiøse sig selv skade får dermed +1 psyke mod -1 liv én gang i runden. Den religiøse kan ikke opnå mere psyke end psykeloftet tillader.
+
+Formaning
+PSYKE +1 KARAKTER | PSYKE
+En kraftfuld og formandende tale styrker en karakters mentale tilstand og giver +1 psyke mod at den religiøse får -1 psyke. Karakteren kan ikke opnå mere psyke end psykeloftet tillader.
+
+Gerning
+SEKS EVNER +1 | AUTO
+Med gerning udvælges de evner, som den religiøse særligt benytter sig af og får automatisk +1 i seks valgfri evnerul. Evnerne besluttes samtidig med ekspertisen vælges og noteres i bonusboksen til højre for hver valgt evne.
+
+Moral
+FOKUS PSYKE ALLE | PSYKE
+Med moral kan alle karakterer udløse fokus med psyke mod at den religiøse får -1 psyke.
+
+Trofast
+PSYKE +1 | SKÆBNERUL
+Som trofast kan den religiøse hente mental styrke gennem sin tro og få +1 i psyke ved skæbnerul. Kan ikke give mere psyke end psykeloftet tillader.
+
+
+Spirituel
+Den sensitive
+Den spirituelle er en åndrig person, der bygger sit verdenssyn på intuitive, bevidsthedsmæssige og åndelige erfaringer. For den spirituelle er ånderne det essientielle og praktiserer åndeseancer for at kommunikere med dem, hente hjælp og indsigt i den åndelige åbenbaring. Ånderverdenens mangfoldighed giver ofte den spirituelle et åbent sind og stor tolerance.
+
+Aura
+PANSER 5 | AUTO
+Danner en åndeaura omkring den spirituelle, der blokerer angreb ved modstanderens rul på 5 eller mindre med kampgrad. Noteres under grej.
+
+Edder
+FARMAKA EFFEKT KARAKTER | GIFT
+Med edder kan den spirituelle give effekten af en valgfri farmaka til en karakter, mod at karakteren får -1 gift. Noteres i en valgfri kanyle under farmaka.
+
+Hjælpeånd
+GRAD -2 | PSYKE
+Med hjælpeånd trækkes to point fra enhver grad, både evnergrad og kampgrad.
+
+Indviet
+TO STJERNER OKKULTE MARKED | AUTO
+Som indviet får spiritisten adgang til det sorte marked. Noteres ved at markere de to stjerner i Det okkulte marked under karakter.
+
+Overtro
+OMRUL OKKULTISME KARAKTER | AUTO
+Med overtro giver den spirituelle automatisk en karakter omrul ved fejlrul med okkultisme. Noteres i omrulfeltet under den valgte kundskab.
+
+Skæbnebyt
+BYT TERNINGERUL | PSYKE
+Med skæbnebyt kan to karakterer bytte terningerul. Karaktererne skal gøre det frivilligt og alle konsekvenser af rullene; skæbnerul og fumlerul, følger med i byttehandlen.
+
+Åndegrej
+GREJEFFEKT KARAKTER | AUTO
+Med Åndegrej kan den spirituelle udløse sine grej-ekseprtise til andre karakterer, istedet for til sig selv.
+
+Åndemedie
+INDTÆGT OKKULTISME | PRIVAT
+Som åndemedie hjælper spiritisten andre ved at rådgive dem gennem sin evne til at tale med ånderne og forøger sin indtægt svarende til den spirituelles okkultisme. Noteres i feltet indtægt under penge.
+
+
+
+
+
+
+
+
+
+
+

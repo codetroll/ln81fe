@@ -1,0 +1,83 @@
+Det sorte marked
+Ulovlige hælervarer
+
+For at få adgang til Det sorte marked skal karakteren have to stjerner i Det sorte marked symboliseret af et forbudt-symbol, nederst under ekspertiserne. Dermed kan karakteren købe grej fra Det sorte marked, som findes i de fleste byer. Al grej på Det sorte marked er ulovligt og giver en bødestraf svarende til ti gange udgift eller pris.
+
+Blitz ¤10
+FLUGT ALLE | FORBRUG
+Udløser et voldsomt lysglimt, der blænder modstanderen og tillader alle karakterer at flygte fra kamp, efter kamprunden er afsluttet.
+
+Gitylstang ¤5
+SKADE 6 | FORBRUG
+En eksplosiv stang af hærdet gitin, der kan antændes med lunte eller elektrisk anordning. Gitylstænger er ikke anvendelige i kamp, men kan bruges til at sprænge barrikerede åbninger, pengeskabe, udvide minegange eller til at lave fælder med. Ved sprængning gives en skade svarende til 6 gange antallet af gitylstænger.
+
+Hvisker !15
+KAMP MED SNILDE | KRAFT
+En smal og simpelt konstrueret pistol med den unikke lyddæmper fra Konsortiets våbenfabrikker. En hvisker tillader karakteren at bruge -1 kraft på at kæmpe med snilderul, selvom modstanderen ruller kampstil. Pistolen er tilmed lydløs at skyde med og kan derfor benyttes uden afslørende larm.
+
+Natbriller !5
+En manateknisk enhed, der bæres som tætsluttende briller, der gør det muligt for karakteren at se i mørke, som var det dagslys.
+
+Panserdragt !15
+PANSER 5 | AUTO
+En kampdragt af selen med indflettede manateknologiske moduler. Kampdragten sidder tæt på kroppen og dækker alt undtaget fødder hænder og hoved. Panserdragten giver panser 5, der betyder at karakteren ikke rammes af kampgrad med et rul på 5 eller mindre. Panserdragten kan benyttes sammen med brynjer og hjelme.
+
+Støder ¤10
+SLÅ UD | KRAFT
+Et lille slagredskab med udløser til at give offeret et kraftigt elektronisk stød. At bruge støderen effektivt krævet at karakteren sniger sig op mår modstanderen med et vellykket snilderul og får et rent slag. Kan ikke benyttes i kamp.
+
+Udbytte ¤5
+UDBYTTE | FORBRUG
+Diverse tyvegods af værdier og let anvendelige reservedele.
+
+Volf ¤5
+SKADE 2 | FORBRUG
+Håndgranat, der giver en kraftig eksplosion med jernsplinter og blyhagl. Giver 2 skade til valgfri modstander.
+
+Zoom !5
+TO EVNER | HELBRED
+Et narkotisk stof, som giver et rus af ekstra energi til kroppen og gør det muligt for karakteren at bruge sit evnerul eller kamprul til to forskellige evner i samme runde.
+
+Æter ¤5
+SLÅ UD | FORBRUG
+En kemisk væske, farveløs med sødlig lugt, der giver gør en modstander bevidstløs. Det kan kræve et vellykket evnerul, hvis offeret gør modstand. Kan ikke benyttes i kamp.
+
+Kybertek !5
+BESTEMT TALENT +2 | AUTO
+Kybertek er et manateknisk modul, der monteres på kroppen og kan bæres diskret. En kybertek giver karakteren +2 til et bestemt talent, alt efter hvilken kyvertek karakteren køber; lungeapplikatoren til fysik, duftprocessoren til karisma, okkularskopet til sanse, mentalkalibratoren til sind, elektropulsen til snilde og muskeltek til styrke.
+
+Manatek !5
+BESTEMT KUNDSKAB +2 | AUTO
+Manatek er et manateknisk modul, der monteres på kroppen og kan bæres diskret. En manatek giver karakteren +2 til en bestemt kundskab, alt efter hvilken kyvertek karakteren køber; biotron til bioalkymi, geopulatoren til feltkundskab, Lingvinaten til kultur, mytomatrisen til mytologi, manatronen til okkultisme og teknoskopet til teknologi.
+
+Elektromek !10
+HELBREDLOFT +1 | AUTO
+En manateknisk magnetspole, der monteres med rem på kroppen. Med elektromekken afværger al skade karakteren pådrages ved modstanderens kampgrad mod -1 liv. Afværger ikke skade fra effekter. 
+
+Shoker !10
+KRAFTLOFT +1 | AUTO
+Et elektronisk bånd med batterikasse, der vikles om overarmen ved hjælp af kobberringe. Shokeren afværger al skade karakteren pådrages ved modstanderens kampgrad mod -1 kraft. Afværger ikke skade fra effekter.
+
+Metavisir !10
+PSYKELOFT +1 | AUTO
+En elektronisk visiranordning med batteri i visirstellet. Den er udført i messing og glas med læderstropper til påmontering. Metaviziret afværger al skade karakteren pådrages ved modstanderens kampgrad mod -1 psyke. Afværger ikke skade fra effekter.
+
+Ampulator !20
+UDLØS EKSPERTISE LIV | AUTO
+Giver karakteren mulighed for at udløse sine ekspertiser med liv, uanset hvad det den oprindeligt kræver af tilstand. Ampulatoren er et manateknisk modul, der monteres på kroppen og kan bæres diskret.
+
+Mentor !20
+UDLØS EKSPERTISE HELBRED | AUTO
+Med en mentor kan karakteren udløse ekspertiser med helbred, uanset hvad den oprindeligt kræver af tilstand. Mentoren er et manateknisk modul, der monteres på kroppen og kan bæres diskret.
+
+Stabilisator !20
+UDLØS EKSPERTISE KRAFT | AUTO
+Med dette manateknologiske model, kan karakteren udløse ekspertiser med kraft, uanset hvad den oprindeligt kræver af tilstand. Stabilisatoren monteres på kroppen og kan bæres diskret.
+
+Elektrograf !20
+UDLØS EKSPERTISE PSYKE | AUTO
+En anordning, der tillader karakteren at udløse sine ekspertiser med psyke, uanset hvad det den oprindeligt kræver af tilstand. elektrografen er et manateknisk modul, der monteres på kroppen og kan bæres diskret.
+
+Livstarter !20
+VÆKKE BESVIMET | VALGFRI TILSTAND
+Et apparat, der trækker energi fra brugeren og afgiver et kontrolleret elektrisk stød til en besvimet karakter. Med det elektriske stød sendes en strøm af viljeløse ånder, der konsumeres af kroppen og vækker den besvimede. Med livstarteren kommer alle tilstande på 0 og karakteren vågner, mod at brugeren mister 1 valgfri tilstand.

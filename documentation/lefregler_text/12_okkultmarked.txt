@@ -1,0 +1,84 @@
+Det okkulte marked
+Hekseremedier og okkult grej
+
+For at få adgang til Det okkulte marked skal karakteren have markeret stjerner i det okkulte marked under penge. Det okkulte marked findes i de største byer eller på udvalgte hemmelige steder. Al grej på Det okkulte marked er ulovligt og giver en bødestraf svarende til ti gange grejets pris eller udgift.
+
+Frostbryg ¤5
+MODSTÅ FROST KARAKTER | FORBRUG
+Med bryg af frostblomster modstår en karakter skade fra enhver form for frost og kulde i en enkelt runde.
+
+Flammebryg ¤5
+MODSTÅ ILD KARAKER | FORBRUG
+En bryg af flammeblad forhindrer en karakter i at få skade af ild i en runde. Virker ikke mod den evige ild fra dragerne.
+
+Galgebryg ¤5
+OPLØS KADAVER | FORBRUG
+En bryg af galgeurt opløser et skelet eller et kadaver, der straks falder om som besejret og opløses til støv.
+
+Heksevand ¤5
+FUMLERUL OMRUL | FORBRUG
+Vand fra en udtørret kilde, blandet med jættesved og en masse andre hemmelige sager. Heksevand afværger et fumlerul og giver karakteren et omrul.
+
+Skarntydedråber ¤10
+DØDELIG GIFT | FORBRUG
+En gift, der dræber en person på få minutter, der får dråberne i blodet eller i maven.
+
+Skyggesaft ¤5
+SNIGE SUCCESRUL | FORBRUG
+Med skyggesaft bliver et fejlrul eller fumlerul med snilde til et succesrul. En hellig nektar fremstillet af månepræsterne fra Triptagon.
+
+Helbredsbryg ¤5
+FYSIKRUL +10 | FORBRUG
+En bryg kogt på ulmesvamp, der styrker en karakters fysik med +10 til ét fysikrul.
+
+Styrkebryg ¤5
+STYRKERUL +10 | FORBRUG
+Knuprod fremmer styrkepræstationen og giver en karakter +10 til et styrkerul.
+
+Blodbryg ¤30
+HELBRED +6 | FORBRUG
+En rensende bryg fremstillet med heksekraft, som fjerner alle helbredskader fra en karakter.
+
+Kraftsaft ¤30
+KRAFT +6 | FORBRUG
+En mageløs saft fremstilles af heksekraft, der kurerer alle kraftskader fra en karakter.
+
+Livseliksir ¤30
+LIV +6 | FORBRUG
+En vital eliksir fremstillet af heksekraft, som fjerne alle livskader fra en karakter.
+
+Manaessens ¤30
+PSYKE +6 | FORBRUG
+En åndefuld essens fremstillet af heksekraft, der fjerne alle psykeskader fra en karakter.
+
+Bensalve ¤20
+KURERER BRUDSKADE | FORBRUG
+En bryg fremstillet med heksekraft, der kurerer en karakter for alle brudskader.
+
+Modgift ¤20
+KURERER GIFTSKADE | FORBRUG
+En bryg fremstillet ved heksekraft, som ved indtagelse kurerer karakteren for alle giftskader.
+
+Elementamulet ¤5
+AFVÆRG OVERNATURLIG | FORBRUG
+En mægtige amulet, der kan afværge egenskaben overnaturlig for en kamprunde.
+
+Manasegl ¤5
+AFVÆRG DÆMONISK | FORBRUG
+Et kraftfuldt symbol, ristet i sten eller kul, der kan afværge egenskaben dæmonisk for en kamprunde.
+
+Purpal ¤5
+AFVÆRG OVERLEGEN | FORBRUG
+En kraftfuld purper sten med manakraft, der kan afværge egenskaben overlegen for en kamprunde.
+
+Stjernestøv ¤5
+AFVÆRG ÅND | FORBRUG
+Sølvlignende pulver, der kastes mod ånder og afværger egenskaben ånd i en kamprunde.
+
+Svartsten ¤5
+AFVÆRG UVIRKELIG | FORBRUG
+En svartsten fastholdt i en aura af mana, der kan afværge egenskaben uvirkelig i en kamprunde.
+
+Uhelligt segl ¤5
+AFVÆRG FORBANDELSE | FORBRUG
+Et magtfuldt og uhelligt symbol ristet i et stykke jern, der kan afværge egenskaben forbandelse for en kamprunde og sende den til.

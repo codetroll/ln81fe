@@ -1,0 +1,58 @@
+Drager
+De mægtigste
+
+I de ældgamle drageruller fortælles det, at alle dragers urmoder kom fra stjernerne. Hun var drægtig og ledte efter et sted at udruge sine æg, da hun blev opsøgt af en jæger, som sårede hende. Derfor måtte hun nødlande og Urhavet blev hendes valg, hvor hun lagde syv læderæg. Af de syv drageyngel var Klisrim Orm den første. Drage kaldte alle sine børn for Orm og tillagde dem hver et navn baseret på deres mest fremstående træk. Således blev Klisrim Orm (den stolte), Kalag Orm (den vise), Katla Orm (den grådige), Kromak Orm (den vrede), Nidhug Orm (den nedrige), Vanahai Orm (den faldne) og Fafner Orm (den ustødte) udruget på Urhavet og alle deres efterkommer arvede samme træk fra forfaderen. Som de forlod deres læderæg, fløj de ud i verden, fandt føde og samlede rigdomme. Drages yngel var tvekønnede og kunne som deres mor befrugte deres egne æg, men ormenes efterkommere blev født som enten hanner eller hunner. De lagde deres æg og rugede dem ud i Hogenlandet, et bjergrigt område nord for de hvide marker, hvor nordhavets iskolde bølger bruser mod urkontinentets isklipper. På den måde opstod der fem drageslægter i hogenland, en slægt for hver af Drages børn, ikke medregnet Vanahai Orm, der døde før den fik yngel og Fafner Orm, der blev født uden vinger.
+
+Drager udvikles i stadier, der afgøres af deres indbyrdes magt, inden for samme slægt. Det var disse titler filosoffen Frank Hoff brugte til at beskrive forskellige styreformer og suveræner. Det er dragens stadie, der afgør hvor meget liv dragen har.
+
+Despot
+LIV 50
+Den flyvefærdig drage, der har forladt sin værge, for at finde et sted at slå sig ned. En selvbestaltet eneråder over egne enemærker. Den lever for at gøre sig selv mægtig i rigdom og magt og med magt underlægge sig andre despoter. At underlægge sig en anden drage vil konkret sige, at dragen tvinger en anden drage til at betale tribut hver gang den besejrede drage forøger sin rigdom. Despoter er omkring 20 meter lange.
+
+Oligark
+LIV 100
+Når en despotdrage har underlagt sig mange andre despoter af samme æt, vil de andre oligarker samle deres despoter og med magt forsøge at tvinge den nye oligark til underkastelse. Dels for at forhindre konkurrence og dels for at styrke egen magt, da det vil forøge oligarkens antal af despoter under sig. Hvis dragen overlever denne modstand, er dragen selv blevet Oligark og vil nu begynde forfra med at gøre sig mægtigere, for at underlægge sig de andre oligarker. Oligarker er omkring 50 meter lange.
+
+Tyran
+LIV 500
+Når en oligarkdrage har underlagt sig de andre oligarker af samme æt, kan den kalde sig Tyran. Hvis der er en i forvejen, skal den gamle tyran naturligvis besejres først, for der kan kun være én tyran i en æt. Tyranen er slægtens øverste magt, men da Drager ikke kender til loyalitet og derfor heller ikke har love, bliver ordrer kun fulgt på grund af frygt for den, som giver ordren. Fordi tyranen er den mægtigste, er den frygtet af alle, kun derfor bliver dens ordre efterkommet. Tyraner bliver omkring 100 meter lange, eller længere, hvis de er meget gamle.
+
+Klisrimslægten
+Den ældste af Drages børn. Klisrim betyder ”stolt” og den var troværdig og modig. Alle drager af klisrimslægten er hvide og modige. De er kendt for deres stolthed og stædighed.
+
+Mytologi 50/100/500
+Drageild (PRYGLRUL 8 | AUTO)
+Stolt (KRAFTSKADE ALLE | AUTO)
+Voldsom (KAMPGRAD RAMMER ALLE | AUTO)
+
+Kalagslægten
+Den næstældste af Drages børn. Kalag betyder ”Viis” og den var klogeste af sine brødre. Døde ved Slaget om Rinmarken. Alle drager af kalagslægten er sorte, viise og eftertænksomme. De er de mindst grådige drager hvad rigdom angår, men samler gerne på visdom, herunder skriftruller og bøger.
+Døde under slaget om Rinmarken
+
+Mytologi 50/100/500
+Drageild (PRYGLRUL 8 | AUTO)
+Viis (PSYKESKADE ALLE | AUTO)
+Voldsom (KAMPGRAD RAMMER ALLE | AUTO)
+
+Katlaslægten
+Den tredie ældste af Drages børn. Katla betyder ”grådig” og var den mest griske og begærlige. Døde ved Slaget om Rinmarken. Alle drager af katlaslægten er gullige og kendt som bestikkelige og grådige.
+Mytologi 50/100/500
+Drageild (PRYGLRUL 8 | AUTO)
+Grådig (HELBREDSKADE ALLE | AUTO)
+Voldsom (KAMPGRAD RAMMER ALLE | AUTO)
+
+Kromnakslægten
+Den fjerde ældste af Drages børn. Kromnak betyder ”vrede” og var den mest kompromisløse og krigeriske drage. Alle drager af kromakslægten er røde og berygtede for deres krigeriske vrede.
+Mytologi 50/100/500
+Drageild (PRYGLRUL 8 | AUTO)
+Vrede (BRUDSKADE ALLE | AUTO)
+Voldsom (KAMPGRAD RAMMER ALLE | AUTO)
+Døde under slaget om Rinmarken.
+
+Nidhugslægten
+Den femte ældte af Drages børn. Nidhug betyder ”nedrig” og var den mest tarvelige og feje. Alle drager af nidhugslægten er grønne og nedrige. De er de mest forhandlingsvillige drager, snedige, udspekulerede og bedrageriske.
+Mytologi 50/100/500
+Drageild (PRYGLRUL 8 | AUTO)
+Nedrig (GIFTSKADE ALLE | AUTO)
+Voldsom (KAMPGRAD RAMMER ALLE | AUTO)
+Gnathore
