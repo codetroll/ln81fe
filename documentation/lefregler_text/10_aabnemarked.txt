@@ -3,15 +3,9 @@ Grej til alt
 
 Det åbne marked integrerer det moderne, det populære og det nye indenfor grej og er banebrydende på feltet. Det åbne marked den moderne livsstil og standarden, som bringer dig det mest troværdige grej på markedet fra de bedste producenter. Det åbne marked kan benyttes i alle byer, på markedspladser og handelsstationer. Og husk, al grej på det åbne marked er lovligt i fleste af Valhels stater.
 
-==ITEM==
 Beklædning
-==EFFECT==
-KARISMA OMRUL | AUTO 
-==PRICE==
-!10
-==DESCRIPTION==
+KARISMA OMRUL | AUTO !10
 Giver karakteren et omrul ved fejlrul med karisma. Uden særlig beklædning er karakteren klædt i almindeligt og billigt tøj. Med beklædning kan karakteren iklæde sig pænere tøj, modetøj, smykker og lignende. Pænt tøj omfatter alt hvad en karakter kan tage på som beklædning; fra undertøj til overtøj, sko, hat og smykker. Spilleren definerer selv stilart og design.
-==IMAGE==
 
 Bioboks
 BIOALKYMI OMRUL | AUTO !10
@@ -93,7 +87,7 @@ UNDGÅ SKADE | HELBRED
 Karakteren kan undgå en valgfri skade, der pådrages under kamp, mod at få -1 helbred. Den berømte ryttersabel fremstillet kun til Storregias Dragoner. En let buet enægget klinge af foldet stål, messingkappe og lædersnørret greb.
 
 Klondike
-En våbenfabrik under Teufelfonden, der har specialiseret sig i mekaniske våben, der affyrer projektiler med en fjedermekanisme. Våben fra Klondike kendetegnes ved deres let primitive udseende og tydelige mekanisme, samt at de kan benytte det meste som projektiler. 
+En våbenfabrik under Teufelfonden, der har specialiseret sig i mekaniske våben, der affyrer projektiler med en fjedermekanisme. Våben fra Klondike kendetegnes ved deres let primitive udseende og tydelige mekanisme, samt at de kan benytte det meste som projektiler.
 
 Muskedonner !10
 LIVSKADE | UDBYTTE
